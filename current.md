@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Os Experience League events são um excelente local para aprender, interagir e o
 O [!DNL Adobe System Status] fornece informações detalhadas, atualizações de status e notificações por email sobre eventos de interrupção e manutenção de produtos e serviços da Adobe. Confira em [status.adobe.com](https://status.adobe.com/pt-BR).
 
 ## ![Ícone](/assets/ec_appicon_24.png) Experience Cloud - componentes e administração da interface central {#ecloud}
-=======
-Data de lançamento: **16 de novembro de 2021**
-
-**Novidades**
-
-* Agora, o status da Adobe relata incidentes em um nível de produto. As páginas de status da nuvem e do produto têm uma nova aparência e filtros aprimorados com base no relatório de incidentes em nível de produto. Isso facilita a compreensão de como o produto é afetado em [status.adobe.com](https://status.adobe.com/) e nas suas notificações por email. Se você não tiver assinado, use este link para configurar suas preferências de assinatura personalizadas: [https://status.adobe.com/pt/proactive-notifications/manage](https://status.adobe.com/pt/proactive-notifications/manage).
-
-* Agora, a página inicial de status está personalizada com eventos filtrados com base em suas autorizações e assinaturas de produto. Verifique em **status.adobe.com** > na guia **[!UICONTROL Meus eventos]**.
 
 Experience Cloud [componentes da interface do usuário central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=pt-BR) incluir recursos disponíveis na página inicial e no cabeçalho persistente do produto. Esses recursos incluem configurações de perfil do usuário, preferências e pesquisa. Você também pode encontrar ajuda para o gerenciamento de usuários e produtos, atributos do cliente e públicos-alvo do Experience Cloud.
 
