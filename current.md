@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: deda4aee7483e0ea77a31f1e71016306fbb17473
+source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
 workflow-type: tm+mt
 source-wordcount: '5786'
 ht-degree: 50%
@@ -55,7 +55,7 @@ Precisa de ajuda? Visite a [Adobe Experience League](https://experienceleague.ad
 Os Experience League events são um excelente local para aprender, interagir e obter respostas de especialistas em produtos no Adobe!
 
 | Evento | Tipo | Descrição |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=pt-BR) | Vídeo ao vivo e sob demanda | Um streaming ao vivo produzido pela equipe de Experience League. É uma chance de se conectar com especialistas em produtos da Adobe. Aprenda dicas, truques e estratégias úteis que podem ser usadas com os aplicativos da Adobe Experience Cloud.<br> [Detalhes e eventos anteriores](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Webinário do Adobe Live | Bootstrap e implante rapidamente aplicativos de página única (SPA) usando o Adobe [!UICONTROL App Builder] fluxos de trabalho e ferramentas sem habilidades Experience Manager tradicionais, como Java™ e Sling, sendo necessário. Com o Experience Manager Headless, os profissionais de marketing e desenvolvedores podem ter a experiência em seu próprio domínio — os desenvolvedores controlam a estrutura geral do aplicativo, o estilo e o roteamento, enquanto os profissionais de marketing determinam o conteúdo e como ele é exibido.<br>**Data:** Quarta-feira, 23 de março - [Detalhes e registro](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Contagem de histórias impactantes com dados](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Webinário do Adobe Live | A narrativa de dados é bem feita quando é um equilíbrio entre arte e ciência. Então, por que fazer engenharia excessiva? O campeão do Adobe Analytics, Amy Ard, discute três partes com o objetivo de orientar sua narrativa de dados sem diminuir a criatividade:<ul><li>Identificando a oportunidade ou o problema</li><li>Explicação por meio de dados</li><li>Oferecer uma solução</li></ul>**Data:** quinta-feira, 31 de março - [Detalhes e registro](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
