@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5696'
 ht-degree: 49%
@@ -25,7 +25,7 @@ Está pronto para começar? [Conclua esse teste de 5 minutos](https://exploreado
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **18 de março de 2022**
+Última atualização: **21 de março de 2022**
 
 * [[!DNL Experience League] eventos](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -104,7 +104,7 @@ Novos vídeos, tutoriais ou cursos publicados para a Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 | Março de 2022 | [Tutorial Implementar o Adobe Experience Cloud em aplicativos móveis](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Curso | Saiba como implementar aplicativos Adobe Experience Cloud em seu aplicativo móvel usando o Adobe Experience Platform Mobile SDK. |
 | Março de 2022 | [Gerar IDs de dispositivo primário](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | Vídeo | Saiba mais sobre a geração de IDs de dispositivos primários e como elas funcionam. |
-| Março de 2022 | [Configurar datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Saiba como criar e configurar conjuntos de dados para implementações de SDK da Web e móvel. |
+| Março de 2022 | [Configurar datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | Vídeo | Saiba como criar e configurar conjuntos de dados para implementações de SDK da Web e do Mobile. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -340,7 +340,7 @@ Nova documentação e tutoriais do Adobe Commerce no Experience League.
 
 ## ![Ícone](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Última atualização: **1 de fevereiro de 2022**
+Última atualização: **21 de março de 2022**
 
 * Para obter informações de pré-lançamento, consulte [Pré-lançamento do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=pt-BR)
 * Para obter informações atuais, consulte [Notas de versão do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=pt-BR)
