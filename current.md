@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
+source-git-commit: fe574c18fe36112968b6e58ddb8103239eed9632
 workflow-type: tm+mt
 source-wordcount: '5696'
-ht-degree: 49%
+ht-degree: 51%
 
 ---
 
@@ -134,7 +134,7 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Analytics.
 | Março de 2022 | [Dicas e truques sobre como simplificar e gastar menos tempo treinando usuários](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en) | Vídeo e artigo | Saiba mais sobre a importância que uma organização bem treinada da Adobe Analytics pode ter para o sucesso em sua empresa. |
 | Março de 2022 | [Criação de uma comunidade fortalecida](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/empowered-community.html) | Vídeo e artigo | Saiba mais sobre a importância de uma comunidade do Analytics capacitada e como criar e dar suporte a uma. |
 | Março de 2022 | [Criar regras de processamento de canal de marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en) | Vídeo | Saiba como configurar [!UICONTROL Regras de processamento] para [!UICONTROL Canais de marketing]. |
-| Março de 2022 | [Configurar canais de marketing em seu conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-up-marketing-channels.html) | Vídeo | Neste vídeo, saiba como configurar relatórios de canais de marketing em seu conjunto de relatórios do Analytics. |
+| Março de 2022 | [Configurar canais de marketing no conjunto de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-up-marketing-channels.html) | Vídeo | Neste vídeo, saiba como configurar relatórios de canais de marketing em seu conjunto de relatórios do Analytics. |
 | Março de 2022 | [Transição para o Adobe Analytics a partir de Google Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en) | Vídeo | Um guia abrangente para a transição para o [!DNL Adobe Analytics] from [!DNL Google Analytics]. |
 | Março de 2022 | [Configurar variáveis de hierarquia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-hierarchy-variables.html?lang=en) | Vídeo | Saiba como e quando configurar e configurar variáveis de hierarquia para seu site. Esse recurso pode ser usado para mostrar uma exibição hierárquica das páginas do site e a quantidade de tráfego que está chegando a cada nó. |
 | Março de 2022 | [Preparar e compartilhar no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.html?lang=en) | Vídeo | Saiba como trabalhar com projetos de preparação e compartilhamento no Analysis Workspace. |
@@ -390,7 +390,7 @@ Tutoriais mais recentes do Journey Optimizer:
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
-| Março de 2022 | [Usar e gerenciar expressões salvas na biblioteca de personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | Vídeo | Saiba como usar os itens da biblioteca de personalização salvos em uma mensagem e como criar e gerenciar itens da biblioteca de personalização. |
+| Março de 2022 | [Usar e gerenciar expressões salvas na biblioteca de personalização](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | Vídeo | Saiba como usar os itens salvos na biblioteca de personalização em uma mensagem e como criar e gerenciar itens na biblioteca de personalização. |
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
