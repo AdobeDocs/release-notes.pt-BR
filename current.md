@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
+source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
 workflow-type: tm+mt
 source-wordcount: '5733'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Os eventos da Experience League são um excelente local para aprender, interagir
 | [Gems do AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Webinário do Adobe Live | Inicialize e implante rapidamente aplicativos de página única (SPA) usando os fluxos de trabalho e ferramentas do [!UICONTROL Construtor de aplicativos] da Adobe sem a necessidade de ter habilidades tradicionais do Experience Manager, como Java™ e Sling. Com o Experience Manager sem periféricos, os profissionais de marketing e desenvolvedores podem ter a experiência em seus próprios domínios: os desenvolvedores controlam a estrutura geral, o estilo e o roteamento do aplicativo, enquanto os profissionais de marketing definem o conteúdo e como ele é exibido.<br>**Data:** quarta-feira, 23 de março — [Detalhes e inscrição](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Contar histórias impactantes com dados](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Webinário do Adobe Live | A narrativa de dados é bem feita quando há um equilíbrio entre arte e ciência. Então, por que projetar em excesso? A especialista do Adobe Analytics, Amy Ard, discute três partes com o objetivo de orientar sua narrativa de dados sem diminuir a criatividade:<ul><li>Identificar a oportunidade ou o problema</li><li>Explicar por meio de dados</li><li>Oferecer uma solução</li></ul>**Data:** quinta-feira, 31 de março — [Detalhes e inscrição](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Criadores de experiências - O intercâmbio de habilidades para o Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Webinário do Adobe Live | Temos o prazer de anunciar a primeira edição do Criadores de experiências — O intercâmbio de habilidades do Adobe Workfront, que acontece em 13 de abril. Esse evento gratuito de aprendizado digital de trê horas é totalmente voltado para o Workfront, e os clientes têm a oportunidade de fazer perguntas ao vivo para especialistas e colegas que conhecem melhor o gerenciamento de trabalho. Seja você um novato no Workfront ou um especialista experiente, temos algo para todos. <br>**Data:** quarta-feira, 13 de abril — [Detalhes e inscrição](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=pt-BR) | Vídeo | A [!DNL Developers Live] apresenta os mais recentes avanços tecnológicos e ferramentas de desenvolvedores que impulsionam o design, os fluxos de trabalho de criação de conteúdo, os serviços de documento e o gerenciamento de experiência do cliente em todos os setores. Assista o discurso de apresentação, aprenda sobre APIs do Analytics, camadas de dados do cliente, projetos de código aberto do Adobe I/O e muito mais. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=pt-BR) | Vídeo | A [!DNL Developers Live] apresenta os mais recentes avanços tecnológicos e ferramentas de desenvolvedores que impulsionam o design, os fluxos de trabalho de criação de conteúdo, os serviços de documento e o gerenciamento de experiência do cliente em todos os setores. Veja o endereço do keynote, saiba mais sobre APIs do Analytics, camada de dados do cliente, projetos de código aberto para desenvolvedores do Adobe e muito mais. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -530,7 +530,7 @@ Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleag
 
 ## ![Ícone](/assets/experience-league.png) Gerenciamento de dados do cliente — Vozes {#voices}
 
-[Gerencimanento de dados do cliente — Vozes](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=pt-BR) é o seu destino como técnico de gerenciamento de dados e líder e especialista de práticas de marketing. Essa coleção de tutoriais é o seu balcão central para ouvir outros usuários, inspirar-se e conhecer os desenvolvimentos na MarTech. Não é necessário se inscrever. Clique e assista.
+[Gerencimanento de dados do cliente — Vozes](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=pt-BR) é o seu destino como técnico de gerenciamento de dados e líder e especialista de práticas de marketing. Essa coleção de tutoriais é o seu balcão central para ouvir outros usuários, inspirar-se e conhecer os desenvolvimentos na MarTech. Nenhum registro necessário, basta clicar e observar.
 
 ## ![Ícone](/assets/experience-league.png) Blueprints de experiência digital {#blueprints}
 
