@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
+source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
 workflow-type: tm+mt
-source-wordcount: '5733'
-ht-degree: 98%
+source-wordcount: '5815'
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ Está pronto para começar? [Conclua esse teste de 5 minutos](https://exploreado
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **21 de março de 2022**
+Última atualização: **1 de abril de 2022**
 
-* [Eventos da [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (**1 de abril**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud — componentes e administração da interface central](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -56,10 +56,11 @@ Os eventos da Experience League são um excelente local para aprender, interagir
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
+| [Criadores de experiências - O intercâmbio de habilidades para o Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Webinário do Adobe Live | Estamos felizes em anunciar a primeira edição de _Experience Manager - O Skill Exchange para Adobe Workfront_. <br>Esse evento gratuito de três horas de aprendizado digital é totalmente voltado para o Workfront. Você pode fazer perguntas a especialistas e colegas que conhecem melhor a gestão do trabalho. Seja você um novato no Workfront ou um especialista experiente, temos algo para todos.<br>**Data:** Quarta-feira, 13 de abril às 9:00 - 12:00 PDT. [Detalhes e registro](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): O Adobe recomenda o registro, mesmo que você não possa participar, para que você tenha acesso garantido às gravações sob demanda. |
+| [Adobe Workfront System Admin Essentials: Criar uma experiência ideal para o usuário](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Webinário do Adobe Live | Junte-se a Mary Ann Erickson, gerente de sucesso do cliente da Adobe Workfront, e Steve Enos, analista de operações criativas do Liberty Joint Insurance para descobrir como projetar uma experiência ideal para o usuário. <br>**Data:** quarta-feira, 27 de abril. Hora: 20:00 PDT / 4:00 PM UK. <br>[Detalhes e registro](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=pt-BR) | Vídeo ao vivo e sob demanda | Um programa de streaming ao vivo produzido pela equipe da Experience League. É uma chance de se conectar com especialistas em produtos da Adobe. Aprenda dicas, truques e estratégias úteis que podem ser usadas com os aplicativos da Adobe Experience Cloud.<br> [Detalhes e eventos anteriores](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Gems do AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Webinário do Adobe Live | Inicialize e implante rapidamente aplicativos de página única (SPA) usando os fluxos de trabalho e ferramentas do [!UICONTROL Construtor de aplicativos] da Adobe sem a necessidade de ter habilidades tradicionais do Experience Manager, como Java™ e Sling. Com o Experience Manager sem periféricos, os profissionais de marketing e desenvolvedores podem ter a experiência em seus próprios domínios: os desenvolvedores controlam a estrutura geral, o estilo e o roteamento do aplicativo, enquanto os profissionais de marketing definem o conteúdo e como ele é exibido.<br>**Data:** quarta-feira, 23 de março — [Detalhes e inscrição](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Contar histórias impactantes com dados](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Webinário do Adobe Live | A narrativa de dados é bem feita quando há um equilíbrio entre arte e ciência. Então, por que projetar em excesso? A especialista do Adobe Analytics, Amy Ard, discute três partes com o objetivo de orientar sua narrativa de dados sem diminuir a criatividade:<ul><li>Identificar a oportunidade ou o problema</li><li>Explicar por meio de dados</li><li>Oferecer uma solução</li></ul>**Data:** quinta-feira, 31 de março — [Detalhes e inscrição](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
-| [Criadores de experiências - O intercâmbio de habilidades para o Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Webinário do Adobe Live | Temos o prazer de anunciar a primeira edição do Criadores de experiências — O intercâmbio de habilidades do Adobe Workfront, que acontece em 13 de abril. Esse evento gratuito de aprendizado digital de trê horas é totalmente voltado para o Workfront, e os clientes têm a oportunidade de fazer perguntas ao vivo para especialistas e colegas que conhecem melhor o gerenciamento de trabalho. Seja você um novato no Workfront ou um especialista experiente, temos algo para todos. <br>**Data:** quarta-feira, 13 de abril — [Detalhes e inscrição](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=pt-BR) | Vídeo | A [!DNL Developers Live] apresenta os mais recentes avanços tecnológicos e ferramentas de desenvolvedores que impulsionam o design, os fluxos de trabalho de criação de conteúdo, os serviços de documento e o gerenciamento de experiência do cliente em todos os setores. Veja o endereço do keynote, saiba mais sobre APIs do Analytics, camada de dados do cliente, projetos de código aberto para desenvolvedores do Adobe e muito mais. |
 
 {style=&quot;table-layout:auto&quot;}
