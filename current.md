@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5848'
+source-wordcount: '5828'
 ht-degree: 94%
 
 ---
@@ -180,7 +180,7 @@ A Adobe recomenda visitar a página de [Roteiros e atualizações de versão do 
 
 * **Experience Manager as a Cloud Service**
 
-   Observe a [Vídeo Visão geral da versão de março de 2022](https://video.tv.adobe.com/v/341465) para obter um resumo dos recursos adicionados na versão 2022.3.0 (março de 2022). A partir do vídeo deste mês, o Adobe habilitou legendas ocultas localizadas em francês (FR), alemão (DE) e japonês (JP).
+   Observe a [Vídeo Visão geral da versão de março de 2022](https://video.tv.adobe.com/v/341465) para obter um resumo dos recursos adicionados na versão 2022.3.0 (março de 2022). <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [Vídeo Visão geral dos novos recursos da versão de janeiro de 2022](https://video.tv.adobe.com/v/340120).
    * [Vídeo Visão geral dos novos recursos da versão de dezembro de 2021](https://video.tv.adobe.com/v/339278).
