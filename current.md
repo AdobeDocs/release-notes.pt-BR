@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5828'
-ht-degree: 95%
+source-wordcount: '5956'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Está pronto para começar? [Conclua esse teste de 5 minutos](https://exploreado
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **5 de abril de 2022**
+Última atualização: **7 de abril de 2022**
 
 * [[!DNL Experience League] events](#events) (**5 de abril** - AEM relançamento do Gems)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Novos recursos no [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última atualização: **14 de março de 2022**, para lançamento em 12 de março
+Última atualização: **7 de abril de 2022**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Portfólios] | Por padrão, a otimização híbrida está disponível no nível da campanha. Agora, é possível ativar a otimização híbrida no nível do grupo de anúncios, para o qual o recurso de otimização define a meta de CPA ou ROAS do [!DNL Google] no nível do grupo de anúncios, permitindo um controle mais preciso sobre o desempenho.<br>Com qualquer portfólio, é necessário permitir um período de aprendizagem antes do lançamento para garantir que ele tenha cobertura de modelo suficiente. Da mesma maneira, se você alterar a otimização de um portfólio híbrido do nível de campanha para o nível de grupo de anúncios, defina o portfólio para o estado ativo por cerca de duas semanas. Isso garante que o recurso de otimização tenha tempo para aprender sobre os grupos de anúncios incluídos e gerar metas.<br>Para oferecer suporte à otimização no nível do grupo de anúncios, as simulações personalizadas agora podem incluir resultados por grupo de anúncios. Execute uma simulação personalizada com resultados de nível de grupo de anúncios antes de iniciar um portfólio híbrido com otimização de nível de grupo de anúncios. |
-| [!UICONTROL Portfólios] <br> [!UICONTROL Campanhas] | (Recurso beta, campanhas do [!DNL Microsoft® Advertising]) — agora, você pode configurar campanhas de pesquisa para usar a estratégia de lances [!UICONTROL Maximizar conversões] e, opcionalmente, definir um custo máximo por clique.<br>Se você já estiver participando do beta de otimização híbrida para outras estratégias de lances automáticos, você terá acesso à estratégia [!UICONTROL Maximizar conversões] e poderá incluir campanhas com a estratégia [!UICONTROL Maximizar conversões] em portfólios híbridos. Para usar essa estratégia em um portfólio híbrido, é necessário habilitar o upload dos objetivos do Advertising Cloud Search para o [!DNL Microsoft® Ads]. Se você ainda não estiver participando do beta e desejar fazer isso, entre em contato com seu gerente de conta da [!DNL Adobe]. |
-| [!UICONTROL Públicos-alvo]<br><br> e [!UICONTROL Bulksheets] de campanha | (Campanhas do [!DNL Microsoft® Advertising]) — agora, você pode usar qualquer um dos públicos do [!DNL Microsoft® Advertising], exceto os de mercado, como alvos de nível de campanha ou de nível de [!UICONTROL grupo de anúncios]. Anteriormente, só era possível usá-los como alvos de nível de [!UICONTROL grupo de anúncios]. |
-| [!UICONTROL Públicos-alvo] de campanhas | (Recurso beta, contas do [!DNL Microsoft® Advertising] elegíveis para [!UICONTROL correspondência de cliente]) — agora, é possível criar e gerenciar públicos de correspondência de cliente ao fazer upload de arquivos CSV com endereços de email. Deve-se fazer um hash dos dados usando o algoritmo SHA-256. |
+| [!UICONTROL Campanhas]<br><br>[!UICONTROL Insights de publicidade] | (7 de abril) [!DNL Google Ads] contas) A Advertising Cloud Search está fazendo a transição de todas as chamadas de API do antigo [!DNL Google AdWords API] o mais tardar [!DNL Google Ads API]. Mudar para o novo [!DNL Google Ads API] garantirá a continuidade com os recursos existentes e permitirá o acesso a [!DNL Google’s] mais recente [!DNL Ads] recursos.<br><br>Alguns recursos ainda não foram atualizados para a nova API e estão temporariamente indisponíveis:<ul><li>Extensões de localização:<ul>As extensões de localização não estão visíveis no [!UICONTROL Extensões] exibir.</li><li>Não é possível criar uma extensão.</li><li>Filtros em locais não funcionam.</li></li></ul><li>[!UICONTROL Insights de publicidade]: O [!UICONTROL Perda de Impressão] e [!UICONTROL Consulta beta de correspondência cruzada] as análises não estarão disponíveis a partir de 11 de abril.</li></ul>Prevemos a restauração dos recursos de extensão de localização até o final de abril. Depois de determinar quando o [!UICONTROL Insights de publicidade] os módulos também podem ser restaurados, enviaremos uma atualização com a data estimada. |
+| [!UICONTROL Portfólios] | (Versão de 12 de março) Por padrão, a otimização híbrida está disponível no nível da campanha. Agora, é possível ativar a otimização híbrida no nível do grupo de anúncios, para o qual o recurso de otimização define a meta de CPA ou ROAS do [!DNL Google] no nível do grupo de anúncios, permitindo um controle mais preciso sobre o desempenho.<br>Com qualquer portfólio, é necessário permitir um período de aprendizagem antes do lançamento para garantir que ele tenha cobertura de modelo suficiente. Da mesma maneira, se você alterar a otimização de um portfólio híbrido do nível de campanha para o nível de grupo de anúncios, defina o portfólio para o estado ativo por cerca de duas semanas. Isso garante que o recurso de otimização tenha tempo para aprender sobre os grupos de anúncios incluídos e gerar metas.<br>Para oferecer suporte à otimização no nível do grupo de anúncios, as simulações personalizadas agora podem incluir resultados por grupo de anúncios. Execute uma simulação personalizada com resultados de nível de grupo de anúncios antes de iniciar um portfólio híbrido com otimização de nível de grupo de anúncios. |
+| [!UICONTROL Portfólios] <br> [!UICONTROL Campanhas] | (Versão 12 correspondente; Recurso beta para [!DNL Microsoft® Advertising] campanhas) - Agora você pode configurar campanhas de pesquisa para usar a variável [!UICONTROL Maximizar conversões] estratégia de lance e, opcionalmente, defina um custo máximo por clique.<br>Se você já estiver participando do beta de otimização híbrida para outras estratégias de lances automáticos, você terá acesso à estratégia [!UICONTROL Maximizar conversões] e poderá incluir campanhas com a estratégia [!UICONTROL Maximizar conversões] em portfólios híbridos. Para usar essa estratégia em um portfólio híbrido, é necessário habilitar o upload dos objetivos do Advertising Cloud Search para o [!DNL Microsoft® Ads]. Se você ainda não estiver participando do beta e desejar fazer isso, entre em contato com seu gerente de conta da [!DNL Adobe]. |
+| [!UICONTROL Públicos-alvo]<br><br> e [!UICONTROL Bulksheets] de campanha | (Versão de 12 de março; [!DNL Microsoft® Advertising] campanhas) - Agora você pode usar qualquer uma das [!DNL Microsoft® Advertising] públicos-alvo, exceto para públicos-alvo do mercado como alvos de nível de campanha ou [!UICONTROL adgroup]metas de nível-alvo. Anteriormente, só era possível usá-los como alvos de nível de [!UICONTROL grupo de anúncios]. |
+| [!UICONTROL Públicos-alvo] de campanhas | (Versão de 12 de março; Recurso beta para [!DNL Microsoft® Advertising] contas elegíveis para [!UICONTROL Correspondência de cliente]) Agora é possível criar e gerenciar públicos de correspondência do cliente ao fazer upload de arquivos CSV com endereços de email. Deve-se fazer um hash dos dados usando o algoritmo SHA-256. |
 
 {style=&quot;table-layout:auto&quot;}
 
