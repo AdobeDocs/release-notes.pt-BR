@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
+source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
 workflow-type: tm+mt
-source-wordcount: '6116'
+source-wordcount: '6115'
 ht-degree: 43%
 
 ---
@@ -25,7 +25,7 @@ Está pronto para começar? [Conclua esse teste de 5 minutos](https://exploreado
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **15 de abril de 2022**
+Última atualização: **18 de abril de 2022**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -100,7 +100,7 @@ Os [componentes da interface central](https://experienceleague.adobe.com/docs/co
 
 Informações da versão mais recente e nova documentação para [!DNL Experience Platform] e [!UICONTROL SDK móvel]:
 
-Data de lançamento: **30 de março de 2022**
+Data de lançamento: **27 de abril de 2022**
 
 * [Notas de versão da Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=pt-BR)
 
