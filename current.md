@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4708'
+source-wordcount: '4696'
 ht-degree: 54%
 
 ---
@@ -218,15 +218,14 @@ A Adobe recomenda visitar a página de [Roteiros e atualizações de versão do 
    * [O Dynamic Media Smart Imaging agora é compatível com o formato de arquivo AVIF](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - melhore ainda mais o Google Core Web Vital (maior Pintor Contentful), com a AVIF fornecendo 20% de redução extra do tamanho em relação ao WebP. No total, a AVIF fornece redução média de até 41% no tamanho do JPEG (em algumas imagens até 76%).
    * O Experience Manager Assets Brand Portal agora executa trabalhos automáticos a cada 12 horas para excluir todos os ativos do Brand Portal publicados no Experience Manager. Como resultado, não é necessário excluir os ativos na pasta Contribuição manualmente para manter o tamanho da pasta abaixo do limite. Consulte [Novidades no Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=pt-BR).
 
-      _Novo recurso no canal de pré-lançamento_
+   _Novo recurso no canal de pré-lançamento_
 
    * O Experience Manager Assets usa os recursos da Adobe Sensei AI para agora [distinguir entre cores em uma imagem e aplicar diferenças como tags automaticamente na assimilação](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). Essas tags permitem uma experiência de pesquisa aprimorada, com base na composição de cores da imagem. Você pode configurar o número de cores, dentro de um intervalo de uma a 40, que são marcadas em uma imagem, para que possa pesquisar imagens com base nessas cores posteriormente.
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _Novos recursos no canal de pré-lançamento_
-
-   * **Comunicações - Suporte a APIs de manipulação de documentos no SDK as a Cloud Service do Forms** -
 
    * **Integrar o Adaptive Forms com o Microsoft® Power Automate** - Agora é possível configurar um Formulário adaptável para executar um fluxo da nuvem do Microsoft® Power Automate no envio. O formulário adaptável configurado envia dados capturados, anexos e documentos de registro para o Power Automate Cloud Flow para processamento. Ele ajuda você a criar uma experiência personalizada de captura de dados, aproveitando o poder do Microsoft® Power Automate para criar lógicas comerciais sobre dados capturados e automatizar os fluxos de trabalho do cliente.
    * **Assistente para criar um formulário adaptável** - Você pode usar o assistente empresarial para criar rapidamente o Adaptive Forms. O assistente fornece uma navegação de guia rápida para selecionar facilmente o modelo pré-configurado, o estilo, os campos e as opções de envio para criar um formulário adaptável.
