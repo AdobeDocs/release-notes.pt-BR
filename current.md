@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 54%
+source-wordcount: '4816'
+ht-degree: 56%
 
 ---
 
@@ -23,7 +23,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **12 de junho de 2022**
+Última atualização: **28 de junho de 2022**
 
 * Eventos da [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ Precisa de ajuda? Visite a [Experience League](https://experienceleague.adobe.co
 
 [Os eventos da Experience League são um excelente local para aprender, interagir e obter respostas de especialistas sobre produtos da Adobe.](https://experienceleague.adobe.com/events/?lang=en)
 
-Atualizado em **10 de junho de 2022**
+Atualizado em **28 de junho de 2022**
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
+| [Aproveite a inteligência de dados profunda para aumentar a personalização](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinário de sucesso do cliente | Junte-se ao nosso especialista em Adobe para saber como os recursos avançados do Adobe Analytics permitirão que os analistas e profissionais de marketing de sua organização acelerem a análise profunda dos dados e curem insights oportunos para potencializar experiências mais personalizadas do cliente em canais, momentos e estágios de compra.<br>**Data:** 18/07 às 15:00 - AEST [Detalhes e registro](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target - Habilidade para o sucesso](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Manager | Entenda os conceitos e os recursos principais do Adobe Target para testar, personalizar e reconhecer o poder da IA que transforma a experiência da sua marca de genérica para gênica.<br>**Data:** 30 de junho e 1 de julho - [Detalhes e registro](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign, Journey Optimizer - [O desafio entre canais: Personalização em escala](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | Evento virtual | Saiba de Sheryl Kingstone, pesquisadora Director no 451 Research, sobre acompanhar o ritmo da mudança, usar a tecnologia de marketing como um ativador crítico e se tornar mais voltado para os dados. Também revisitamos sessões e dicas e truques importantes compartilhados durante o Adobe Summit 2022, onde você ouve dos especialistas sobre como impulsionar a personalização em escala em vários canais.<br>**Data:** 14 de junho - [Detalhes e registro](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [Olhando embaixo do capô - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems - Evento virtual | Explore os novos recursos lançados no ano passado, uma atualização sobre os desenvolvimentos nos bastidores e uma expectativa para o resto de 2022. <br>**Data:** 15 de junho -[Detalhes e registro](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [Como criar confiança e comunicar impacto para dimensionar sua estratégia digital](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | Fórum de mestres | Junte-se a nós para uma conversa exclusiva e íntima onde discutiremos maneiras de comunicar efetivamente o impacto de sua estratégia digital. <br>**Data:** 21 de junho - [Detalhes e registro](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
@@ -80,11 +82,11 @@ Para obter as informações mais recentes da versão, consulte as [notas de vers
 
 Os [componentes da interface central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=pt-BR) da Experience Cloud incluem recursos disponíveis na página inicial e no cabeçalho persistente do produto. Esses recursos incluem configurações de perfil do usuário, preferências e pesquisa. Você também encontra ajuda para o gerenciamento de usuários e produtos, atributos do cliente e públicos-alvo da Experience Cloud.
 
-Versão planejada: **11 de julho de 2022**
+Lançamento planejado: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ------- |
-| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** Agora você pode personalizar ainda mais sua experiência doméstica e decidir quais aplicativos estão nas pontas dos dedos. Use o novo recurso de pinagem para selecionar quais aplicativos aparecem frente e centro em seu [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com os pinos inteligentes:** Os novos aplicativos agora são mais fáceis de encontrar. Aplicativos recentemente atribuídos exibem um _Novo_ símbolo e autofixar em [!UICONTROL Acesso rápido]. |
+| Página inicial unificada - Widget de acesso rápido | **Navegue mais rápido:** agora, você pode personalizar ainda mais a experiência da sua página inicial e decidir quais aplicativos estarão à disposição. Use o novo recurso de fixação para selecionar quais aplicativos aparecem com destaque no [!UICONTROL Acesso rápido]. <br>**Mantenha-se informado com a fixação inteligente:** os novos aplicativos agora são mais fáceis de encontrar. Os aplicativos recentemente atribuídos exibem um emblema de _Novo_ e são fixados automaticamente no [!UICONTROL Acesso rápido]. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -252,7 +254,7 @@ A Adobe recomenda visitar a página de [Roteiros e atualizações de versão do 
 
 * Reproduzir [Vídeo de atualização da versão 2022.5.0 do Experience Manager as a Cloud Service](https://adobe.ly/3NDPR8Y) que cobre o que foi libertado. (10 minutos)
 * Webinário de GEMs - _Olhando debaixo do capô: Cloud Manager 2022_
-   * quarta-feira, 15 de junho de 2022
+   * Quarta-feira, 15 de junho de 2022
    * 08:00 Horário do Pacífico; 17:00 Hora da Europa Central; 20:30 Hora Padrão da Índia
    * [Inscreva-se aqui](https://adobe.ly/3t4jfgp).
    * [Thread de discussão](https://adobe.ly/3O0rdzd).
@@ -363,9 +365,9 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
 | Junho de 2022 | [Configurar um template de delivery](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/using-delivery-templates/configure-a-delivery-template.html) | Vídeo | Saiba como configurar um modelo para uma entrega ad hoc. | Campaign v8 |
 | Junho de 2022 | [Criar deliveries de email recorrentes e contínuos](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/recurring-deliveries.html) | Vídeo | Saiba como configurar um delivery recorrente e uma atividade de scheduler. | Campanha v8 |
 | Junho de 2022 | [Configurar atividades de enriquecimento](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/enrichment-activity.html) | Vídeo | Saiba como configurar uma atividade de enriquecimento com base nas informações de log da entrega. | Campanha v8 |
-| Junho de 2022 | [Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html) | Vídeo | Saiba o que é SMS, a função do provedor de serviços SMS, como o Adobe Campaign se conecta ao provedor de serviços. Entenda quais informações são passadas pelo provedor de serviços e quais notas técnicas estão disponíveis. | Campaign v8, Campaign Standard, Campaign Classic v7 |
-| Junho de 2022 | [Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=en) | Vídeo | Saiba como configurar uma conta SMPP com o Adobe Campaign, analisar resultados de delivery de SMS e personalizar o processamento de SR para as especificações do seu provedor SMPP. | Campaign v8, Campaign Classic v7 |
-| Junho de 2022 | [Adapte o conector SMS ao seu provedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | Vídeo | Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações do SMS para lidar com limites de conexão, configure a taxa de transferência máxima, a janela de envio e a criptografia com TLS. | Campaign v8, Campaign Classic v7, Campaign Standard |
+| Junho de 2022 | [Introdução ao SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=pt-BR) | Vídeo | Saiba o que é SMS, a função do provedor de serviços SMS, como o Adobe Campaign se conecta ao provedor de serviços. Entenda quais informações são passadas pelo provedor de serviços e quais notas técnicas estão disponíveis. | Campaign v8, Campaign Standard, Campaign Classic v7 |
+| Junho de 2022 | [Configurar uma conta SMS para um provedor SMPP padrão](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=pt-BR ) | Vídeo | Saiba como configurar uma conta SMPP com o Adobe Campaign, analisar resultados de delivery de SMS e personalizar o processamento de SR para as especificações do seu provedor SMPP. | Campaign v8, Campaign Classic v7 |
+| Junho de 2022 | [Adaptar o conector SMS ao seu provedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=pt-BR) | Vídeo | Saiba como adaptar o conector SMS ao seu provedor SMPP. Ajuste as configurações de SMS para lidar com limites de conexão, configurar a taxa de transferência máxima, a janela de envio e a criptografia com TLS. | Campaign v8, Campaign Classic v7, Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;}
 
