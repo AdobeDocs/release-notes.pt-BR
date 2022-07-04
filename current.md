@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -51,22 +51,22 @@ Precisa de ajuda? Visite a [Experience League](https://experienceleague.adobe.co
 
 ## ![Ícone](/assets/experience-league.png) Eventos da [!DNL Experience League] {#events}
 
-[Os eventos da Experience League são um excelente local para aprender, interagir e obter respostas de especialistas sobre produtos da Adobe.](https://experienceleague.adobe.com/events/?lang=en)
+Os [eventos da Experience League](https://experienceleague.adobe.com/events/?lang=pt-BR) são um excelente local para aprender, interagir e obter respostas de especialistas sobre produtos da Adobe.
 
 Atualizado em **28 de junho de 2022**
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
-| [Aproveite a inteligência de dados profunda para aumentar a personalização](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinário de sucesso do cliente | Junte-se ao nosso especialista em Adobe para saber como os recursos avançados do Adobe Analytics permitirão que os analistas e profissionais de marketing de sua organização acelerem a análise profunda dos dados e curem insights oportunos para potencializar experiências mais personalizadas do cliente em canais, momentos e estágios de compra.<br>**Data:** 18/07 às 15:00 - AEST [Detalhes e registro](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
-| [Adobe Target - Habilidade para o sucesso](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Manager | Entenda os conceitos e os recursos principais do Adobe Target para testar, personalizar e reconhecer o poder da IA que transforma a experiência da sua marca de genérica para gênica.<br>**Data:** 30 de junho e 1 de julho - [Detalhes e registro](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
+| [Explore a inteligência de dados profunda para aprimorar a personalização](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinário de sucesso do cliente | Junte-se ao nosso especialista da Adobe para saber como os recursos avançados do Adobe Analytics permitirão que os analistas e profissionais de marketing de sua organização acelerem a análise profunda dos dados e preparem insights oportunos para potencializar experiências do cliente mais personalizadas em canais, momentos e estágios de compra.<br>**Data:** 6 de julho, às 15h AEST — [Detalhes e inscrição](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target — Habilite-se para o sucesso](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Entenda os conceitos e os recursos principais do Adobe Target para testar, personalizar e reconhecer o poder da IA que transforma a experiência da sua marca de genérica em genial.<br>**Data:** 30 de junho e 1º de julho — [Detalhes e inscrição](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
 {style=&quot;table-layout:auto&quot;}
 
-Consulte [Eventos](https://experienceleague.adobe.com/events/?lang=en) no Experience League para continuar atualizado.
+Consulte os [Eventos](https://experienceleague.adobe.com/events/?lang=en) na Experience League para continuar atualizado.
 
 ## ![Ícone](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-O [!DNL Adobe System Status] fornece informações detalhadas, atualizações de status e notificações por email sobre eventos de interrupção e manutenção de produtos e serviços da Adobe. Confira em [status.adobe.com](https://status.adobe.com/pt).
+O [!DNL Adobe System Status] fornece informações detalhadas, atualizações de status e notificações por email sobre eventos de interrupção e manutenção de produtos e serviços da Adobe. Confira em [status.adobe.com](https://status.adobe.com/pt-BR).
 
 Para obter as informações mais recentes da versão, consulte as [notas de versão](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=pt-BR#status) do Status do sistema da Adobe.
 
@@ -301,7 +301,7 @@ Saiba mais sobre [[!DNL Experience Manager Guides]](https://www.adobe.com/br/pro
 ### Recursos adicionais
 
 * [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=pt-BR) - tutoriais na Experience League
-* [[!DNL Experience Manager Guides] Aprendizagem e suporte ](https://helpx.adobe.com/br/support/xml-documentation-for-experience-manager.html) - documentação do produto
+* [[!DNL Experience Manager Guides] Aprendizagem e suporte](https://helpx.adobe.com/br/support/xml-documentation-for-experience-manager.html) - documentação do produto
 
 ## ![Ícone](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
@@ -343,10 +343,10 @@ O Adobe Campaign oferece uma maneira intuitiva e automatizada de enviar mensagen
 
 ### Últimas versões de produto do Campaign
 
-* Novo [Versão v8.3 do Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* Novo [Versão do Campaign Standard 2.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR)
-* Novo [Versão de maio do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
-* Novo [tutoriais e cursos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) no Experience League
+* Nova [versão do Campaign v8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=pt-BR)
+* Nova [versão do Campaign Standard 22.2 ](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR)
+* Nova [versão de maio do Painel de controle](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR#may-2022)
+* Novos [tutoriais e cursos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR#tutorials-campaign) na Experience League
 
 ### Novos tutoriais e cursos do [!DNL Campaign] {#tutorials-campaign}
 
@@ -365,10 +365,10 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
 
 ### Recursos de ajuda do Campaign
 
-* Adobe Campaign v8: [Documentação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Guias de implementação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=pt-BR)
+* Adobe Campaign v8: [Documentação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=pt-BR) - [Guias de implementação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=pt-BR)
 * Adobe Campaign Standard: [Documentação do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR) - [Planejamento de lançamento](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=pt-BR)
 * Adobe Campaign Classic: [Documentação do Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=pt-BR) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=pt-BR)
-* Painel de controle do Adobe Campaign: [Documentação](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)    - Vídeos explicativos do [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=pt-BR)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=pt-BR)
+* Painel de controle do Adobe Campaign: [Documentação](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=pt-BR)    - Vídeos explicativos do [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=pt-BR)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=pt-BR)
 
 ## ![Ícone](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
