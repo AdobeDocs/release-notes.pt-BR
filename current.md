@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
+source-git-commit: 609676006717d61512be133a65bfac44a15c8651
 workflow-type: tm+mt
-source-wordcount: '5268'
-ht-degree: 52%
+source-wordcount: '5262'
+ht-degree: 51%
 
 ---
 
@@ -57,11 +57,11 @@ Atualizado **17 de julho de 2022**
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
-| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PST - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Episódios futuros e passados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=pt-BR) |
+| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PST - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-Consulte os [Eventos](https://experienceleague.adobe.com/events/?lang=en) na Experience League para continuar atualizado.
+Consulte [Eventos](https://experienceleague.adobe.com/events/?lang=en) no Experience League para manter-se atualizado sobre eventos futuros e episódios anteriores.
 
 ## ![Ícone](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -316,7 +316,7 @@ Consulte os seguintes links para as notas de versão do Adobe Commerce:
 
 ## ![Ícone](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Última atualização: **7 de junho de 2022**
+Última atualização: **30 de junho de 2022**
 
 * Para obter informações de pré-lançamento, consulte [Pré-lançamento do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=pt-BR)
 * Para obter informações atuais, consulte [Notas de versão do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=pt-BR)
