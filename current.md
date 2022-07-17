@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
+source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 52%
@@ -53,11 +53,11 @@ Precisa de ajuda? Visite a [Experience League](https://experienceleague.adobe.co
 
 Os eventos da Experience League são um excelente local para aprender, interagir e obter respostas de especialistas sobre produtos da Adobe. Consulte [Eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) em Experience League para manter-se atualizado para julho de 2022.
 
-Atualizado **14 de julho de 2022**
+Atualizado **17 de julho de 2022**
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
-| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 21:00 PST - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Episódios futuros e passados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=pt-BR) |
+| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PST - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Episódios futuros e passados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=pt-BR) |
 
 {style=&quot;table-layout:auto&quot;}
 
