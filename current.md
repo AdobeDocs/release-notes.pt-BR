@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 609676006717d61512be133a65bfac44a15c8651
+source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
 workflow-type: tm+mt
-source-wordcount: '5262'
+source-wordcount: '5254'
 ht-degree: 51%
 
 ---
@@ -23,7 +23,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **15 de julho de 2022**
+Última atualização: **18 de julho de 2022**
 
 * [[!DNL Experience League] eventos](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -316,7 +316,7 @@ Consulte os seguintes links para as notas de versão do Adobe Commerce:
 
 ## ![Ícone](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Última atualização: **7 de junho de 2022**
+Última atualização: **30 de junho de 2022**
 
 * Para obter informações de pré-lançamento, consulte [Pré-lançamento do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=pt-BR)
 * Para obter informações atuais, consulte [Notas de versão do Adobe Target](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=pt-BR)
@@ -336,8 +336,7 @@ O Adobe Campaign oferece uma maneira intuitiva e automatizada de enviar mensagen
 
 ### Últimas versões de produto do Campaign
 
-* [Versão v8.3 do Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=pt-BR)
-* [Campaign Standard versão 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR)
+* [Versão v7.3 do Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR)
 * [Versão de junho do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * [tutoriais e cursos](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR#tutorials-campaign) no Experience League
 
@@ -393,7 +392,7 @@ Novos vídeos, tutoriais ou cursos publicados do Adobe Journey Optimizer.
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* [Documentação do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR)
+* [Documentação do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=pt-BR) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR)
 * [Documentação do Gerenciamento de decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=pt-BR)
 
 ## ![Ícone](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
