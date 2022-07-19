@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
+source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -192,11 +192,11 @@ Vídeos de atualização de produto mais antigos:
 
 * [Vídeo Visão geral da versão de maio de 2022](https://video.tv.adobe.com/v/343321/?quality=12) para obter um resumo dos recursos adicionados na versão 2022.5.0 (maio de 2022).
 * [Vídeo de visão geral da versão de abril de 2022](https://video.tv.adobe.com/v/342612?quality=12)
-* [Vídeo de visão geral da versão de março de 2022](https://video.tv.adobe.com/v/341465).
-* [Vídeo de visão geral da versão de janeiro de 2022](https://video.tv.adobe.com/v/340120).
-* [Vídeo de visão geral da versão de dezembro de 2021](https://video.tv.adobe.com/v/339278).
-* [Vídeo de visão geral da versão de outubro de 2021](https://video.tv.adobe.com/v/338253).
-* [Vídeo de visão geral da versão de setembro de 2021](https://video.tv.adobe.com/v/337381).
+* [Vídeo de visão geral da versão de março de 2022](https://video.tv.adobe.com/v/341465)
+* [Vídeo de visão geral da versão de janeiro de 2022](https://video.tv.adobe.com/v/340120)
+* [Vídeo de visão geral da versão de dezembro de 2021](https://video.tv.adobe.com/v/339278)
+* [Vídeo de visão geral da versão de outubro de 2021](https://video.tv.adobe.com/v/338253)
+* [Vídeo de visão geral da versão de setembro de 2021](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] como [!DNL Cloud Service]
 
