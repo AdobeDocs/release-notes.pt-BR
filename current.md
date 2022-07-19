@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
 source-wordcount: '5254'
 ht-degree: 51%
@@ -57,7 +57,7 @@ Atualizado **17 de julho de 2022**
 
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
-| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PST - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Pergunte aos especialistas: Armazenamento de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleta de dados para a Adobe Experience Cloud, nossos especialistas fornecerão um mergulho mais profundo nos recursos avançados de coleta de dados do Adobe, incluindo funções como preparação de dados para a coleta de dados. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PDT - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
