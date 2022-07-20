@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 50%
 
 ---
 
@@ -72,6 +72,48 @@ Para obter as informações mais recentes da versão, consulte as [notas de vers
 ## ![Ícone](/assets/ec_appicon_24.png) Experience Cloud — componentes e administração da interface central {#ecloud}
 
 Os [componentes da interface central](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=pt-BR) da Experience Cloud incluem recursos disponíveis na página inicial e no cabeçalho persistente do produto. Esses recursos incluem configurações de perfil do usuário, preferências e pesquisa. Você também encontra ajuda para o gerenciamento de usuários e produtos, atributos do cliente e públicos-alvo da Experience Cloud.
+
+### Atualização de provisionamento
+
+>[!IMPORTANT]
+>
+>Revise o seguinte aviso sobre o provisionamento de Experience Cloud.
+
+A Adobe está atualizando seu provisionamento para fornecer a todos os clientes do Experience Cloud acesso a recursos essenciais que ajudam na interoperabilidade entre alguns produtos do Experience Cloud. Os usuários terão o Adobe Experience Platform como um novo direito adicionado às organizações de Experience Cloud, com [!UICONTROL Coleta de dados] como um serviço incluído.
+
+Adobe Experience Platform [!UICONTROL Coleta de dados] inclui [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) para um gerenciamento universal de tags simplificado, o oferece uma infraestrutura de dados de transmissão confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e simplificam a entrega de experiência.
+
+Com esta atualização, os administradores podem ver alterações ou adições ao Admin Console:
+
+1. A placa de produto Adobe Experience Platform no Admin Console incluirá:
+
+   * Places
+   * Controle
+   * Namespace de identidade
+   * Sandboxes
+   * Experience Data Model
+   * Schemas
+   * Datastreams
+   * ID de visitante
+
+   Para organizações que não estão usando o Experience Platform no momento, você verá a variável _Adobe Experience Platform_ produto no Admin Console, incluindo os recursos listados acima.
+
+   Para organizações que atualmente usam o Experience Platform, _Places_ agora será consolidado na placa Experience Platform.
+
+1. A coleta de dados (antigo Launch) e a privacidade do Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos do Experience Platform.
+
+Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas no Experience League:
+
+* [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
+* [Controle](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Namespace de identidade](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR)
+* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=pt-BR)
+* [Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=pt-BR)
+* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR)
 
 Versão: **11 de julho de 2022**
 
