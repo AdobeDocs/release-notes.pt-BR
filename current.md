@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ Os [componentes da interface central](https://experienceleague.adobe.com/docs/co
 
 ### Atualização de provisionamento
 
-Atualizado: **19 de julho de 2022**
-
 >[!IMPORTANT]
 >
 >Revise o seguinte aviso sobre o provisionamento de Experience Cloud.
@@ -85,9 +83,11 @@ A Adobe está atualizando seu provisionamento para fornecer a todos os clientes 
 
 Adobe Experience Platform [!UICONTROL Coleta de dados] inclui [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) para um gerenciamento universal de tags simplificado, o oferece uma infraestrutura de dados de transmissão confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e simplificam a entrega de experiência.
 
-Com esta atualização, os administradores podem ver alterações ou adições ao Admin Console:
+**Mudanças no Admin Console**
 
-1. A placa de produto Adobe Experience Platform no Admin Console incluirá:
+Os administradores podem ver alterações ou adições ao Admin Console da seguinte maneira:
+
+* A placa de produto Adobe Experience Platform no Admin Console incluirá:
 
    * Places
    * Controle
@@ -102,7 +102,7 @@ Com esta atualização, os administradores podem ver alterações ou adições a
 
    Para organizações que atualmente usam o Experience Platform, _Places_ agora será consolidado na placa Experience Platform.
 
-1. A coleta de dados (antigo Launch) e a privacidade do Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos do Experience Platform.
+* A coleta de dados (antigo Launch) e a privacidade do Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos do Experience Platform.
 
 Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas no Experience League:
 
