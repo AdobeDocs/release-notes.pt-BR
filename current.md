@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5571'
-ht-degree: 50%
+source-wordcount: '5574'
+ht-degree: 49%
 
 ---
 
@@ -23,7 +23,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **18 de julho de 2022**
+Última atualização: **19 de julho de 2022**
 
 * [[!DNL Experience League] eventos](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Os [componentes da interface central](https://experienceleague.adobe.com/docs/co
 
 ### Atualização de provisionamento
 
+Atualizado: **19 de julho de 2022**
+
 >[!IMPORTANT]
 >
 >Revise o seguinte aviso sobre o provisionamento de Experience Cloud.
@@ -115,7 +117,7 @@ Para obter mais detalhes sobre os novos recursos, visite suas respectivas págin
 * [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR)
 
-Versão: **11 de julho de 2022**
+Atualização de recursos: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ------- |
