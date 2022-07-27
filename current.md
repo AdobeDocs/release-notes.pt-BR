@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
+source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
 workflow-type: tm+mt
-source-wordcount: '5575'
-ht-degree: 94%
+source-wordcount: '5678'
+ht-degree: 90%
 
 ---
 
@@ -23,7 +23,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **19 de julho de 2022**
+Última atualização: **27 de julho de 2022**
 
 * Eventos da [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,24 +500,23 @@ Last updated: **October 27, 2021**
 
 ### Novos recursos no [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Última atualização: **14 de julho de 2022**
+Última atualização: **27 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| Relatórios personalizados | (versão de 31 de maio; recurso beta) A Advertising Cloud DSP agora pode assimilar segmentos primários compostos de sinais autenticados criados em uma CDP (Plataforma de dados do cliente). |
-| [!UICONTROL Inventário] | (Versão de 29 de junho) A nova visualização [!UICONTROL Inventário] > [!UICONTROL Contratos] inclui os mesmos recursos de personalização de dados das visualizações [!UICONTROL Campanhas], incluindo filtros adicionais, personalização de colunas e a opção para salvar visualizações personalizadas, classificação de colunas e uma visualização de dados (gráfico). Você pode abrir um menu de comando em cada linha clicando nas reticências (...) após o nome do contrato. |
-| [!UICONTROL Inspetor de inventário] | (Versão de 29 de junho) A guia [!UICONTROL Inventário] da disposição [!UICONTROL Inspetor] agora inclui gráficos de visualização de dados personalizáveis e métricas de desempenho expandidas, como [!UICONTROL Taxa de visibilidade], [!UICONTROL Cliques] e [!UICONTROL CPM de ontem]. |
+| [!UICONTROL Inventário] | (Versão de 27 de julho) [!UICONTROL Insights do leilão] O é uma nova ferramenta de solução de problemas que permite analisar a composição de negócios de ofertas privadas garantidas e não garantidas. Usando visualizações de dados, essa ferramenta mostra a tendência e as proporções relativas dos valores recebidos para os principais atributos de leilão em um período específico. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Novos recursos no [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última atualização: **14 de julho de 2022**
+Última atualização: **27 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Insights] | (Versão de 11 de junho) A análise Perda de compartilhamento de impressão agora está disponível novamente como um recurso beta. |
-| [!DNL Advanced Campaign Management] | (20 de junho) ([!DNL Google Ads] e [!DNL Microsoft Advertising] campanhas) Agora é possível criar variações de anúncios de pesquisa responsiva dinâmica usando um modelo de anúncio específico de mecanismo de pesquisa, com base no conteúdo do inventário, em [!UICONTROL Campanhas] > [!UICONTROL Avançado (ACM)]. |
+| [!UICONTROL Campanhas] | (Recurso beta de Opt-in para todos os anunciantes; Versão de 16 de julho) Agora você pode criar e gerenciar [!DNL Google Ads] campanhas máximas de desempenho, incluindo a criação manual de grupos de ativos e o upload de ativos. Links para [!DNL Google Merchant Center] os feeds de produto não são compatíveis.<br><br>Depois de optar pelo beta, você pode criar campanhas com a variável [!UICONTROL Tipo de campanha] &quot;[!UICONTROL Máximo de desempenho]&quot; e configurar grupos de ativos nas configurações da campanha. Você também pode visualizar suas campanhas máximas de desempenho existentes, com dados de desempenho no formato de tabela e gráfico de tendência, na [!UICONTROL Campanhas] exibir. Os dados de desempenho a nível de campanha também estão disponíveis nos relatórios e no Adobe Analytics (para anunciantes com um [!DNL Analytics] integração).<br><br>Para aceitar o beta, entre em contato com seu [!DNL Adobe] equipe da conta. |
+|  | [!DNL Google Ads] O não fornece mais dados de desempenho a nível de anúncio para campanhas de compras padrão, anúncios de pesquisa dinâmica ou disposições. |
+| [!UICONTROL Campanhas], [!DNL Advanced Campaign Management], [!UICONTROL Relatórios] | (Versão de 16 de julho) ([!DNL Google Ads] e [!DNL Microsoft Advertising] campanhas) O seguinte suporte agora está disponível para anúncios de pesquisa responsivos:<ul><li>O [!UICONTROL Anúncios] agora mostra visualizações de anúncios de pesquisa responsivos.</li><li> (Desde 20 de junho) Agora é possível criar variações de pesquisa e anúncios responsivos dinâmicos usando um modelo de anúncio específico de mecanismo de pesquisa, com base no conteúdo do inventário, de [!UICONTROL Campanhas] > [!UICONTROL Avançado (ACM)].</li><li>O [!UICONTROL Relatório de variação de anúncios] O inclui duas novas colunas personalizadas: &quot;[!UICONTROL Títulos Criativos],&quot; que é uma lista separada por vírgulas das linhas de título do anúncio, e &quot;[!UICONTROL Descrições],&quot; que é uma lista separada por vírgulas das linhas de descrição do anúncio.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
