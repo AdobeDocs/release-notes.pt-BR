@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
 source-wordcount: '5842'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -58,7 +58,7 @@ Atualizado em **28 de julho de 2022**
 | Evento | Tipo | Descrição |
 | -----------|---------- | ----|
 | [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Sessão de Perguntas&amp;respostas da comunidade | Nós seremos unidos pela Adobe Premier Support Business Consultor Rachel Booth, também conhecida como `@rbooth115`. Ela entrará na Comunidade da Adobe Target para conversar diretamente com você [este thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) sobre suas perguntas relacionadas às áreas de conhecimento (personalização, otimização, integração). <br>**Data:** Quarta-feira, 3 de agosto às 8 horas PDT - 9 horas - [Detalhes e registro](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Pergunte aos especialistas: fluxos de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=pt-BR) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleção de dados na Adobe Experience Cloud, nossos especialistas detalharão os recursos avançados de coleção de dados da Adobe, incluindo funções como a preparação de dados para a coleção. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho às 9 horas PDT - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Pergunte aos especialistas: fluxos de dados e preparação de dados](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=pt-BR) | Experience League LIVE  | Nesta última de três sessões relacionadas à coleção de dados na Adobe Experience Cloud, nossos especialistas detalharão os recursos avançados de coleção de dados da Adobe, incluindo funções como a preparação de dados para a coleção. No final desta sessão, os participantes se sentirão confiantes com os recursos mais recentes e eficientes para coletar dados de experiências digitais <br>**Data:** 21 de julho, às 9h00 PDT - [Detalhes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,49 +78,49 @@ Os [componentes da interface central](https://experienceleague.adobe.com/docs/co
 
 >[!IMPORTANT]
 >
->Revise o seguinte aviso sobre o provisionamento de Experience Cloud.
+>Veja o seguinte aviso sobre o provisionamento da Experience Cloud.
 
-A Adobe está atualizando seu provisionamento para fornecer a todos os clientes do Experience Cloud acesso a recursos essenciais que ajudam na interoperabilidade entre alguns produtos do Experience Cloud. Os usuários terão o Adobe Experience Platform como um novo direito adicionado às organizações de Experience Cloud, com [!UICONTROL Coleta de dados] como um serviço incluído.
+A Adobe está atualizando seu provisionamento para fornecer a todos os clientes da Experience Cloud acesso a recursos essenciais que ajudam na interoperabilidade entre alguns produtos da Experience Cloud. Os usuários terão a Adobe Experience Platform como um novo direito adicionado às suas organizações da Experience Cloud, com a [!UICONTROL coleta de dados] como um serviço incluído.
 
-Adobe Experience Platform [!UICONTROL Coleta de dados] inclui [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) para um gerenciamento universal de tags simplificado, o oferece uma infraestrutura de dados de transmissão confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e simplificam a entrega de experiência.
+A [!UICONTROL coleta de dados] da Adobe Experience Platform inclui [tags](https://experienceleague.adobe.com/docs/tags.html?lang=pt-BR) para um gerenciamento universal de tags simplificado e oferece uma infraestrutura de transmissão de dados confiável, robusta e completa. As tags simplificam a coleta de dados da experiência do cliente e facilitam a entrega da experiência.
 
 **Mudanças no Admin Console**
 
 Os administradores podem ver alterações ou adições ao Admin Console da seguinte maneira:
 
-* A placa de produto Adobe Experience Platform no Admin Console incluirá:
+* O cartão de produto da Adobe Experience Platform no Admin Console incluirá:
 
    * Places
-   * Controle
+   * Assurance
    * Namespace de identidade
    * Sandboxes
    * Experience Data Model
-   * Schemas
-   * Datastreams
+   * Esquemas
+   * Sequências de dados
    * ID de visitante
 
-   Para organizações que não estão usando o Experience Platform no momento, você verá a variável _Adobe Experience Platform_ produto no Admin Console, incluindo os recursos listados acima.
+   Para organizações que não estão usando a Experience Platform no momento, você verá o produto _Adobe Experience Platform_ no Admin Console, incluindo os recursos listados acima.
 
-   Para organizações que atualmente usam o Experience Platform, _Places_ agora será consolidado na placa Experience Platform.
+   Para organizações que atualmente usam a Experience Platform, o _Places_ agora será consolidado ao cartão da Experience Platform.
 
-* A coleta de dados (antigo Launch) e a privacidade do Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos do Experience Platform.
+* A coleta de dados (antigo Launch) e a privacidade da Adobe Experience Platform continuarão a ser exibidas como cartões de produto separados dos outros recursos da Experience Platform.
 
-Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas no Experience League:
+Para obter mais detalhes sobre os novos recursos, visite suas respectivas páginas na Experience League:
 
-* [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Coleta de dados](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=pt-BR)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
-* [Controle](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=pt-BR)
 * [Namespace de identidade](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=pt-BR)
 * [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=pt-BR)
 * [Esquemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=pt-BR)
-* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Sequências de dados](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=pt-BR)
+* [ID de visitante](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=pt-BR#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacidade](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR)
 
 ### Atualização de recursos
 
-Recurso lançado: **11 de julho de 2022**
+Lançamento do recurso: **11 de julho de 2022**
 
 | Recurso | Descrição |
 | ------- | ------- |
