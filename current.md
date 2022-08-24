@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 >
 >Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
 
-Última atualização: **12 de agosto de 2022**
+Última atualização: **23 de agosto de 2022**
 
 * Eventos da [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (atualizado **23 de agosto**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -412,6 +412,8 @@ O Adobe [!DNL Workfront] é um aplicativo unificado de gerenciamento de trabalho
 
 Novos cursos e tutoriais do Workfront na Experience League.
 
+**Atualização em 23 de agosto:** A tradução no Experience League de todos os tutoriais e documentação do produto da Workfront será lançada em breve!
+
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
 | Agosto de 2022 | [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR) | Página inicial do tutorial | Visite a nova página de tutoriais do Workfront na Experience League. |
@@ -419,7 +421,7 @@ Novos cursos e tutoriais do Workfront na Experience League.
 | Agosto de 2022 | [Aprimore seu conhecimento sobre as configurações do sistema para administradores do Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Curso | Saiba mais sobre as configurações do sistema para aprimorar a experiência dos usuários, incluindo organização de usuários, formulários personalizados, processos e marcos de aprovação e modelos de layout. |
 | Agosto de 2022 | [Introdução ao Workfront para planejadores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Curso | Inicie sua jornada do Workfront aprendendo a criar e planejar projetos. O Workfront recomenda que você mantenha as coisas simples. |
 | Agosto de 2022 | [Gerenciar e fechar um projeto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Curso | Agora que você sabe como criar e planejar projetos, podemos entender como gerenciá-los e fechá-los. |
-| Agosto de 2022 | [Melhor compreensão do gerenciamento do trabalho como planejador ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Curso | Depois de aprender as noções básicas sobre criar, planejar e gerenciar projetos, há mais algumas coisas que você deve saber para aproveitar ao máximo o Workfront. |
+| Agosto de 2022 | [Melhor compreensão do gerenciamento do trabalho como planejador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Curso | Depois de aprender as noções básicas sobre criar, planejar e gerenciar projetos, há mais algumas coisas que você deve saber para aproveitar ao máximo o Workfront. |
 | Agosto de 2022 | [Introdução ao Workfront para trabalhadores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Curso | Este curso é para usuários com uma licença de trabalho do Adobe Workfront que recebem trabalhos ou solicitações e colaboram com equipes em projetos e documentos. |
 | Agosto de 2022 | [Adobe Workfront para colaboradores](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Curso | Saiba como usar uma licença de revisão ou solicitação para solicitar, revisar e colaborar facilmente em tarefas, documentos e provas na nova experiência do Workfront. |
 | Agosto de 2022 | [Criar e gerenciar formulários personalizados](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Curso | Colete informações exclusivas de sua organização criando campos personalizados em seu sistema. Saiba como criar, compartilhar e anexar formulários personalizados no Workfront. |
