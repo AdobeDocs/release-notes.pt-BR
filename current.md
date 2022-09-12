@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
+source-wordcount: '6560'
 ht-degree: 40%
 
 ---
@@ -455,9 +455,8 @@ Consulte a página de [[!DNL Workfront] lançamentos de produtos](https://experi
 Notas de versão para [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Novos recursos no  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Novos recursos no  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Novos recursos no [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Última atualização: **12 de setembro de 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Pacote e posicionamento] | (Versão de 12 de setembro) Os controles de posicionamento separados estão agora disponíveis para o ritmo de voo e o ritmo intradiário. Anteriormente, uma estratégia única controlava ambos. As configurações dos pacotes e disposições existentes foram mapeadas da seguinte maneira:<ul><li>Legado **[!UICONTROL Estratégia de preenchimento da embalagem]**=*[!UICONTROL Mesmo]* — Agora configurado como **[!UICONTROL Espaçamento de voo]**=*[!UICONTROL Mesmo]* e **[!UICONTROL Espaçamento intradiário]**=*[!UICONTROL Mesmo]*</li><li>Legado **[!UICONTROL Estratégia de preenchimento da embalagem]**=*[!UICONTROL Um pouco à frente]* — Agora configurado como **[!UICONTROL Espaçamento de voo]**=*[!UICONTROL Um pouco à frente]* e **[!UICONTROL Espaçamento intradiário]**=*[!UICONTROL Mesmo]*</li><li>Legado **[!UICONTROL Estratégia de preenchimento da embalagem]**=*[!UICONTROL Frontload]* — Agora configurado como **[!UICONTROL Espaçamento de voo]**=*[!UICONTROL Frontload]* e **[!UICONTROL Espaçamento intradiário]**=*[!UICONTROL ASAP]*</li><li>Legado **[!UICONTROL Estratégia de preenchimento da embalagem]**=*[!UICONTROL Frontload agressivo]* — Agora configurado como **[!UICONTROL Espaçamento de voo]**=*[!UICONTROL Frontload agressivo]* e **[!UICONTROL Espaçamento intradiário]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Novos recursos no [!DNL Advertising Cloud Search] {#adcloud-search}
 
