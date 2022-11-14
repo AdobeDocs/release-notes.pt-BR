@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
-workflow-type: ht
-source-wordcount: '5293'
-ht-degree: 100%
+source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+workflow-type: tm+mt
+source-wordcount: '5305'
+ht-degree: 99%
 
 ---
 
@@ -19,15 +19,13 @@ ht-degree: 100%
 
 Como um criador de experiências, o seu caminho para o sucesso começa com a [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). Encontre uma biblioteca ampla de documentação de instruções, tutoriais autoguiados, vídeos de instruções e cursos para todos os níveis e funções, uma comunidade online de usuários e suporte especializado quando precisar.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League.
+>Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Verifique com frequência para ficar por dentro do que está acontecendo na Experience League. A próxima atualização prioritária de produto será implantada em **Janeiro de 2023**, após a temporada de férias. Fique ligado!
 
 Esta página fornece acesso às páginas de notas de versão de produto da Experience Cloud e aos tutoriais, cursos e eventos mais recentes da Experience League.
 
-Mês de lançamento: **novembro de 2022**
-
-Última atualização: **26 de outubro de 2022**
+Última atualização: **14 de novembro de 2022**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -204,13 +202,13 @@ _Novos recursos disponíveis no [!DNL Sites]canal de pré-lançamento_
 
 * O [console de fragmentos de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=pt-BR) fornece aos usuários uma opção para exibir o número total de cópias de idioma associadas a um fragmento de conteúdo. Também foi adicionado um recurso de acesso com um clique para exibir todas as cópias de idioma. Os usuários também podem filtrar a exibição de tabela pelo local de seu interesse.
 
-### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
+### Experience Manager [!DNL Assets] como [!DNL Cloud Service]
 
 _Novos recursos no[!DNL Assets]_
 
 * Agora você pode configurar o Adobe Experience Manager Assets para [restringir os tipos de ativos que os usuários podem carregar com base no tipo MIME](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=pt-BR).
 
-### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
+### Experience Manager [!DNL Forms] como [!DNL Cloud Service]
 
 _Novos recursos_
 
@@ -263,8 +261,8 @@ Novos vídeos, tutoriais e cursos publicados no mês passado.
 
 Todas as notas de versão do Experience Manager são mantidas nas seguintes páginas:
 
-* [Atualizações da versão do Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=pt-BR)
-* [Notas de versão atuais do Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR)
+* [Atualizações da versão do Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
+* [Notas de versão atuais do Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Informações sobre a versão do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=pt-BR)
 * [Notas de versão do Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=pt-BR)
 * [Notas de versão do Serviço de conversão automatizada de formulários](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=pt-BR)
@@ -285,7 +283,7 @@ Todas as notas de versão do Experience Manager são mantidas nas seguintes pág
 * [Página de aprendizagem e suporte do Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=pt-BR)
 * [Página de aprendizagem e suporte do Experience Manager 6.3](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR)
 * [Página de aprendizagem e suporte do Experience Manager 6.2](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR#previous-updates)
-* [Versões anteriores da documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR#previous-updates)
+* [Versões anteriores da documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Página inicial de ajuda do Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=pt-BR)
 * [Documentação do Experience Manager: atualizações recentes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=pt-BR#aem-as-a-cloud-service)
 
@@ -357,16 +355,16 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
 | Publicado | Nome | Tipo | Descrição | Aplicativos |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Outubro de 2022 | [Introdução à gestão de decisões para profissionais de marketing](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=pt-BR) | Vídeo | Saiba como usar campos enumerados e valores sugeridos para criar menus suspensos práticos na interface do construtor de segmentos. | Campaign v8 |
-| Outubro de 2022 | [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms&amp;lang=pt-BR) | Curso | Saiba como conectar a instância do Campaign ao provedor SMTP e como analisar e solucionar problemas de configuração. | Campaign v8 |
+| Outubro de 2022 | [Configurar SMS para o Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms&amp;lang=pt-BR) | Curso | Saiba como conectar a instância do Campaign ao provedor SMTP e como analisar e solucionar problemas de configuração. | Campanha v8 |
 | Outubro de 2022 | [Delegação de subdomínio completa](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=pt-BR) | Vídeo atualizado | Saiba como delegar completamente um subdomínio ao Adobe Campaign. | Painel de controle do Campaign |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Recursos de ajuda do Campaign
 
-* Adobe Campaign v8: [Documentação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=pt-BR) - [Guias de implementação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=pt-BR)
-* Adobe Campaign Standard: [Documentação do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR) - [Planejamento de lançamento](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=pt-BR)
-* Adobe Campaign Classic: [Documentação do Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=pt-BR) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=pt-BR)
+* Adobe Campaign v8: [Documentação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Guias de implementação](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=pt-BR)
+* Adobe Campaign Standard: [Documentação do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR) - [Planejamento de lançamento](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=pt-BR)
+* Adobe Campaign Classic: [Documentação do Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Vídeos explicativos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=pt-BR)
 * Painel de controle do Adobe Campaign: [Documentação](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=pt-BR)     - Vídeos tutoriais para [Vídeos tutoriais](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=pt-BR)
 
 ## ![Ícone](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -391,8 +389,8 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe [!DNL Journey Optimiz
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* [Documentação do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=pt-BR) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR)
-* [Documentação do Gerenciamento de decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=pt-BR) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=pt-BR)
+* [Documentação do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=pt-BR)
+* [Documentação do Gerenciamento de decisões](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=pt-BR)
 
 ## ![Ícone](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -404,7 +402,7 @@ Saiba mais sobre os recursos, melhorias e correções mais recentes nas Notas de
 
 #### Mais recursos para o [!DNL Journey Orchestration]
 
-* [Documentação do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=pt-BR) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=pt-BR)
+* [Documentação do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [Tutoriais em vídeo](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=pt-BR) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=pt-BR)
 
 ## ![Ícone](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -480,15 +478,15 @@ Last updated: **August 9, 2022**
 
 ### Novos recursos no [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última atualização: **14 de outubro de 2022** para a versão de 15 de outubro
+Última atualização: **14 de outubro de 2022** para versão de 15 de outubro
 
 | Recurso | Descrição |
 | ------- | ----------- |
 | [!UICONTROL Portfólios], [!UICONTROL Campanhas] | (Recurso beta de aceitação) Uma nova opção **[!UICONTROL Restrições de gasto da rede]** permite definir limites nas alocações de orçamento para redes de anúncios específicas em portfólios de várias redes. A opção está disponível para portfólios com estratégias de gasto diário, semanal e mensal e somente quando a opção **[!UICONTROL Ativar meta de gasto máximo da campanha %]** não está ativada. Quando a opção **[!UICONTROL Ajustar automaticamente os limites de orçamento da campanha]** estiver selecionada, as restrições funcionarão dentro dos valores configurados para as configurações de orçamento de campanha múltiplo e mínimo.<br><br>Um novo Relatório de restrição de rede em [!UICONTROL Relatórios básicos] mostra todos os orçamentos mínimos e máximos do mecanismo de pesquisa especificados e o gasto real (custo) para seus portfólios.<br><br>Para participar do programa beta, entre em contato com a equipe de conta. |
 | Campanhas, Bulksheets, Relatórios | (Recurso beta para contas do [!DNL Microsoft® Advertising]) O seguinte suporte está disponível para campanhas no [!DNL Microsoft® Audience Network]:<ul><li>Agora você pode criar, editar e alterar o status de campanhas de público (tipo de campanha **[!UICONTROL Público (imagem)]** ou **[!UICONTROL Público (feed)]**), grupos de anúncios (tipo de grupo de anúncios) **[!UICONTROL Público]**) e anúncios (tipo criativo **[!UICONTROL Anúncio responsivo]**) nas visualizações de [!UICONTROL Campanhas] e usar bulksheets.</li><li>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no Adobe Analytics (para anunciantes com uma integração com a [!DNL Analytics]).</li></ul>O suporte à otimização estará disponível em uma versão futura. |
-|  | (Recurso beta para contas do [!DNL Microsoft® Advertising]) Agora é possível criar e gerenciar anúncios multimídia em campanhas de pesquisa nas visualizações de [!UICONTROL Campanhas] e usar bulksheets Os anúncios têm o tipo criativo **[!UICONTROL Anúncio multimídia]**.<br><br>Você pode incluir campanhas com anúncios multimídia em portfólios padrão ou híbrido com qualquer estratégia de gastos, exceto para [!UICONTROL Compartilhamento de impressão de público-alvo] (que ainda não é compatível em portfólios híbridos).<br><br>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no [!DNL Analytics] (para anunciantes com uma integração com a [!DNL Analytics]). |
-| [!UICONTROL Campanhas], [!UICONTROL Relatórios] | (Recurso beta para contas do [!DNL Google Ads] e [!DNL Microsoft® Advertising]) As métricas de compartilhamento de impressões do editor agora estão disponíveis como colunas nas seguintes exibições e relatórios de gerenciamento de campanhas:<ul><li>Visualizações do gerenciamento de campanhas: todas as visualizações de entidade de campanha exceto [!UICONTROL Anúncios]. <b>Observação:</b> os dados no nível do anúncio não estão disponíveis nas redes de anúncios.</li><li>Relatórios básicos: todos os relatórios, exceto os relatórios [!UICONTROL Variação de anúncio], [!UICONTROL Campanha por hora] e [!UICONTROL Restrições de rede]. <b>Observação:</b> os dados no nível do anúncio não estão disponíveis nas redes de anúncios.</li><li>Relatórios de especialidades: [!UICONTROL Direcionamento de público do Bing e do AdWords], [!UICONTROL Compartilhamento diário de impressões da campanha] e [!UICONTROL Compartilhamento de impressão diária da palavra-chave].</li></ul><b>Observação:</b> como os relatórios [!UICONTROL Compartilhamento diário de impressões da campanha] e [!UICONTROL Compartilhamento de impressões diárias da palavra-chave] agora são redundantes, eles serão removidos em uma versão futura. Se você usar esses tipos de relatório para relatórios, modelos ou feeds de planilha agendados, faça a transição para o uso dos relatórios [!UICONTROL Campanha] e [!UICONTROL Palavra-chave]. Enquanto isso, algumas métricas existentes são duplicadas nesses tipos de relatório. |
-| [!UICONTROL Regras de valor de conversão] | ([!DNL Google Ads accounts]) A visualização [!UICONTROL Regras de valor de conversão] agora está fora da versão beta e está disponível de modo geral. Use-a para visualizar suas regras de valor de conversão do [!DNL Google Ads]. Anunciantes com rastreamento de conversão do [!DNL Google Ads] no nível de conta individual ou inferior também podem criar e gerenciar regras. |
+|  | (Recurso beta para contas do [!DNL Microsoft® Advertising]) Agora é possível criar e gerenciar anúncios multimídia em campanhas de pesquisa nas visualizações de [!UICONTROL Campanhas] e usar bulksheets Os anúncios têm o tipo criativo **[!UICONTROL Anúncio multimídia]**.<br><br>Você pode incluir campanhas com anúncios multimídia em portfólios padrão ou híbrido com qualquer estratégia de gastos, exceto para [!UICONTROL Compartilhamento de impressão de público-alvo] (que ainda não é compatível em portfólios híbridos).<br><br>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências, na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no [!DNL Analytics] (para anunciantes com uma integração com a [!DNL Analytics]). |
+| [!UICONTROL Campanhas], [!UICONTROL Relatórios] | (Recurso beta para contas do [!DNL Google Ads] e [!DNL Microsoft® Advertising]) As métricas de compartilhamento de impressões do editor agora estão disponíveis como colunas nas seguintes exibições e relatórios de gerenciamento de campanhas:<ul><li>Visualizações do gerenciamento de campanhas: todas as exibições de entidade de campanha exceto [!UICONTROL Anúncios]. <b>Observação:</b> os dados no nível do anúncio não estão disponíveis nas redes de anúncios.</li><li>Relatórios básicos: todos os relatórios, exceto os relatórios [!UICONTROL Variação de anúncio], [!UICONTROL Campanha por hora] e [!UICONTROL Restrições de rede]. <b>Observação:</b> os dados no nível do anúncio não estão disponíveis nas redes de anúncios.</li><li>Relatórios de especialidades: [!UICONTROL Direcionamento de público do Bing e do AdWords], [!UICONTROL Compartilhamento diário de impressões da campanha] e [!UICONTROL Compartilhamento de impressões diárias da palavra-chave].</li></ul><b>Observação:</b> como os relatórios [!UICONTROL Compartilhamento diário de impressões da campanha] e [!UICONTROL Compartilhamento de impressões diárias da palavra-chave] agora são redundantes, eles serão removidos em uma versão futura. Se você usar esses tipos de relatório para relatórios, modelos ou feeds de planilha agendados, faça a transição para usar os relatórios [!UICONTROL Campanha] e [!UICONTROL Palavra-chave]. Enquanto isso, algumas métricas existentes são duplicadas nesses tipos de relatório. |
+| [!UICONTROL Regras de valor de conversão] | ([!DNL Google Ads accounts]) A visualização [!UICONTROL Regras de valor de conversão] agora está fora da versão beta e está disponível de modo geral. Use-a para exibir suas regras de valor de conversão do [!DNL Google Ads]. Anunciantes com rastreamento de conversão do [!DNL Google Ads] no nível de conta individual ou inferior também podem criar e gerenciar regras. |
 | [!UICONTROL Insights de publicidade] | As análises [!UICONTROL Perda de compartilhamento de impressão] e [!UICONTROL Correspondência entre consultas] agora estão fora da versão beta e estão disponíveis de modo geral. |
 | [!UICONTROL Recommendations] | (Somente contas do [!DNL Google Ads]) O recurso [!UICONTROL Recommendations] agora está fora da versão beta e está disponível de modo geral.<ul><li>Ver as principais características de todas as recomendações do [!DNL Google Ads] que não foram implementadas em uma conta.</li><li>Aplicar e ignorar as recomendações de uma conta.</li><li>Visualizar logs de cada recomendação que foi aplicada para uma conta.</li></ul> |
 | **[!UICONTROL Importar campanhas]** | (Recurso Beta) Você pode importar as campanhas com o máximo de desempenho do [!DNL Google Ads], incluindo anúncios de inventário locais, para campanhas de compras inteligentes do [!DNL Microsoft® Advertising] em **[!UICONTROL Ferramentas]** > **[!UICONTROL Importar campanhas]**. Depois de importar campanhas, você pode verificar o status do seu processo de importação, revisar possíveis logs de erro e editar, pausar ou excluir o cronograma de importação. |
