@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
+source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
 workflow-type: tm+mt
-source-wordcount: '4997'
-ht-degree: 93%
+source-wordcount: '5136'
+ht-degree: 91%
 
 ---
 
@@ -446,9 +446,8 @@ Consulte a página de [[!DNL Workfront] lançamentos de produtos](https://experi
 Notas de versão para [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Novos recursos no  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Novos recursos no  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -464,26 +463,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-<!--
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Novos recursos no [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **October 6, 2022**
+Última atualização: **23 de novembro de 2022**
 
-| Feature | Description |
+| Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
+| Contratos | O [!UICONTROL Inventário] > [!UICONTROL Contratos] agora inclui um &quot;[!UICONTROL Saúde do acordo]&quot; coluna, que indica o status de integridade de cada negócio privado: &quot;[!UICONTROL Sucesso],&quot;[!UICONTROL Aviso],&quot;[!UICONTROL Crítico],&quot; ou &quot;[!UICONTROL Indisponível].&quot; Você pode clicar no status para ver mais detalhes, incluindo por que um negócio não está funcionando ou gastando como esperado e as etapas para solucionar possíveis problemas. |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Novos recursos no [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Última atualização: **17 de novembro de 2022** para a versão de 15 de novembro
+Última atualização: **23 de novembro de 2022** para a versão de 15 de novembro
 
 | Recurso | Descrição |
 | ------- | ----------- |
 | Campanhas, Bulksheets, Relatórios | ([!DNL Microsoft® Advertising] contas) Suporte para campanhas na [!DNL Microsoft® Audience Network] está fora de beta.<ul><li>Você pode criar, editar e alterar o status de campanhas de público-alvo (tipo de campanha &quot;[!UICONTROL Público-alvo (imagem)]&quot; ou &quot;[!UICONTROL Público-alvo (feed)]&quot;), grupos de anúncios (tipo de grupo de anúncios &quot;[!UICONTROL Público]&quot;) e anúncios (tipo criativo &quot;[!UICONTROL Anúncio responsivo]&quot;) do [!UICONTROL Campanhas] exibições e uso de bulksheets.</li><li>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências, na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no Adobe Analytics (para anunciantes com uma integração com a [!DNL Analytics]).</li></ul>O suporte à otimização estará disponível em uma versão futura. |
 |  | ([!DNL Microsoft® Advertising] contas) O suporte a anúncios multimídia está fora de beta. Você pode criar e gerenciar anúncios multimídia em campanhas de pesquisa a partir do [!UICONTROL Campanhas] exibir e usar bulksheets Os anúncios têm o tipo criativo &quot;[!UICONTROL Anúncio multimídia].&quot;<br><br>Você pode incluir campanhas com anúncios multimídia em portfólios padrão ou híbrido com qualquer estratégia de gastos, exceto para [!UICONTROL Compartilhamento de impressão de público-alvo] (que ainda não é compatível em portfólios híbridos).<br><br>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências, na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no [!DNL Analytics] (para anunciantes com uma integração com a [!DNL Analytics]). |
 | [!UICONTROL Públicos-alvo], [!UICONTROL Relatórios] | (Recurso beta para [!DNL Microsoft® Advertising] contas) Sua [!DNL Microsoft® Advertising] os públicos-alvo de remarketing dinâmicos agora são sincronizados e disponibilizados em [!UICONTROL Campanhas] > [!UICONTROL Públicos-alvo] com o [!UICONTROL Tipo de público-alvo] &quot;[!UICONTROL Remarketing dinâmico] &lt;*VisitorType*>&quot; (como &quot;Compradores antigos de remarketing dinâmico&quot;). Você também pode criar, atualizar e excluir públicos-alvo dinâmicos de remarketing.<br><br>Você pode usar os públicos-alvo como metas e exclusões de anúncios de nível de campanha e de grupo. As metas podem incluir modificadores de lance. **Observação:** Os modificadores de lance para públicos-alvo de remarketing dinâmico não são otimizados em portfólios com o &quot;[!UICONTROL Otimizar automaticamente valores de ajuste de lance]&quot;.<br><br>Os dados para públicos-alvo de remarketing dinâmicos estão disponíveis na variável [!UICONTROL Relatório de direcionamento de público-alvo]. |
+| [!UICONTROL Importar campanhas] | Todas as opções para importar seu [!DNL Google Ads] campanhas em [!DNL Microsoft Advertising] estão fora do beta:<ul><li>Importar [!DNL Google Display Network] campanhas em [!DNL Microsoft Advertising] campanhas de público-alvo na [!DNL Microsoft Audience Network].</li><li>Importar [!DNL Google Ads] campanhas máximas de desempenho, incluindo anúncios de inventário locais, em [!DNL Microsoft Advertising] campanhas de compras inteligentes.</li><li>Importação (já fora de beta) [!DNL Google Ads] pesquise e exiba campanhas em [!DNL Microsoft Advertising] pesquise e exiba campanhas.</li></ul>Depois de importar as campanhas de [!UICONTROL Pesquisar] > [!UICONTROL Ferramentas] > [!UICONTROL Importar campanhas], você pode verificar o status do seu trabalho de importação, revisar quaisquer logs de erro e editar, pausar ou excluir seu agendamento de importação. |
 
 {style=&quot;table-layout:auto&quot;}
 
