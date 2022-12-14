@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
+source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 91%
+source-wordcount: '5055'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 
 Esta página fornece acesso às páginas de notas de versão de produto da Experience Cloud e aos tutoriais, cursos e eventos mais recentes da Experience League.
 
-Última atualização: **7 de dezembro de 2022**
+Última atualização: **14 de dezembro de 2022**
 
 * [[!DNL Experience League] events](#events) (Atualizado) **7 de dezembro**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +57,10 @@ Os eventos da Experience League são um excelente local para aprender, interagir
 
 Eventos futuros:
 
-* [Webinário do Adobe Target](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **8 de dezembro** - _Como o Automated Personalization fornece experiências personalizadas dinâmicas em cada visita_
-* [Chat do Adobe Workfront Q&amp;A](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 de dezembro** - _Pergunte aos especialistas: Acompanhamento do webinar de Gerenciamento de Alterações de Navegação_
+* [Workshop do cliente da Adobe Workfront - Relatórios de fim de ano](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **15 de dezembro** - _Junte-se a nós para uma discussão interativa sobre como aproveitar melhor os relatórios no Workfront para compartilhar sua narrativa de fim de ano, incluindo uma demonstração prática._
 * [Workshop do cliente Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **21 de dezembro** - _Junte-se à equipe de Sucesso do cliente para obter uma discussão de 1 hora e analisar os tópicos de tendência da Comunidade do Workfront._
+* [Chat do administrador: Marketing e criação](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janeiro de 6** - _Essa sessão interativa é direcionada para conectá-lo a outros administradores, discutindo as práticas recomendadas, bem como dicas e truques para ajudá-lo a aproveitar ao máximo o Workfront para você e seus usuários._
+* [Conexões CS: Compartilhamento de práticas recomendadas estratégicas](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janeiro de 9** - _Procurando uma oportunidade de se conectar com outros clientes e discutir os recursos do Workfront? Participe da nossa série CS Connections. Uma oportunidade mensal de se conectar com outros clientes para discutir sobre os tópicos principais de sua organização._
 
 Para conferir a programação completa de eventos, consulte [Eventos na Experience League](https://experienceleague.adobe.com/events/?lang=pt-BR).
 
@@ -237,6 +238,7 @@ Novos vídeos, tutoriais e cursos publicados no mês passado.
 
 | Publicado | Nome | Tipo | Descrição | Aplicativos |
 | -----------| ---------- | ---------- | ---------- | ------|
+| Dezembro de 2022 | [Consultas persistentes de GraphQL ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | Vídeo | Saiba como criar consultas persistentes de GraphQL no Adobe Experience Manager as a Cloud Service para otimizar o desempenho. | AEM CS |
 | Dezembro de 2022 | [Filtrar amostra de código do aplicativo React](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Vídeo | Um aplicativo React simples que exibe aventuras WKND modeladas com Fragmentos de conteúdo. | Portal do desenvolvedor sem cabeçalho do AEM |
 | Dezembro de 2022 | [Aplicativo básico React](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Vídeo | Saiba como consultar conteúdo usando as APIs GraphQL do AEM e consultas persistentes. Este aplicativo renderiza um filtro de Aventuras WKND e, ao selecionar uma aventura, exibe os detalhes completos das aventuras. | Portal do desenvolvedor sem cabeçalho do AEM |
 | Dezembro de 2022 | [Filtrando amostra de código jQuery e Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Vídeo | Explore AEM capacidade das APIs headless do GraphQL de filtrar dados usando um aplicativo JavaScript que usa jQuery e Handlebars. Este aplicativo cria uma lista de aventuras WKND filtráveis por Tipo de atividade. | Portal do desenvolvedor sem cabeçalho do AEM |
@@ -430,6 +432,7 @@ Novos cursos e coleções de tutoriais do [!DNL Workfront] na Experience League.
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
+| Dezembro de 2022 | [Crie expressões ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | Vídeo atualizado | Saiba como usar e criar as expressões ADD em um campo calculado no Adobe Workfront. |
 | Outubro de 2022 | [Adicionar e editar configurações de coluna em um quadro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=pt-BR) | Vídeo | Saiba como adicionar e editar configurações de colunas em um quadro. |
 | Outubro de 2022 | [Relatórios avançados](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=pt-BR) | Vídeo | Saiba como usar a API Explorer e o modo de texto para criar filtros, visualizações e agrupamentos avançados que vão além dos recursos da interface de relatórios. |
 
