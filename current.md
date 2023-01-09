@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
+source-git-commit: dee94925c7872cf6108ec5c4fa4caaff774cf08b
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 91%
+source-wordcount: '4986'
+ht-degree: 90%
 
 ---
 
@@ -502,7 +502,7 @@ Para obter ajuda sobre a Document Cloud, consulte:
 
 ## ![Ícone](/assets/creative-cloud-24.png) Adobe Creative Cloud para corporações {#creative-cloud}
 
-Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
+Novos vídeos, tutoriais ou cursos publicados do Adobe Creative Cloud for enterprise.
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
