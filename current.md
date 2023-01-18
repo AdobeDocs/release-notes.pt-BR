@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
+source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
 workflow-type: tm+mt
-source-wordcount: '5416'
-ht-degree: 57%
+source-wordcount: '5495'
+ht-degree: 56%
 
 ---
 
@@ -25,7 +25,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 
 Esta página fornece acesso às páginas de notas de versão de produto da Experience Cloud e aos tutoriais, cursos e eventos mais recentes da Experience League.
 
-Última atualização: **11 de janeiro de 2023**
+Última atualização: **18 de janeiro de 2023**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -485,10 +485,11 @@ Last updated: **August 9, 2022**
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
-Última atualização: **10 de janeiro de 2022**
+Última atualização: **18 de janeiro de 2022**
 
 | Recurso | Descrição |
 | ------- | ----------- |
+| Campanhas, Bulksheets, Avançado (ACM) | (Versão de 5 de janeiro; [!DNL Google Ads] e [!DNL Microsoft Advertising] campanhas) Se você criou personalizadores de anúncios nos editores da rede de anúncios, agora pode usá-los como atributos nos campos de texto de anúncios de pesquisa responsivos em [!DNL Advertising Search]. Em títulos de anúncios, descrições e o primeiro e o segundo caminhos dos URLs de exibição, use os seguintes formatos para incluir um personalizador de anúncio:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exemplo de um personalizador de anúncio em um título de anúncio: &quot;Enorme inventário de botas de chuva em uma `{CUSTOMIZER.Discount:10%}` desconto.&quot; |
 | Campanhas, bulksheets, relatórios | (Contas do [!DNL Microsoft® Advertising]; versão de 15 de novembro) Não há mais suporte para campanhas da [!DNL Microsoft® Audience Network] na versão beta.<ul><li>Você pode criar, editar e alterar o status de campanhas de público (tipo de campanha “[!UICONTROL Público (imagem)]” ou “[!UICONTROL Público (feed)]”), grupos de anúncios (tipo de grupo de anúncios “[!UICONTROL Público]”) e anúncios (tipo criativo “[!UICONTROL Anúncio responsivo]”) nas visualizações de [!UICONTROL Campanhas] e ao usar bulksheets.</li><li>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências, na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no Adobe Analytics (para anunciantes com uma integração com a [!DNL Analytics]).</li></ul>Você pode incluir campanhas de público-alvo em portfólios padrão ou híbridos. |
 |  | (Contas do [!DNL Microsoft® Advertising]; versão de 15 de novembro) Não há mais suporte para anúncios multimídia na versão beta. Você pode criar e gerenciar anúncios multimídia em campanhas de pesquisa nas visualizações de [!UICONTROL Campanhas] e ao usar bulksheets. Os anúncios têm o tipo criativo “[!UICONTROL Anúncio multimídia].”<br><br>Você pode incluir campanhas com anúncios multimídia em portfólios padrão ou híbrido com qualquer estratégia de gastos, exceto para [!UICONTROL Compartilhamento de impressão de público-alvo] (que ainda não é compatível em portfólios híbridos).<br><br>Você pode visualizar suas campanhas de público existentes, com dados de desempenho em formato de tabela e gráfico de tendências, na visualização de [!UICONTROL Campanhas]. Os dados de desempenho no nível do anúncio também estão disponíveis em relatórios e no [!DNL Analytics] (para anunciantes com uma integração com a [!DNL Analytics]). |
 | [!UICONTROL Públicos], [!UICONTROL Relatórios] | (Contas do [!DNL Microsoft® Advertising]; versão de 29 de novembro) Não há mais suporte para públicos de remarketing dinâmicos na versão beta:<ul><li>Os públicos de remarketing dinâmicos são sincronizados e disponibilizados em [!UICONTROL Campanhas] > [!UICONTROL Públicos] com o [!UICONTROL tipo de público] “[!UICONTROL Remarketing dinâmico] &lt;*VisitorType*>” (como “Compradores antigos de remarketing dinâmico”). Você também pode criar, atualizar e excluir públicos de remarketing dinâmicos.</li><li>Você pode usá-los como exclusões e públicos alvo de anúncios no nível da campanha e do grupo de anúncios. Os públicos alvo podem incluir modificadores de oferta. **Observação:** os modificadores de oferta para públicos alvo de remarketing dinâmico não são otimizados em portfólios com a configuração “[!UICONTROL Otimizar valores de ajuste de oferta automaticamente]”.</li><li>Os dados para públicos de remarketing dinâmicos estão disponíveis no [!UICONTROL Relatório de direcionamento de público].</li></ul> |
