@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 
 Esta página fornece acesso às páginas de notas de versão de produto da Experience Cloud e aos tutoriais, cursos e eventos mais recentes da Experience League.
 
-Última atualização: **18 de janeiro de 2023**
+Última atualização: **3 de fevereiro de 2023**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Novos recursos no [!DNL Advertising DSP] {#advertising-dsp}
 
-Última atualização: **23 de novembro de 2022**
+Última atualização: **3 de fevereiro de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| Transações | A visualização [!UICONTROL Inventário] > [!UICONTROL Transações] agora conta com a coluna “[!UICONTROL Integridade da transação]”, que indica o status de integridade de cada transação privada: “[!UICONTROL Sucesso]”, “[!UICONTROL Aviso]”, “[!UICONTROL Crítico]” ou “[!UICONTROL Indisponível]”. Você pode clicar no status para ver mais detalhes, incluindo por que uma transação não está funcionando ou gastando conforme o esperado e as etapas para solucionar possíveis problemas. |
+| [!UICONTROL Transações] | (Versão de 25 de janeiro) Uma nova coluna de gastos &quot;Pacote de impressão PG&quot; em Inventário > Vendas exibe relatórios em andamento para ofertas garantidas. |
+| [!UICONTROL Campanhas] | (Versão de 4 de janeiro) Um log de alterações, que mostra as alterações feitas durante o intervalo de datas selecionado, agora está disponível para cada campanha. Os logs de alteração já estavam disponíveis para pacotes e disposições. |
 
 {style=&quot;table-layout:auto&quot;}
 
