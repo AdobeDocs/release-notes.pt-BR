@@ -6,7 +6,7 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
+source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
 workflow-type: tm+mt
 source-wordcount: '5407'
 ht-degree: 98%
@@ -25,7 +25,7 @@ Como um criador de experiências, o seu caminho para o sucesso começa com a [Ex
 
 Esta página fornece acesso às páginas de notas de versão de produto da Experience Cloud e aos tutoriais, cursos e eventos mais recentes da Experience League.
 
-Mês de lançamento: **Janeiro de 2023**
+Mês de lançamento: **janeiro de 2023**
 
 Última atualização: **5 de fevereiro de 2023**
 
