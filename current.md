@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
-ht-degree: 59%
+source-wordcount: '5006'
+ht-degree: 58%
 
 ---
 
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### Novos recursos no [!DNL Advertising DSP] {#advertising-dsp}
 
-Última atualização: **3 de fevereiro de 2023**
+Última atualização: **8 de fevereiro de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Transações] | (Versão de 25 de janeiro) Uma nova coluna de gastos &quot;Pacote de impressão PG&quot; em Inventário > Vendas exibe relatórios em andamento para ofertas garantidas. |
-| [!UICONTROL Campanhas] | (Versão de 4 de janeiro) Um log de alterações, que mostra as alterações feitas durante o intervalo de datas selecionado, agora está disponível para cada campanha. Os logs de alteração já estavam disponíveis para pacotes e disposições. |
+| [!UICONTROL Campanhas] | (Versão de 3 de fevereiro; (recursos beta) agora é possível visualizar logs de alterações no formulário do gráfico e adicionar observações a qualquer entrada. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
-Última atualização: **18 de janeiro de 2022**
+Última atualização: **8 de fevereiro de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas], [!UICONTROL Bulksheets], [!UICONTROL Avançado (ACM)] | (Versão de 5 de janeiro: [!DNL Google Ads] e [!DNL Microsoft Advertising] campanhas) - Se você criou personalizadores de anúncios nos editores da rede de anúncios, agora pode usá-los como atributos nos campos de texto de anúncios de pesquisa responsivos em [!DNL Advertising Search]. Em títulos de anúncios, descrições e o primeiro e segundo caminhos dos URLs de exibição, use os seguintes formatos para incluir um personalizador de publicidade:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exemplo de um personalizador de publicidade em um título de anúncio: &quot;Enorme estoque de botas de chuva com `{CUSTOMIZER.Discount:10%}` de desconto&quot;. |
-| [!UICONTROL Importar campanhas] | (Versão de 5 de janeiro: [!DNL Google Ads] e [!DNL Microsoft Advertising] campanhas) - Você pode replicar suas [!DNL Google Ads] personalizadores de anúncios para seus [!DNL Microsoft Advertising] campanhas de [!UICONTROL Pesquisar] > [!UICONTROL Ferramentas] > [!UICONTROL Importar campanhas]. Eles serão replicados automaticamente se você não personalizar o trabalho de importação. Se você personalizar o trabalho de importação especificando o que importar, selecione [!UICONTROL Feeds] > [!UICONTROL Feeds personalizadores de anúncios.] |
+| [!UICONTROL Campanhas] | (Versão de 6 de fevereiro; recurso beta) O suporte de sincronização somente leitura agora está disponível para seu [!DNL Google Ads] campanhas de descoberta. As campanhas de descoberta têm [!UICONTROL Tipo de campanha] &quot;[!UICONTROL Descoberta],&quot; [!UICONTROL Tipo de grupo de anúncios] &quot;[!UICONTROL Descoberta],&quot; e [!UICONTROL Tipo de criação] &quot;[!UICONTROL Anúncio de descoberta]&quot; (para anúncios de imagem única) ou &quot;[!UICONTROL Anúncio de carrossel de descoberta]&quot; (para anúncios de carrossel de várias imagens). Você pode incluir campanhas de descoberta em portfólios padrão e híbridos.<br><br>Os dados a nível de anúncio para suas campanhas de descoberta estão disponíveis em relatórios. Para anunciantes com uma integração do Adobe Analytics, os dados de nível de anúncio estão disponíveis em [!DNL Analytics]. Da mesma forma, [!DNL Analytics] Os dados do estão disponíveis em [!DNL Search]; os dados são enviados usando o `s_kwcid` , independentemente do parâmetro de rastreamento do `s_kwcid` normalmente é usado para a conta. Se você normalmente usa a versão mais antiga da `s_kwcid`, seus dados de clique/custo e dados de receita são rastreados usando diferentes `s_kwcids`, mas ambos os conjuntos de dados são totalmente classificados e agregados na mesma campanha e conta. |
 
 {style=&quot;table-layout:auto&quot;}
 
