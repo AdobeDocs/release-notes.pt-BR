@@ -1,15 +1,15 @@
 ---
 description: Informações para ajudá-lo a entrar em contato com a Adobe e compreender as questões jurídicas relativas à utilização deste produto e documentação.
 keywords: gerenciamento dinâmico de tags; notas de versão
-seo-description: Informações para ajudá-lo a entrar em contato com a Adobe e compreender as questões jurídicas relativas à utilização deste produto e documentação.
-seo-title: Contato e informações legais
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: Contato e informações legais
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -42,8 +42,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Termos de uso](https://www.adobe.com/go/marketingcloud_terms_of_use_br) | [Central de privacidade](https://www.adobe.com/br/privacy/policy.html)
+[Termos de uso](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Central de privacidade](https://www.adobe.com/br/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third Party Code Information available at [http://www.adobe.com/go/thirdparty_br](https://www.adobe.com/br/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Updated Information/Additional Third Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/br/products/eula/third_party/).
