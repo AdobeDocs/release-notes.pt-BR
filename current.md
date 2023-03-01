@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
+source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
 workflow-type: tm+mt
 source-wordcount: '5139'
 ht-degree: 96%
@@ -27,11 +27,11 @@ Esta página ajuda você a se manter atualizado sobre as informações de lança
 
 Seu caminho para o sucesso começa com a [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). Navegue por nossa vasta biblioteca de [documentação de produto](https://experienceleague.adobe.com/docs/?lang=pt-BR) por autoatendimento e [tutoriais em vídeo](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) guiados. Encontre [cursos](https://experienceleague.adobe.com/?lang=pt-BR#courses) para todos os níveis e funções, faça perguntas em nossa [comunidade](https://experienceleaguecommunities.adobe.com/?profile.language=pt) online de usuários e obtenha [suporte](https://experienceleague.adobe.com/?support-tab=home&amp;lang=pt-BR#support) especializado sempre que precisar.
 
-## Adobe Summit 2023
+## Adobe [!DNL Summit] 2023
 
 Junte-se a nós em Las Vegas para expandir seu conjunto de habilidades, despertar inspiração e criar conexões que capacitam você a tornar a economia digital pessoal. Para aqueles que não podem participar do evento de classe mundial em Vegas, junte-se a nós virtualmente de qualquer lugar gratuitamente.
 
-[!BADGE Inscreva-se no Summit]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Inscreva-se no Summit"}
+[!BADGE Registrar]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registrar para [!DNL Adobe Summit]&quot;}
 
 ## Atualizações e eventos de lançamento de produto - Fevereiro de 2023
 
