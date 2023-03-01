@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ Esta página ajuda você a se manter atualizado sobre as informações de lança
 **Precisa de ajuda?**
 
 Seu caminho para o sucesso começa com a [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home). Navegue por nossa vasta biblioteca de [documentação de produto](https://experienceleague.adobe.com/docs/?lang=pt-BR) por autoatendimento e [tutoriais em vídeo](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) guiados. Encontre [cursos](https://experienceleague.adobe.com/?lang=pt-BR#courses) para todos os níveis e funções, faça perguntas em nossa [comunidade](https://experienceleaguecommunities.adobe.com/?profile.language=pt) online de usuários e obtenha [suporte](https://experienceleague.adobe.com/?support-tab=home&amp;lang=pt-BR#support) especializado sempre que precisar.
+
+## Adobe Summit 2023
+
+Junte-se a nós em Las Vegas para expandir seu conjunto de habilidades, despertar inspiração e criar conexões que capacitam você a tornar a economia digital pessoal. Para aqueles que não podem participar do evento de classe mundial em Vegas, junte-se a nós virtualmente de qualquer lugar gratuitamente.
+
+[!BADGE Inscreva-se no Summit]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Inscreva-se no Summit"}
 
 ## Atualizações e eventos de lançamento de produto - Fevereiro de 2023
 
@@ -538,9 +544,9 @@ Last updated: **August 9, 2022**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas] | (Versão de 6 de fevereiro; recurso beta) A compatibilidade de sincronização somente leitura agora está disponível para suas campanhas de descoberta do [!DNL Google Ads]. As campanhas de descoberta têm [!UICONTROL Tipo de campanha] &quot;[!UICONTROL Descoberta],&quot; [!UICONTROL Tipo de grupo de anúncios] &quot;[!UICONTROL Descoberta],&quot; e [!UICONTROL Tipo de criação] &quot;[!UICONTROL Anúncio de descoberta]&quot; (para anúncios de imagem única) ou &quot;[!UICONTROL Anúncio de carrossel de descoberta]&quot; (para anúncios de carrossel de várias imagens). Você pode incluir campanhas de descoberta em portfólios padrão e híbridos.<br><br>Os dados de nível de anúncio para suas campanhas de descoberta estão disponíveis nos relatórios. Para anunciantes com uma integração do Adobe Analytics, os dados de nível de anúncio estão disponíveis no [!DNL Analytics]. Da mesma forma, os dados do [!DNL Analytics] estão disponíveis no [!DNL Search]; os dados são enviados usando o parâmetro de rastreamento atualizado `s_kwcid`, independentemente do formato do `s_kwcid` normalmente usado para a conta. Se você geralmente usa a versão mais antiga do `s_kwcid`, seus dados de clique/custo e receita são rastreados usando `s_kwcids` diferentes, mas ambos os conjuntos de dados são totalmente classificados e agregados na mesma campanha e conta. |
-|  | ([!DNL Google Ads] Contas; Versão de 11 de fevereiro) Suporte para &quot;[!UICONTROL Compartilhamento de impressão do Target]&quot; a estratégia de lance agora está disponível somente para campanhas na rede de pesquisa. Para esta estratégia de oferta, [!DNL Google Ads] (não [!DNL Search]) otimiza os lances para obter um compartilhamento de impressões de público-alvo e a posição dos anúncios. Opcionalmente, é possível inserir uma [!UICONTROL Compartilhamento de impressão do Target] como uma porcentagem, a variável [!UICONTROL Posição do anúncio do Target]e um [!UICONTROL CPC Máx.] (custo por clique). Essa opção ainda não é compatível em portfólios híbridos. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft] campanhas; Versão de 11 de fevereiro) Os bulksheets agora incluem &quot;[!UICONTROL Chamada à ação]&quot; e &quot;[!UICONTROL Chamada para o idioma de ação]&quot; colunas para anúncios multimídia (em formato de anúncio responsivo), que usam o &quot;[!UICONTROL Creative (exceto RSA)]&quot;. |
+| [!UICONTROL Campanhas] | (Versão de 6 de fevereiro; recurso beta) A compatibilidade de sincronização somente leitura agora está disponível para suas campanhas de descoberta do [!DNL Google Ads]. As campanhas de descoberta têm [!UICONTROL Tipo de campanha] &quot;[!UICONTROL Descoberta],&quot; [!UICONTROL Tipo de grupo de anúncios] &quot;[!UICONTROL Descoberta]e&quot; [!UICONTROL Tipo de criação] &quot;[!UICONTROL Anúncio de descoberta]&quot; (para anúncios de imagem única) ou &quot;[!UICONTROL Anúncio do carrossel de descobertas]&quot; (para anúncios em carrossel de várias imagens). Você pode incluir campanhas de descoberta em portfólios padrão e híbridos.<br><br>Os dados de nível de anúncio para suas campanhas de descoberta estão disponíveis nos relatórios. Para anunciantes com uma integração do Adobe Analytics, os dados de nível de anúncio estão disponíveis no [!DNL Analytics]. Da mesma forma, os dados do [!DNL Analytics] estão disponíveis no [!DNL Search]; os dados são enviados usando o parâmetro de rastreamento atualizado `s_kwcid`, independentemente do formato do `s_kwcid` normalmente usado para a conta. Se você geralmente usa a versão mais antiga do `s_kwcid`, seus dados de clique/custo e receita são rastreados usando `s_kwcids` diferentes, mas ambos os conjuntos de dados são totalmente classificados e agregados na mesma campanha e conta. |
+|  | ([!DNL Google Ads] contas do; versão de 11 de fevereiro) Suporte para &quot;[!UICONTROL Compartilhamento de impressão do Target]&quot;a estratégia de oferta agora está disponível somente para campanhas na rede de pesquisa. Para essa estratégia de oferta, [!DNL Google Ads] (não [!DNL Search]) otimiza ofertas para alcançar um compartilhamento de impressões alvo e uma posição de anúncio. Opcionalmente, você pode informar uma [!UICONTROL Compartilhamento de impressão do Target] em porcentagem, a variável [!UICONTROL Posição do anúncio de destino], e uma [!UICONTROL CPC máximo] (custo por clique). Essa opção ainda não é permitida em portfólios híbridos. |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] campanhas do; versão de 11 de fevereiro) Os bulksheets agora incluem &quot;[!UICONTROL Chamada para ação]&quot; e &quot;[!UICONTROL Idioma do Plano de Ação]&quot;colunas para anúncios multimídia (em formato de anúncio responsivo), que usam o&quot;[!UICONTROL Criativo (exceto RSA)]linha &quot;. |
 
 {style=&quot;table-layout:auto&quot;}
 
