@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
+source-git-commit: c1a4ac7a30c7ba1a9021d2f2fd1052449bf0a1ee
 workflow-type: tm+mt
-source-wordcount: '5241'
+source-wordcount: '5200'
 ht-degree: 93%
 
 ---
@@ -31,7 +31,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 Junte-se a nós em Las Vegas para expandir seu conjunto de habilidades, despertar inspiração e criar conexões que capacitam você a tornar a economia digital pessoal. Para aqueles que não podem participar do evento de classe mundial em Vegas, junte-se a nós virtualmente de qualquer lugar gratuitamente.
 
-[!BADGE Registrar]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other"; tooltip="Registrar para [!DNL Adobe Summit]"}
+[!BADGE Registrar]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;Registrar para [!DNL Adobe Summit]&quot;}
 
 ## Atualizações e eventos de lançamento de produto - Fevereiro de 2023
 
@@ -88,7 +88,7 @@ Data de lançamento: **19 de janeiro de 2023**
 | Experiência do usuário aprimorada e correções de erros | <ul><li>As manutenções canceladas são relatadas corretamente como Canceladas ao invés de Concluídas.</li><li>Aprimoramentos e correções de erros nas notificações por email.</li></ul> |
 | Assinaturas aprimoradas com atualizações de ofertas de produtos | <ul><li>Capacidade de assinar o [!DNL Adobe Campaign] e o [!DNL Adobe Target] em um nível granular de ofertas de produto na página [Gerenciar assinaturas](https://status.adobe.com/pt/proactive-notifications/manage).</li></ul> |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#status). -->
 
@@ -114,7 +114,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Experience Pla
 | -----------| ---------- | ---------- | ---------- |
 | Fevereiro de 2023 | [Namespaces de identidade desconhecida](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html?lang=pt-BR) | Artigo da knowledge base | Descubra por que existem namespaces de identidade não padrão na interface de identidades da [!DNL Adobe Experience Platform] (AEP). |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### SDK do [!DNL Mobile]
 
@@ -142,7 +142,7 @@ Novos tutoriais em vídeo, artigos e cursos publicados para o Adobe Analytics.
 | Fevereiro de 2023 | [Filtros de tabelas de forma livre no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/freeform-table-filters.html?lang=pt-BR) | Vídeo atualizado | Saiba como os filtros podem oferecer mais controle sobre quais linhas de dados são compartilhadas em uma tabela de forma livre. |
 | Fevereiro de 2023 | [Análise de venda cruzada no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.html?lang=pt-BR) | Vídeo atualizado | Saiba como criar o relatório de [!UICONTROL venda cruzada] no Analysis Workspace e como estendê-lo ainda mais para qualquer classificação ou dimensão de vários valores. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Ícone](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
@@ -184,7 +184,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Adobe Audience
 | Fevereiro de 2023 | [Não é possível salvar um modelo semelhante](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html?lang=pt-BR) | Novo artigo | Descubra a solução para quando um modelo semelhante não pode ser salvo. |
 | Fevereiro de 2023 | [Como os namespaces de identidade da AEP estão relacionados às fontes de dados do AAM?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html?lang=pt-BR) | Novo artigo | Descubra como os [!DNL Identity Namespaces] da AEP estão relacionadas às [!DNL Data Sources] do AAM. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Para obter recursos de autoajuda, consulte a [Documentação e tutoriais do Audience Manager](https://experienceleague.adobe.com/docs/audience-manager.html?lang=pt-BR) na Experience League.
 
@@ -295,7 +295,7 @@ Novos vídeos, tutoriais e cursos publicados no mês passado.
 | Fevereiro de 2023 | [Filtragem do aplicativo Express](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-express-pug-app.html?lang=pt-BR) | Portal do desenvolvedor do AEM Headless | Explore a capacidade que as APIs GraphQL do AEM Headless possuem de filtrar dados usando um aplicativo Express e Pug. Este aplicativo Express cria uma lista de aventuras do WKND que podem ser filtradas por tipo de atividade. | AEM CS |
 | Fevereiro de 2023 | [Meu espaço de trabalho no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/my-workspace.html?lang=pt-BR) | Vídeo | Saiba como trabalhar com mais eficiência usando os widgets configuráveis pelo usuário do Meu espaço de trabalho. | AEM Assets |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Informações sobre a versão do Experience Manager
 
@@ -326,7 +326,7 @@ Novo artigo e atualizações de artigos já existentes do [!DNL Adobe Experience
 | Fevereiro de 2023 | [Os links de entrada não mostram todas as páginas vinculadas](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html?lang=pt-BR) | Novo artigo | Descubra a solução para o problema de links de entrada que não mostram todas as páginas vinculadas. |
 | Fevereiro de 2023 | [Exemplos de análise de request.log \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html?lang=pt-BR) | Novo artigo | Saiba mais sobre as várias informações contidas no `request.log` do [!DNL Adobe Experience Manager] (AEM). |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Outros recursos de Ajuda do Experience Manager
 
@@ -370,7 +370,7 @@ Novos recursos e conteúdo disponíveis para o [!DNL Adobe Commerce].
 | Fevereiro de 2023 | [Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html?lang=pt-BR) | Vídeo | Saiba mais sobre o Developer App Builder e como ele pode oferecer uma funcionalidade personalizada e exclusiva à sua loja do Adobe Commerce sem a necessidade de usar métodos em processo. |
 | Fevereiro de 2023 | [Demonstração funcional do App Builder para o Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html?lang=pt-BR) | Vídeo | Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma demonstração técnica. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Knowledge base de suporte do [!DNL Commerce]
 
@@ -380,7 +380,7 @@ Novos artigos e atualizações de artigos já existentes do Adobe Commerce.
 |---------|--------|---------|---------|
 | Fevereiro de 2023 | [Ferramenta de correção de qualidade (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html?lang=pt-BR) | Novos artigos | Foram publicados novos artigos sobre como aplicar as correções disponíveis nas versões 1.1.24 e 1.1.25 do QPT, que podem ser encontrados nas suas respectivas seções. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Ícone](/assets/target.png) [!DNL Target] {#target}
 
@@ -403,7 +403,7 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Fevereiro de 2023 | _Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign_ | Artigo | Conheça as dez práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e fornecer uma melhor experiência para seus clientes. | Consulte: <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=pt-BR)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=pt-BR)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=pt-BR) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Knowledge base de suporte do [!DNL Campaign]
 
@@ -414,7 +414,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Adobe Campaign
 | Fevereiro de 2023 | [Preparação de poucas entregas na V8](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html?lang=pt-BR) | Novo artigo | Descubra a solução para o problema de preparação de poucas entregas na versão 8.3.8 do [!DNL Adobe Campaign Classic] V8. |
 | Fevereiro de 2023 | [Os seed addresses são duplicados quando uma entrega recorrente é executada](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html?lang=pt-BR) | Novo artigo | Descubra a solução alternativa para o problema no qual os seed addresses são duplicados quando uma entrega recorrente é executada. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Recursos de ajuda do [!DNL Campaign]
 
@@ -435,7 +435,9 @@ Saiba mais sobre os recursos, melhorias e correções mais recentes nas [Notas d
 
 Novos vídeos, tutoriais e cursos publicados para o Adobe [!DNL Journey Optimizer].
 
-|Fevereiro de 2023|[Configurar credenciais da API de SMS e superfícies de canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=pt-BR)|Vídeo |Saiba como conectar o Journey Optimizer a um provedor de serviços de SMS e como criar uma superfície de canal SMS.|
+| Publicado | Nome | Tipo | Descrição |
+|---------|-------|--------|---------|
+| Fevereiro de 2023 | [Configurar credenciais da API de SMS e superfícies de canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=pt-BR) | Vídeo | Saiba como conectar o Journey Optimizer a um provedor de serviços de SMS e como criar uma superfície de canal de SMS. |
 
 ### Knowledge base de suporte do [!DNL Journey Optimizer]
 
@@ -447,7 +449,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Adobe Journey 
 | Fevereiro de 2023 | [Acesso negado ao Assets Essentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html?lang=pt-BR) | Novo artigo | Descubra a solução para quando o acesso ao [!DNL Assets Essentials] é negado. |
 | Fevereiro de 2023 | [Falha na publicação de uma jornada no modo de teste](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html?lang=pt-BR) | Novo artigo | Descubra a solução para quando há uma falha na publicação de uma jornada no modo de teste. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
@@ -502,7 +504,7 @@ Novos cursos e coleções de tutoriais do [!DNL Workfront] na Experience League.
 | Fevereiro de 2023 | [Assuma o controle de uma instância existente do Adobe Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=pt-BR) | Vídeo | Descubra as principais etapas para avaliar, entender e otimizar sua instância do [!DNL Workfront] como um novo administrador de sistema ou de grupo. |
 | Fevereiro de 2023 | [Personalizar cabeçalhos de projeto com modelos de layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html?lang=pt-BR) | Vídeo | Saiba como adicionar e remover campos dos cabeçalhos de projetos por meio de modelos de layout. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Consulte a página de [[!DNL Workfront] lançamentos de produtos](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=pt-BR) para obter um resumo das informações mais recentes de todos os produtos.
 
@@ -536,7 +538,7 @@ Last updated: **August 9, 2022**
 | ------- | ----------- |
 | [!UICONTROL Campanhas] | (Versão de 15 de fevereiro) Agora é possível visualizar logs de alteração em um formulário de gráfico e adicionar notas a qualquer entrada. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
@@ -549,7 +551,7 @@ Last updated: **August 9, 2022**
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] campanhas do; versão de 11 de fevereiro) Os bulksheets agora incluem &quot;[!UICONTROL Chamada para ação]&quot; e &quot;[!UICONTROL Idioma do Plano de Ação]&quot;colunas para anúncios multimídia (em formato de anúncio responsivo), que usam o&quot;[!UICONTROL Criativo (exceto RSA)]linha &quot;. |
 | Contas do gerente do Google | (Versão de 23 de fevereiro) Uma nova [!UICONTROL Admin] > [!UICONTROL Contas do gerente] permite fornecer autenticação para [!DNL Google Ads] contas de gerente para as quais [!DNL Search] O carregará conversões entre contas. Use este recurso se desejar a) fazer upload [!DNL Adobe]Métricas de conversão entre contas rastreadas para um [!DNL Google Ads] conta do gerente ou b) fazer upload de objetivos de portfólio que incluem conversões entre contas para [!DNL Google Ads] para otimização híbrida.<br><br>Depois de adicionar credenciais para uma conta de gerente, a opção &quot;[!UICONTROL Conta de gerente para conversões entre contas]&quot; na [!UICONTROL Campanhas] > [!UICONTROL Contas] a exibição indica a ID da conta do gerente para cada conta filho e a coluna mostra um erro quando a conta do gerente não está autenticada. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ![Ícone](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
@@ -559,7 +561,7 @@ Novos tutoriais e cursos publicados para a [!DNL Document Cloud], incluindo o [!
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Fevereiro de 2023 | [Introdução ao Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html?lang=pt-BR) | Vídeo | Você é novo no Acrobat Sign? Este tutorial abrangente é um ótimo local para começar, pois foca em todas as noções básicas para que você possa começar a trabalhar com o Acrobat Sign o quanto antes. | Acrobat Sign |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Para obter ajuda com a [!DNL Document Cloud], consulte:
 
