@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4607'
 ht-degree: 45%
 
 ---
@@ -115,7 +115,7 @@ Encontre as informações da versão mais recente e a nova documentação do [!D
 
 +++Detalhes
 
-* [Notas de versão do Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=pt-BR) - versão planejada - **29 de março de 2032**
+* [Notas de versão do Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=pt-BR) - versão planejada - **29 de março de 2023**
 
 ### Novos tutoriais e cursos do [!DNL Experience Platform]
 
@@ -481,7 +481,7 @@ Novos vídeos, tutoriais e cursos publicados para o Adobe [!DNL Journey Optimize
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
 | Março de 2023 | [Configurar uma sandbox de treinamento](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | Tutorial | Saiba como configurar uma sandbox para fins de treinamento. Percorra as etapas necessárias para configurar os esquemas, assimilar dados de amostra e criar eventos. |
-| Março de 2023 | [Desafios do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Desafios | Os desafios proporcionam um cenário e os requisitos necessários para praticar o que você aprendeu. Cada desafio aborda um caso de uso exclusivo que você implementa. <p>Novos desafios:<ul><li>[Criar um anúncio de coleção de verão ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)  </li><li>[  Criar uma confirmação do pedido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)  </li><li>[Criar uma notificação de reabastecimento de produto](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| Março de 2023 | [Desafios do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | Desafios | Os desafios proporcionam um cenário e os requisitos necessários para praticar o que você aprendeu. Cada desafio aborda um caso de uso exclusivo que você implementa. <p>Novos desafios:<ul><li>[Criar um anúncio de coleção de verão ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)  </li><li>[  Criar uma confirmação do pedido](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)  </li></ul> |
 
 {style="table-layout:auto"}
 
