@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **20 de março de 2023**
+Última atualização: **27 de março de 2023**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
-Última atualização: **2 de março de 2023**
+Última atualização: **27 de março de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
 | [!UICONTROL Campanhas] | ([!DNL Microsoft Advertising] campanhas de audiência; recurso beta aberto; Lançamento de 18 de março) As campanhas do público-alvo agora podem usar a estratégia de lance CPC (eCPC) aprimorada. Você pode definir lances nas configurações de grupo de anúncios filho.<br><br>Campanhas de público-alvo com eCPC podem ser incluídas em portfólios para otimização. |
+| [!UICONTROL Campanhas], [!UICONTROL Portfolio] | ([!DNL Google Ads] Contas; abrir recurso beta) O suporte à otimização agora está disponível para [!DNL Google Ads] campanhas de desempenho máximo e você pode adicioná-las a portfólios híbridos. As metas da estratégia de lance e os orçamentos da campanha são definidos no nível da campanha. |
 | [!UICONTROL Campanhas], [!UICONTROL Relatórios] | ([!DNL Google Ads] e [!DNL Microsoft Advertising] Contas; Versão de 18 de março) As novas métricas de destaque a seguir estão disponíveis nas exibições e relatórios do gerenciamento de campanha:<ul><li><p>[!UICONTROL O conteúdo é]: O número de impressões recebidas para anúncios na rede de exibição/público-alvo dividido pelo número estimado de impressões de anúncios de exibição que você estava qualificado a receber.</p><p>Este e o outro &quot;[!UICONTROL Conteúdo]*&quot; métricas estão disponíveis em todas as exibições de gerenciamento de campanha para entidades pertinentes aos anúncios de conteúdo e nos relatórios básicos relacionados:  [!UICONTROL Mecanismo de pesquisa], [!UICONTROL Conta do mecanismo de pesquisa], [!UICONTROL Campanha], [!UICONTROL Grupo de anúncios]e [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Conteúdo perdido IS (orçamento)]: A porcentagem estimada de impressões que seus anúncios na rede de exibição/público-alvo não receberam porque seu orçamento diário ou mensal era muito baixo.<p></li><li><p>[!UICONTROL Conteúdo perdido IS (classificação)]: A porcentagem estimada de impressões que seus anúncios na rede de exibição/público-alvo não foram mostrados devido a uma classificação de anúncio ruim.</p></li><li><p>[!UICONTROL Procurar correspondência exata IS]: O número de impressões recebidas para pesquisas que corresponderam exatamente à sua palavra-chave dividido pelo número estimado de impressões de correspondência exatas que você estava qualificado a receber.</p><p>Essa métrica está disponível em todas as exibições de gerenciamento de campanha para entidades pertinentes aos anúncios de pesquisa e nos relatórios básicos relacionados:  [!UICONTROL Mecanismo de pesquisa], [!UICONTROL Conta do mecanismo de pesquisa], [!UICONTROL Campanha], [!UICONTROL Grupo de anúncios], [!UICONTROL Palavra-chave], [!UICONTROL Grupo de produtos]e [!UICONTROL Portfolio]. Eles também estão no [!UICONTROL Restrição], [!UICONTROL Classificação do rótulo]e [!UICONTROL Valor do rótulo] relatórios.</p></li></ul> |
 
 {style="table-layout:auto"}
