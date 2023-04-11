@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4580'
-ht-degree: 89%
+source-wordcount: '4634'
+ht-degree: 88%
 
 ---
 
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
-<!--
-Last updated: **March 2, 2023**
+Última atualização: **10 de abril, 2023**
 
-| Feature | Description |
+| Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Relatórios ] | (Versão de março) Um novo [!UICONTROL Famílias] mostra impressões, alcance e frequência em várias dimensões em um nível de residência com base no endereço IP, em vez de em um nível de dispositivo/cookie. O relatório inclui nove dimensões: [!UICONTROL Campanha], [!UICONTROL Embalagem], [!UICONTROL Posicionamento], [!UICONTROL Site/Aplicativos], [!UICONTROL Tipo de mídia], [!UICONTROL Dispositivo], [!UICONTROL Público], [!UICONTROL Comprimento criativo]e criadas pelo usuário [!UICONTROL Tags]. |
 
 {style="table-layout:auto"}
--->
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
