@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
+source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
 workflow-type: tm+mt
-source-wordcount: '5816'
-ht-degree: 60%
+source-wordcount: '5717'
+ht-degree: 62%
 
 ---
 
@@ -495,13 +495,13 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
 | Publicado | Nome | Tipo | Descrição | Aplicativos |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Abril de 2023 | [Dados de consulta](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en) | Vídeo | Saiba como consultar dados usando o editor de consultas. | Campaign v8 |
-| Abril de 2023 | [Adicionar anexos a um delivery de email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Vídeo | Saiba como adicionar anexos a um delivery de email e como configurar diferentes tipos de anexos de email. | Campaign v8 |
+| Abril de 2023 | [Adicionar anexos a uma entrega de email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Vídeo | Saiba como adicionar anexos a uma entrega de email e como configurar diferentes tipos de anexos de email. | Campaign v8 |
 | Abril de 2023 | [Configurar entregas para testes A/B](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html) | Vídeo | Saiba como configurar uma entrega para testes A/B. | Campaign v8 |
 | Abril de 2023 | [Configurar landing pages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html) | Vídeo | Saiba como criar e configurar landing pages. | Campaign v8 |
 | Abril de 2023 | [Configurar atividades do scheduler](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | Vídeo | Saiba como configurar uma atividade do scheduler em um fluxo de trabalho. | Campaign v8 |
 | Abril de 2023 | [Criar uma central de preferências](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html) | Vídeo | Saiba como criar um centro de preferências usando o editor de aplicativos Web do Adobe Campaign. | Campaign v8 |
 | Abril de 2023 | [Gerenciar fusos horários](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html) | Vídeo | Saiba como aplicar fusos horários a atividades de fluxo de trabalho agendadas. | Campaign v8 |
-| Abril de 2023 | [Entender o gerenciamento de quarentena](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Vídeo | Entenda como o gerenciamento de quarentena funciona no Adobe Campaign e saiba como gerenciar endereços em quarentena. | Campaign v8 |
+| Abril de 2023 | [Entender o gerenciamento de quarentena](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Vídeo | Saiba como o gerenciamento de quarentena funciona no Adobe Campaign e como gerenciar endereços em quarentena. | Campaign v8 |
 | Abril de 2023 | [Agendar mensagens](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html) | Vídeo | Saiba como agendar uma entrega de email. | Campaign v8 |
 | Abril de 2023 | [Enviar uma prova de uma entrega de email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html) | Vídeo | Saiba como testar uma mensagem de email antes de enviá-la para os destinatários finais. | Campaign v8 |
 
@@ -676,13 +676,12 @@ Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
 ### Novos recursos no [!DNL Advertising Search] {#advertising-search}
 
-Última atualização: **27 de março de 2023**
+Última atualização: **14 de abril, 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; recurso beta aberto; Lançamento de 18 de março) As campanhas do público-alvo agora podem usar a estratégia de lance CPC (eCPC) aprimorada. Você pode definir lances nas configurações de grupo de anúncios filho.<br><br>Campanhas de público-alvo com eCPC podem ser incluídas em portfólios para otimização. |
-| [!UICONTROL Campanhas], [!UICONTROL Portfolio] | ([!DNL Google Ads] Contas; abrir recurso beta) O suporte à otimização agora está disponível para [!DNL Google Ads] campanhas de desempenho máximo e você pode adicioná-las a portfólios híbridos. As metas da estratégia de lance e os orçamentos da campanha são definidos no nível da campanha. |
-| [!UICONTROL Campanhas], [!UICONTROL Relatórios] | ([!DNL Google Ads] e [!DNL Microsoft® Advertising] Contas; Versão de 18 de março) As novas métricas de destaque a seguir estão disponíveis nas exibições e relatórios do gerenciamento de campanha:<ul><li><p>[!UICONTROL O conteúdo é]: O número de impressões recebidas para anúncios na rede de exibição/público-alvo dividido pelo número estimado de impressões de anúncios de exibição que você estava qualificado a receber.</p><p>Este e o outro [!UICONTROL Conteúdo] As métricas estão disponíveis em todas as exibições de gerenciamento de campanha para entidades pertinentes aos anúncios de conteúdo e nos relatórios básicos relacionados:  [!UICONTROL Mecanismo de pesquisa], [!UICONTROL Conta do mecanismo de pesquisa], [!UICONTROL Campanha], [!UICONTROL Grupo de anúncios]e [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Conteúdo perdido IS (orçamento)]: A porcentagem estimada de impressões que seus anúncios na rede de exibição/público-alvo não receberam porque seu orçamento diário ou mensal era muito baixo.<p></li><li><p>[!UICONTROL Conteúdo perdido IS (classificação)]: A porcentagem estimada de impressões que seus anúncios na rede de exibição/público-alvo não foram mostrados devido a uma classificação de anúncio ruim.</p></li><li><p>[!UICONTROL Procurar correspondência exata IS]: O número de impressões recebidas para pesquisas que corresponderam exatamente à sua palavra-chave dividido pelo número estimado de impressões de correspondência exatas que você estava qualificado a receber.</p><p>Essa métrica está disponível em todas as exibições de gerenciamento de campanha para entidades pertinentes aos anúncios de pesquisa e nos relatórios básicos relacionados:  [!UICONTROL Mecanismo de pesquisa], [!UICONTROL Conta do mecanismo de pesquisa], [!UICONTROL Campanha], [!UICONTROL Grupo de anúncios], [!UICONTROL Palavra-chave], [!UICONTROL Grupo de produtos]e [!UICONTROL Portfolio]. Eles também estão no [!UICONTROL Restrição], [!UICONTROL Classificação do rótulo]e [!UICONTROL Valor do rótulo] relatórios.</p></li></ul> |
+| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; Versão de 15 de abril) As campanhas de público-alvo agora podem usar a estratégia de lance &quot;CPM manual&quot;. Você pode definir lances nas configurações de grupo de anúncios filho.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Recommendations] | Seis novos ([!DNL Google Ads] as recomendações estão disponíveis em [!UICONTROL Insights e relatórios] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Pesquisa responsiva melhora a força da publicidade]: Sugestões para melhorar a força da publicidade para uma pesquisa responsiva</li><li>[!UICONTROL Atualize a campanha local para o máximo de desempenho]: Atualizar uma campanha local herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Atualize a campanha de compras inteligentes para o máximo desempenho]: Atualizar uma campanha de compras inteligentes herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Conjunto de previsões ROAS do Target]: Levante o orçamento antes de um evento sazonal previsto para aumentar o tráfego e altere a estratégia de licitação de [!DNL Maximize Conversion Value] para [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta de CPA do Target muito baixa]: Levante o [!DNL Target CPA] por um valor recomendado quando é muito baixo e há poucas ou nenhuma conversão</li><li>[!UICONTROL Exibir opção de expansão]: Expanda o alcance atualizando uma campanha para usar a expansão de exibição</li></ul>Como adicionar e remover ativos, alterar tipos de campanha e alterar orçamentos e estratégias de lances pode afetar o desempenho, recomendamos discutir os prós e contras de cada recomendação com a Equipe da Conta do Adobe para que você possa tomar uma decisão informada. |
 
 {style="table-layout:auto"}
 
