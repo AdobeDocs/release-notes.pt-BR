@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
+source-wordcount: '5765'
 ht-degree: 62%
 
 ---
@@ -31,7 +31,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **12 de abril de 2023**
+Última atualização: **18 de abril de 2023**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [Certificação no Adobe](#certification) (**Novo!**)
@@ -58,13 +58,23 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 Descubra o que está acontecendo na Experience League. Os eventos são excelentes oportunidades para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
+Atualizado: **19 de abril de 2023**
+
 +++Eventos futuros
 
-* **[!DNL Workfront]** | _Conectar: Chat do administrador estratégico_ | **10 de abril às 8:00 CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Pergunte aos especialistas: Aprimoramento Da Limpeza De Fluxo De Trabalho Por Meio Do Acompanhamento Do Webinar De Automação_ | **27 de abril às 10:30 MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Quebra de café da Comunidade do Adobe Target com Matthew Baillie e Georgia Frailey_ | **12 de abril às 8:00 PT** |  [Registrar](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _Workshop de Supercarregadores da AEM Sites_ | **25 de abril às 8:00 PT** |  [Registrar](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Saiba: Rodada de versão do Adobe Workfront 23.2_ | **12 de abril às 12:30 CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Obtenha coleta de dados e encaminhamento de eventos com apenas alguns cliques!_ | **25 de abril às 9:00 PT** | [Registrar](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Aprofundamento do Marketo Campeion: Infraestrutura de email_ | **25 de abril às 10:00 PT** | [Registrar](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM Campeão de Horário de Escritório - AEM as a Cloud Service_ | **27 de abril às 7:30 PT** | [Registrar](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Criar uma equipe de especialistas da Adobe Analytics_ | **27 de abril às 8:00 PT** | [Registrar](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Forneça experiências personalizadas de clientes, sempre!_ | **27 de abril a 9:00 BST** | [Registrar](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Revise a Cúpula o ano todo!_ | **Sob demanda** | [Detalhes](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; Versão de 15 de abril) As campanhas de público-alvo agora podem usar a estratégia de lance &quot;CPM manual&quot;. Você pode definir lances nas configurações de grupo de anúncios filho.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; Versão de 15 de abril) As campanhas de público-alvo agora podem usar a estratégia de lance &quot;CPM manual&quot;. Você pode definir lances nas configurações de grupo de anúncios filho.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Seis novos ([!DNL Google Ads] as recomendações estão disponíveis em [!UICONTROL Insights e relatórios] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Pesquisa responsiva melhora a força da publicidade]: Sugestões para melhorar a força da publicidade para uma pesquisa responsiva</li><li>[!UICONTROL Atualize a campanha local para o máximo de desempenho]: Atualizar uma campanha local herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Atualize a campanha de compras inteligentes para o máximo desempenho]: Atualizar uma campanha de compras inteligentes herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Conjunto de previsões ROAS do Target]: Levante o orçamento antes de um evento sazonal previsto para aumentar o tráfego e altere a estratégia de licitação de [!DNL Maximize Conversion Value] para [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta de CPA do Target muito baixa]: Levante o [!DNL Target CPA] por um valor recomendado quando é muito baixo e há poucas ou nenhuma conversão</li><li>[!UICONTROL Exibir opção de expansão]: Expanda o alcance atualizando uma campanha para usar a expansão de exibição</li></ul>Como adicionar e remover ativos, alterar tipos de campanha e alterar orçamentos e estratégias de lances pode afetar o desempenho, recomendamos discutir os prós e contras de cada recomendação com a Equipe da Conta do Adobe para que você possa tomar uma decisão informada. |
 
 {style="table-layout:auto"}
