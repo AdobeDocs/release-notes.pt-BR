@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
+source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
 workflow-type: tm+mt
-source-wordcount: '5765'
-ht-degree: 94%
+source-wordcount: '5752'
+ht-degree: 93%
 
 ---
 
@@ -31,10 +31,10 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **18 de abril de 2023**
+Última atualização: **4 de maio de 2023**
 
-* [Eventos da [!DNL Experience League]](#events)
-* [Certificação na Adobe](#certification) (**Novo!**)
+* [[!DNL Experience League] events](#events) (Atualizado: **4 de maio**)
+* [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Administração e interface da [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,27 +58,19 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 Descubra o que está acontecendo na Experience League. Os eventos são excelentes oportunidades para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
-Atualizado: **19 de abril de 2023**
+Atualizado em: **4 de maio de 2023**
 
 +++Eventos futuros
 
-* **[!DNL Workfront]** | _Pergunte aos especialistas: Aprimoramento Da Limpeza De Fluxo De Trabalho Por Meio Do Acompanhamento Do Webinar De Automação_ | **27 de abril às 10:30 MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Conectar: Chat do administrador para Marketing e criação_ | **5 de maio às 10:00 MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _Workshop de Supercarregadores da AEM Sites_ | **25 de abril às 8:00 PT** |  [Registrar](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign: Receba marketing por email direito, sempre!_ | **11 de maio às 9:00 BST** |  [Registrar](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _Obtenha coleta de dados e encaminhamento de eventos com apenas alguns cliques!_ | **25 de abril às 9:00 PT** | [Registrar](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _Saiba: Campos personalizados calculados no Workfront_ | **11 de maio às 10:30 MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Aprofundamento do Marketo Campeion: Infraestrutura de email_ | **25 de abril às 10:00 PT** | [Registrar](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Comércio e café: 7 maneiras de criar fidelidade e retenção do cliente_ | **11 de maio às 13:00 PT** | [Registrar](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM Campeão de Horário de Escritório - AEM as a Cloud Service_ | **27 de abril às 7:30 PT** | [Registrar](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _Criar uma equipe de especialistas da Adobe Analytics_ | **27 de abril às 8:00 PT** | [Registrar](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target - Forneça experiências personalizadas de clientes, sempre!_ | **27 de abril a 9:00 BST** | [Registrar](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_Revisite o Summit o ano todo._ | **Sob demanda** | [Detalhes](https://business.adobe.com/summit/adobe-summit.html)
-
-Consulte [Eventos da Experience League](https://experienceleague.adobe.com/events/?lang=pt-BR) para obter uma programação completa dos eventos futuros e eventos passados sob demanda.
+* **[!DNL Workfront]** | _Conectar: Chat do administrador estratégico_ | **15 de maio às 8:00 CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
