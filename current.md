@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5499'
+source-wordcount: '5500'
 ht-degree: 47%
 
 ---
@@ -31,7 +31,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **8 de maio de 2023**
+Última atualização: **9 de maio de 2023**
 
 * [Eventos da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -60,7 +60,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 Descubra o que está acontecendo na Experience League. Os eventos são excelentes oportunidades para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
-Atualizado em: **10 de maio de 2023**
+Atualizado em: **9 de maio de 2023**
 
 +++Eventos futuros
 
@@ -195,7 +195,7 @@ Encontre as informações da versão mais recente do [!DNL Customer Journey Anal
 
 +++Detalhes
 
-Próxima versão: **10 de maio de 2023**
+Data de lançamento: **10 de maio de 2023**
 
 * [Notas de versão](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=pt-BR) do Customer Journey Analytics
 * [Documentação de produto e tutoriais](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=pt-BR) do Customer Journey Analytics
@@ -217,7 +217,7 @@ Novos vídeos, tutoriais ou cursos publicados para o CJA.
 
 ## ![Ícone](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Versão: **10 de maio de 2023**
+Data de lançamento: **10 de maio de 2023**
 
 * [Notas de versão](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=pt-BR) do [!DNL Streaming Media Analytics]
 * [Documentação do produto e tutoriais](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=pt-BR) do [!DNL Streaming Media Analytics]
