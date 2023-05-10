@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5731'
+source-wordcount: '5725'
 ht-degree: 49%
 
 ---
@@ -472,9 +472,9 @@ Clique aqui para obter os recursos, melhorias e correções mais recentes do [!D
 
 Saiba mais sobre as funcionalidades, as melhorias e as correções mais recentes nas notas de versão do [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=pt-BR), do [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=pt-BR) e do [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=pt-BR).
 
-### Novos tutoriais e cursos do [!DNL Campaign] {#tutorials-campaign}
+### Novos tutoriais da [!DNL Campaign] {#tutorials-campaign}
 
-Novos vídeos, tutoriais ou cursos publicados para o Adobe Campaign.
+Novos vídeos, tutoriais ou cursos publicados para o [!DNL Adobe Campaign].
 
 | Publicado | Nome | Tipo | Descrição | Aplicativo |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,9 +516,9 @@ Obtenha as informações da versão mais recente do [!DNL Journey Optimizer]. Ve
 
 Saiba mais sobre os recursos, melhorias e correções mais recentes nas [Notas de versão do Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=pt-BR).
 
-### Novos tutoriais e cursos do [!DNL Journey Optimizer] {#tutorials-ajo}
+### Novos tutoriais da [!DNL Journey Optimizer] {#tutorials-ajo}
 
-Novos vídeos, tutoriais e cursos publicados para o Adobe [!DNL Journey Optimizer].
+Novos vídeos, tutoriais ou cursos publicados para o Adobe [!DNL Journey Optimizer].
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
