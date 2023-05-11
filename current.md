@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 49%
+source-wordcount: '5723'
+ht-degree: 50%
 
 ---
 
@@ -368,7 +368,7 @@ Novos vídeos, tutoriais e cursos publicados no mês passado.
 | Maio de 2023 | [Personalizar editor de texto em comunicações interativas](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | Vídeo | Personalize o editor de texto em comunicações interativas para adicionar fontes e tamanhos personalizados. | AEM Forms |
 | Maio de 2023 | [Reagir aplicativo com AEM Forms e Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | Vídeo | Crie um documento de comunicação interativa com os dados enviados de um aplicativo de reação nativo e o apresente ao usuário final para assinatura usando o widget de assinatura Acrobat | AEM Forms |
 | Maio de 2023 | [Integrar o Forms CS ao Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | Vídeo | Saiba como configurar e integrar o AEM Forms CS com o Microsoft® Sharepoint | AEM Forms CS |
-| Maio de 2023 | [Armazenar envio de formulário em uma unidade](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Vídeo | Configure o formulário adaptável para armazenar os dados do formulário em uma unidade. | AEM Forms CS |
+| Maio de 2023 | [Armazenar envio de formulário no OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | Vídeo | Configure o formulário adaptável para armazenar dados de formulário no OneDrive. | AEM Forms CS |
 | Maio de 2023 | [Como usar imagens otimizadas do AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=pt-BR) | Vídeo | Saiba como usar imagens otimizadas no AEM Headless. | AEM CS |
 | Maio de 2023 | [Como trabalhar com grandes resultados no AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | Vídeo | Saiba como trabalhar com grandes conjuntos de resultados com AEM Headless. | AEM CS |
 
@@ -480,7 +480,7 @@ Novos vídeos, tutoriais ou cursos publicados para o [!DNL Adobe Campaign].
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Maio de 2023 | [Criar uma pesquisa](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Vídeo | Saiba como criar uma pesquisa em [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
 | Maio de 2023 | [Criar uma pesquisa](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Vídeo | Saiba como criar uma pesquisa em [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| Maio de 2023 | [Conteúdo do delivery de email de design](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Vídeo | Saiba como configurar, personalizar e testar o conteúdo de delivery de email. Entenda como usar modelos, fazer upload de imagens, adicionar emoticons e incorporar códigos de barra e QR. | [!DNL Campaign Classic] |
+| Maio de 2023 | [Design do conteúdo de entrega de email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Vídeo | Saiba como configurar, personalizar e testar o conteúdo de entrega de email. Entenda como usar templates, fazer upload de imagens, adicionar emoticons e incorporar códigos de barra e QR. | [!DNL Campaign Classic] |
 | Maio de 2023 | [Monitorar um delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Vídeo | Entenda os logs de mensagens, os logs de tarefas e os logs do delivery. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -523,7 +523,7 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe [!DNL Journey Optimiz
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
 | Maio de 2023 | [Criar uma campanha da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Vídeo | Saiba como criar uma experiência da Web usando o editor visual da Web em [!DNL Journey Optimizer] campanhas. |
-| Maio de 2023 | [Criar uma campanha da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Vídeo | Entenda o que é uma campanha da Web. Saiba como configurar as propriedades da campanha da Web, analisá-las e publicá-las. |
+| Maio de 2023 | [Criar uma campanha da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Vídeo | Entenda o que é uma campanha da Web. Saiba como configurar as propriedades da campanha da Web, revisá-las e publicá-las. |
 | Maio de 2023 | [Exportar conjuntos de dados para locais de armazenamento na nuvem](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Vídeo | Saiba como exportar um conjunto de dados de [!DNL Journey Optimizer] para um [!DNL Amazon] Destino S3. |
 
 {style="table-layout:auto"}
@@ -680,7 +680,7 @@ Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; Versão de 15 de abril) As campanhas de público-alvo agora podem usar a estratégia de lance &quot;CPM manual&quot;. Você pode definir lances nas configurações de grupo de anúncios secundário.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de audiência; Versão de 15 de abril) As campanhas de público-alvo agora podem usar a estratégia de lance &quot;CPM manual&quot;. Você pode definir lances nas configurações de grupo de anúncios secundário.<br><br>O suporte a otimização não está disponível para campanhas CPM. |
 | [!UICONTROL Recommendations] | Seis novos ([!DNL Google Ads] as recomendações estão disponíveis em [!UICONTROL Insights e relatórios] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Pesquisa responsiva melhora a força da publicidade]: Sugestões para melhorar a força da publicidade para uma pesquisa responsiva</li><li>[!UICONTROL Atualize a campanha local para o máximo de desempenho]: Atualizar uma campanha local herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Atualize a campanha de compras inteligentes para o máximo desempenho]: Atualizar uma campanha de compras inteligentes herdada para uma campanha máxima de desempenho</li><li>[!UICONTROL Conjunto de previsões ROAS do Target]: Levante o orçamento antes de um evento sazonal previsto para aumentar o tráfego e altere a estratégia de licitação de [!DNL Maximize Conversion Value] para [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta de CPA do Target muito baixa]: Levante o [!DNL Target CPA] por um valor recomendado quando é muito baixo e há poucas ou nenhuma conversão</li><li>[!UICONTROL Exibir opção de expansão]: Expanda o alcance atualizando uma campanha para usar a expansão de exibição</li></ul>Como adicionar e remover ativos, alterar tipos de campanha e alterar orçamentos e estratégias de lances pode afetar o desempenho, recomendamos discutir os prós e contras de cada recomendação com a Equipe da Conta do Adobe para que você possa tomar uma decisão informada. |
 
 {style="table-layout:auto"}
