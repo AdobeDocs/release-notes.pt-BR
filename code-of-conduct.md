@@ -1,6 +1,8 @@
 ---
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
-translation-type: ht
+source-git-commit: 9a146261c08d182f45f0d2a0dbb0a1519b2af38f
+workflow-type: tm+mt
+source-wordcount: '431'
+ht-degree: 100%
 
 ---
 # Código de conduta da Adobe
@@ -9,7 +11,7 @@ translation-type: ht
 
 Para incentivar um ambiente aberto e acolhedor, nós, como contribuidores e administradores, temos o compromisso de participar para que nosso projeto e
 nossa comunidade tenham uma experiência livre de ataques para todos, independentemente da idade, do corpo,
-da incapacidade, da einia, da identidade de gênero e expressão, do nível de experiência,
+da incapacidade, da etnia, da identidade de gênero e expressão, do nível de experiência,
 da nacionalidade, da aparência, da raça, da religião ou da identidade e orientação sexual.
 
 ## Nossos padrões
@@ -66,7 +68,7 @@ membros da liderança do projeto.
 ## Atribuição
 
 Este Código de conduta é adaptado a partir do [Contrato do contribuinte][homepage], versão 1.4,
-disponível em [https://contributor-covenant.org/version/1/4][version]
+disponível em [https://www.contributor-covenant.org/pt/version/1/4/code-of-conduct][version]
 
 [homepage]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
