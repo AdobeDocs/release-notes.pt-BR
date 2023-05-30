@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
+workflow-type: tm+mt
+source-wordcount: '5698'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **22 de maio de 2023**
+Última atualização: **30 de maio de 2023**
 
 * Eventos e atualizações da [[!DNL Experience League] ](#events) (atualizado em **22 de maio**)
 * [Certificação na Adobe](#certification)
@@ -52,7 +52,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (atualizado em **30 de maio**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -671,11 +671,11 @@ Last updated: **August 9, 2022**
 
 Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
-Última atualização: **10 de abril de 2023**
+Última atualização: **30 de maio de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Relatórios] | (Versão de março) Um novo relatório [!UICONTROL Domicílio] mostra impressões, alcance e frequência em várias dimensões em nível de domicício com base no endereço IP, em vez de no nível de dispositivo/cookie. O relatório inclui nove dimensões: [!UICONTROL Campanha], [!UICONTROL Pacote], [!UICONTROL Posicionamento], [!UICONTROL Site/Aplicativos], [!UICONTROL Tipo de mídia], [!UICONTROL Dispositivo], [!UICONTROL Público], [!UICONTROL Comprimento criativo] e [!UICONTROL Tags] criadas pelo usuário. |
+| [!UICONTROL Campanhas] | (Versão de 24 de maio) Agora você pode pausar ou ativar campanhas, pacotes e anúncios. Você já pode pausar e ativar disposições. |
 
 {style="table-layout:auto"}
 
