@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5609'
-ht-degree: 98%
+source-wordcount: '5635'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,7 @@ Seu caminho para o sucesso começa com a [Experience League](https://experiencel
 * Eventos e atualizações da [[!DNL Experience League] ](#events) (atualizado em **22 de maio**)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [Administração e interface da [!DNL Experience Cloud]](#ecloud)
+* [[!DNL Experience Cloud] interface e administração](#ecloud) (Atualizado **Maio de 25**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ Encontre atualizações da página inicial da interface, administração (gerenc
 
 +++Detalhes
 
-_Não atualizado em maio._
+Versão: **25 de maio de 2023**
+
+* Atualização do menu Ajuda para incluir resultados de pesquisa de vídeos tutoriais do Experience League, documentação do produto e publicações da comunidade. Você pode visualizar os resultados em Experience League.
 
 Para obter ajuda, consulte [Guia de administração e interface da Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente] e [!UICONTROL Públicos]).
 
