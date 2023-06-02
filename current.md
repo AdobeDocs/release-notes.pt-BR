@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5635'
-ht-degree: 97%
+source-wordcount: '5517'
+ht-degree: 96%
 
 ---
 
@@ -677,14 +677,14 @@ Saiba mais sobre os recursos mais recentes da Adobe Advertising.
 
 {style="table-layout:auto"}
 
-### Novos recursos no [!DNL Advertising Search] {#advertising-search}
+### Novos recursos no [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Última atualização: **14 de abril de 2023**
+Última atualização: **1 de junho de 2023**
 
 | Recurso | Descrição |
 | ------- | ----------- |
-| [!UICONTROL Campanhas] | ([!DNL Microsoft® Advertising] campanhas de público; versão de 15 de abril) As campanhas de público agora podem usar a estratégia de lance de “CPM manual”. Você pode definir lances nas configurações de grupo de anúncios secundário.<br><br>A compatibilidade com a otimização não está disponível para campanhas de CPM. |
-| [!UICONTROL Recommendations] | Seis novas ([!DNL Google Ads] recomendações estão disponíveis em [!UICONTROL Insights e relatórios] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL A pesquisa responsiva melhora a força da publicidade]: sugestões para melhorar a força da publicidade para uma pesquisa responsiva</li><li>[!UICONTROL Atualizar campanha local para campanha de desempenho máximo]: atualize uma campanha local herdada para uma campanha de desempenho máximo</li><li>[!UICONTROL Atualizar uma campanha de compras inteligentes para uma de máximo desempenho]: atualize uma campanha de compras inteligentes herdada para uma campanha de máximo desempenho</li><li>[!UICONTROL Conjunto de previsões de ROAS do Target]: aumente o orçamento antes de um evento sazonal previsto para aumentar o tráfego e altere a estratégia de lances de [!DNL Maximize Conversion Value] para [!DNL Target ROAS]</li><li>[!UICONTROL Aumentar oferta muito baixa de CPA do Target]: aumente o [!DNL Target CPA] por um valor recomendado quando ele estiver muito baixo e não houver nenhuma ou poucas conversões</li><li>[!UICONTROL Exibir opção de expansão]: expanda o alcance atualizando uma campanha para usar a expansão de exibição</li></ul>Adicionar e remover ativos, alterar tipos de campanha e alterar orçamentos e estratégias de lances podem afetar o desempenho. Por isso recomendamos discutir os prós e contras de cada recomendação com a equipe de contas da Adobe para que você possa tomar uma decisão informada. |
+| [!UICONTROL Campanhas], [!UICONTROL Relatórios], [!UICONTROL Objetivos] | (Beta aberto; versão de 30 de maio) Conversões rastreadas pelo [!DNL Microsoft Advertising] as tags de rastreamento universal de evento (UET) são novas, disponíveis em exibições e relatórios de gerenciamento de campanha. Também é possível otimizar essas conversões ao incluí-las em objetivos para portfólios que contêm [!DNL Microsoft Advertising] campanhas. |
+| [!UICONTROL Relatórios] | (Beta aberto; versão de 30 de maio) Três novos relatórios especializados incluem dados para [!DNL Microsoft Advertising] extensões de publicidade: [!UICONTROL Relatório de Detalhes de Extensão de Anúncio do MSA], [!UICONTROL Extensão de anúncio MSA por relatório de anúncio], e [!UICONTROL Relatório de Extensão de Anúncio MSA por Palavra-chave]. |
 
 {style="table-layout:auto"}
 
