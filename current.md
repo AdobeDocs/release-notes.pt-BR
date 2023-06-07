@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 52%
@@ -143,6 +143,8 @@ Novos vídeos, tutoriais ou cursos publicados para a Adobe Experience Platform.
 | Junho de 2023 | [Ativação de segmentos e atributos de perfil](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html?lang=pt-BR) | Vídeo | Saiba como ativar segmentos e atributos de perfil do [!DNL Real-Time Customer Data Platform] para Adobe [!DNL Target]. Exiba conteúdo personalizado em tempo real em seus sites, aplicativos móveis e outras propriedades digitais. |
 | Junho de 2023 | [Classificar dados usando rótulos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | Vídeo | Saiba como aplicar rótulos a seus esquemas e conjuntos de dados. Os rótulos de uso de dados permitem marcar e classificar os dados para refletir as políticas corporativas, as obrigações contratuais, os requisitos de conformidade e as regulamentações regionais em [!DNL Experience Platform]. |
 | Junho de 2023 | [Uso [!DNL Real-Time CDP] atributos de perfil no Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | Vídeo | Saiba como usar o [!DNL Real-Time Customer Data Platform] atributos de perfil no Adobe [!DNL Target] para oferecer experiências personalizadas em seu site e aplicativos móveis. |
+
+{style="table-layout:auto"}
 
 +++
 
