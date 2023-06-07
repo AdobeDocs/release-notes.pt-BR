@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0dfcb85115d9518f189ef1f0b7eb211a2c268bee
+source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
 workflow-type: tm+mt
-source-wordcount: '6365'
+source-wordcount: '6363'
 ht-degree: 52%
 
 ---
@@ -31,12 +31,12 @@ Fazer logon em [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento de produto
 
-Última atualização: **6 de junho de 2023**
+Última atualização: **7 de junho de 2023**
 
 * [[!DNL Experience League] eventos e atualizações](#events)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] interface e administração](#ecloud) (Atualizado **Maio de 25**)
+* [Administração e interface da [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
