@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 52%
@@ -620,7 +620,7 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 | Junho de 2023 | [Programas padrão](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | Vídeo | Saiba como criar e medir seu primeiro [!UICONTROL Programa padrão]. |
 | Junho de 2023 | [Programas de e-mail](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | Vídeo | Assista a este tutorial passo a passo para saber como criar um programa de email com um teste A/B. |
-| Junho de 2023 | [Programas de envolvimento](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | Vídeo | Siga este tutorial passo a passo para criar seu primeiro programa de envolvimento. |
+| Junho de 2023 | [Programas de envolvimento](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | Vídeo | Siga este tutorial passo a passo para criar seu primeiro programa de envolvimento. |
 | Junho de 2023 | [Programas de evento](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | Vídeo | Desenvolva uma compreensão fundamental e crie seu primeiro Programa de evento assistindo a este vídeo. |
 | Junho de 2023 | [Criar um programa de evento](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | Vídeo | Saiba como criar um programa de evento de feiras comerciais com base em um programa pré-criado no [!DNL Marketo]. |
 | Junho de 2023 | [Relatórios e análises](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | Vídeo | Saiba como navegar no [!DNL Analytics] e [!UICONTROL Banco de dados] seção para obter diferentes relatórios prontos para uso no [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Novos tutoriais e cursos publicados para a [!DNL Document Cloud], incluindo o [!
 | Junho de 2023 | [Converter um PDF em PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | Vídeo | Neste tutorial em vídeo de 60 segundos, saiba como converter um arquivo PDF em um documento do Microsoft PowerPoint totalmente editável. | Acrobat |
 | Junho de 2023 | [Colaborar em tempo real](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=pt-BR) | Vídeo | Com o trabalho remoto em todos os lugares, a colaboração contínua é essencial para fornecer conteúdo com velocidade e escala. Dê andamento aos seus projetos coletando comentários, colaborando em respostas e acompanhando o progresso dos documentos em tempo real, de qualquer lugar. | Acrobat Sign |
 | Junho de 2023 | [Gerenciar dados do formulário](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | Vídeo | Saiba como consolidar dados de formulário de seus documentos para que você possa visualizá-los e gerenciá-los em um relatório ou planilha do Excel. | Acrobat Sign |
-| Junho de 2023 | [Métodos de autenticação no Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Vídeo | Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para autenticar a identidade de alguém que assina um documento. A autenticação de identidade ajuda a reduzir fraudes e adiciona uma camada extra de segurança aos documentos assinados. |  |
+| Junho de 2023 | [Métodos de autenticação no Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Vídeo | Saiba mais sobre a variedade de métodos disponíveis no Acrobat Sign para autenticar a identidade de alguém que assina um documento. A autenticação de identidade ajuda a reduzir fraudes e adiciona uma camada extra de segurança aos documentos assinados. | |
 | Junho de 2023 | [Adição de usuários](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | Vídeo | Saiba como adicionar e gerenciar usuários no Acrobat Sign. O gerenciamento de usuários acontece dentro do Admin Console. | Acrobat Sign |
 | Junho de 2023 | [Opções de relatório para usuários](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | Vídeo | Como administrador do Acrobat Sign, saiba como configurar opções de relatório para usuários. | Acrobat Sign |
 
