@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6179'
-ht-degree: 93%
+source-wordcount: '6079'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **7 de junho de 2023**
+Última atualização: **21 de junho de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -64,15 +64,13 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 +++Eventos futuros
 
-* **[!DNL Workfront]** | _Connect: chat sobre administração para marketing e criação_ | **6 de junho às 15:00 (MT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _Comércio e café: Capacitar o sucesso B2B_ | **22 de junho às 13h ET** | [Registrar](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo &amp; Mochas - Gerenciamento de jornada do cliente: modelagem do ciclo de vida_ | **8 de junho às 13:00 (ET)** | [Inscrever-se](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _Principal a arte da certificação de Experience Manager - Prepare-se, Prepare-se, Obtenha certificação!_ | **28 de junho às 8h (PT)** | [Registrar](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _Pergunte aos especialistas: aproveite a integração sem custo do Adobe Workfront + Creative Cloud_ | **8 de junho às 10:30 (MT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Rastreie, analise e otimize suas campanhas de marketing com o Marketo Engage_ | **28 de junho às 8h (PT)** | [Registrar](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _Connect: chat sobre administração estratégica do Workfront_ | **12 de junho às 08:00 (CT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Pergunte aos especialistas: Gerenciamento de recursos no Workfront Office Hours_ | **13 de junho às 14:00 (MT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Pergunte aos especialistas: Criação de um webinário de Acompanhamento do Center of Excellence_ | **28 de junho às 10h (CT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [Mais...](https://experienceleague.adobe.com/events?lang=pt-BR/)
 
