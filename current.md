@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **21 de junho de 2023**
+Última atualização: **10 de julho de 2023** (página Eventos)
 
-* [Eventos e atualizações da [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos e atualizações](#events) (atualizado) **10 de julho**)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Administração e interface da [!DNL Experience Cloud]](#ecloud)
@@ -65,15 +65,19 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 +++Eventos futuros
 
-* **[!DNL Commerce]** | _Comércio e bate-papo - Como capacitar o sucesso B2B_ | **22 de junho às 13h00 (ET)** | [Inscreva-se](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Conectar: Chat da comunidade_ | **13 de julho às 10h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Certificação Master the Art of Experience Manager - Prepare-se para obter a certificação._ | **28 de junho às 8h00 (PT)** | [Inscreva-se](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Medir marketing, para cima e para baixo_ | **13 de julho às 9h (BST)** | [Registrar](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Monitorar, analisar e otimizar suas campanhas de marketing com o Marketo Engage_ | **28 de junho às 8h00 (PT)** | [Inscreva-se](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Conectar: Chat do administrador para Marketing e criação_ | **14 de julho às 10h MT** | [Registrar](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Pergunte aos especialistas - Continuação do webinário “Como estabelecer um centro de excelência”_ | **28 de junho às 10h00 (CT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Desbloqueie o valor dos seus canais de marketing_ | **18 de julho às 8h (PT)** | [Registrar](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[Mais...](https://experienceleague.adobe.com/events?lang=pt-BR/)
+* **[!DNL AEM as a Cloud Service]** | _Estratégias eficazes de segurança no Cloud Service_ | **18 de julho às 8h (PT)** | [Registrar](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _Saiba: Resumo da versão 23.3 do Adobe Workfront_ | **20 de julho às 11h00 CT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Exibir todos [eventos futuros](https://experienceleague.adobe.com/events?lang=pt-BR/) ou procure [gravações de evento](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR). Agora você pode usar a navegação à esquerda para procurar eventos gravados com base no tipo de série ou aplicativo.
 
 +++
 
