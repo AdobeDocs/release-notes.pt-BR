@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 40%
 
 ---
@@ -31,7 +31,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **11 de julho de 2023**
+Última atualização: **12 de julho de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -424,19 +424,19 @@ Todas as notas de versão do [!DNL Experience Manager] são mantidas nas seguint
 
 Novos vídeos, tutoriais ou cursos publicados para o Experience Manager.
 
-| Publicado | Nome | Tipo | Descrição | Aplicativos |
+| Publicado | Aplicativos | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Julho de 2023 | [Acesso rápido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Vídeo | Saiba como [!UICONTROL Acesso rápido] pode aumentar sua produtividade e simplificar seu fluxo de trabalho, servindo como lentes pessoais para [!DNL AEM Assets]. Esse recurso mantém todos os ativos necessários para as tarefas atribuídas ao seu alcance. | [!DNL AEM Assets] |
-| Julho de 2023 | [Exibir _obrigado_ mensagem no envio do formulário headless](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artigo | Exibir um _obrigado_ mensagem no envio bem-sucedido do formulário headless. | [!DNL AEM Forms] |
-| Julho de 2023 | [Visualizar bookmarklet - Amostra de código](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artigo | Saiba como criar pré-visualizações de bookmarklet do JavaScript no[!UICONTROL  Fragmento de conteúdo do Construtor de aplicativos] no contexto do AEM [!UICONTROL Fragmento do conteúdo] páginas. | [!UICONTROL Fragmentos de conteúdo] |
-| Julho de 2023 | [Exportar fragmento de conteúdo para XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artigo | Botões personalizados podem ser adicionados à [!UICONTROL Editor de fragmento de conteúdo] menu de cabeçalho usando o `headerMenu` ponto de extensão. Este exemplo mostra como adicionar um botão ao menu de cabeçalho e como lidar com o evento de clique para exportar o ativo [!UICONTROL Fragmento do conteúdo] como XML ou CSV. | [!UICONTROL Fragmentos de conteúdo] |
-| Julho de 2023 | [Exibição do formulário ao clicar no cartão](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artigo | Detalhe o formulário a partir da exibição de cartão. | [!DNL AEM Forms] |
-| Julho de 2023 | [Adicionar widgets ao Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Vídeo | Saiba como adicionar widgets ao Rich Text Editor (RTE) no AEM [!UICONTROL Editor de fragmento de conteúdo]. | [!UICONTROL Fragmentos de conteúdo] |
-| Julho de 2023 | [Adicionar selos ao editor de rich text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Vídeo | Saiba como adicionar selos ao Rich Text Editor (RTE) no AEM [!UICONTROL Editor de fragmento de conteúdo]. | [!UICONTROL Fragmentos de conteúdo] |
-| Julho de 2023 | [Colunas de grade personalizadas](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Vídeo | Saiba como uma coluna de grade personalizada pode ser adicionada à [!UICONTROL Console de fragmentos de conteúdo]. | [!UICONTROL Fragmentos de conteúdo] |
-| Julho de 2023 | [Ativos 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Vídeo | Saiba mais sobre o suporte a ativos 3D no [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| Julho de 2023 | [Referências](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Vídeo | Saiba como o Console de fragmentos de conteúdo e o Editor do AEM facilitam a compreensão e o gerenciamento de conteúdo referenciado. | [!DNL AEM Sites] |
-| Julho de 2023 | [Personalizar resposta com base em dados enviados](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Vídeo | Crie um serviço de envio personalizado para lidar com o envio de formulário adaptável headless. | [!DNL AEM Forms] |
+| Julho de 2023 | [!DNL AEM Assets] | [Acesso rápido](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | Vídeo | Saiba como [!UICONTROL Acesso rápido] pode aumentar sua produtividade e simplificar seu fluxo de trabalho, servindo como lentes pessoais para [!DNL AEM Assets]. Esse recurso mantém todos os ativos necessários para as tarefas atribuídas ao seu alcance. |
+| Julho de 2023 | [!DNL AEM Assets] | [Ativos 3D](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | Vídeo | Saiba mais sobre o suporte a ativos 3D no [!DNL AEM Assets as a Cloud Service]. |
+| Julho de 2023 | [!DNL AEM Forms] | [Exibir _obrigado_ mensagem no envio do formulário headless](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | Artigo | Exibir um _obrigado_ mensagem no envio bem-sucedido do formulário headless. |
+| Julho de 2023 | [!DNL AEM Forms] | [Exibição do formulário ao clicar no cartão](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | Artigo | Detalhe o formulário a partir da exibição de cartão. |
+| Julho de 2023 | [!DNL AEM Forms] | [Personalizar resposta com base em dados enviados](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | Vídeo | Crie um serviço de envio personalizado para lidar com o envio de formulário adaptável headless. |
+| Julho de 2023 | [!UICONTROL Fragmentos de conteúdo] | [Visualizar Bookmarklet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | Artigo | Saiba como criar pré-visualizações de bookmarklet do JavaScript no[!UICONTROL  Fragmento de conteúdo do Construtor de aplicativos] no contexto do AEM [!UICONTROL Fragmento do conteúdo] páginas. |
+| Julho de 2023 | [!UICONTROL Fragmentos de conteúdo] | [Exportar fragmento de conteúdo para XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | Artigo | Botões personalizados podem ser adicionados à [!UICONTROL Editor de fragmento de conteúdo] menu de cabeçalho usando o `headerMenu` ponto de extensão. Este exemplo mostra como adicionar um botão ao menu de cabeçalho e como lidar com o evento de clique para exportar o ativo [!UICONTROL Fragmento do conteúdo] como XML ou CSV. |
+| Julho de 2023 | [!UICONTROL Fragmentos de conteúdo] | [Adicionar widgets ao Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | Vídeo | Saiba como adicionar widgets ao Rich Text Editor (RTE) no AEM [!UICONTROL Editor de fragmento de conteúdo]. |
+| Julho de 2023 | [!UICONTROL Fragmentos de conteúdo] | [Adicionar selos ao editor de rich text](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | Vídeo | Saiba como adicionar selos ao Rich Text Editor (RTE) no AEM [!UICONTROL Editor de fragmento de conteúdo]. |
+| Julho de 2023 | [!UICONTROL Fragmentos de conteúdo] | [Colunas de grade personalizadas](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | Vídeo | Saiba como uma coluna de grade personalizada pode ser adicionada à [!UICONTROL Console de fragmentos de conteúdo]. |
+| Julho de 2023 | [!DNL AEM Sites] | [Referências](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Vídeo | Saiba como o Console de fragmentos de conteúdo e o Editor do AEM facilitam a compreensão e o gerenciamento de conteúdo referenciado. |
 
 {style="table-layout:auto"}
 
