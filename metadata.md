@@ -2,10 +2,12 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+role: User,Admin,Developer
+product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.pt-BR
 index: true
-source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
+source-git-commit: 61ddca8eea54372f44bbfd1e0e32e58cbb44e31c
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
@@ -31,7 +33,7 @@ O arquivo metadata.md inclui metadados de nível de repositório transmitidos pa
 
 No arquivo TOC.md
 
-| metadados | o que faz |
+| metadata | o que faz |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |
