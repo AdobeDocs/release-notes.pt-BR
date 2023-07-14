@@ -6,10 +6,10 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
-ht-degree: 40%
+ht-degree: 43%
 
 ---
 
@@ -133,7 +133,7 @@ Encontre as informações da versão mais recente e a nova documentação da [!D
 
 Novos vídeos, tutoriais e cursos publicados para o Adobe [!DNL Experience Platform].
 
-| Tipo | Recurso do produto | Descrição |
+| Publicado | Recurso do produto | Descrição |
 | -----------| ---------- |---------- |
 | Julho de 2023 | [Importar dados de amostra para o [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=pt-BR) | Vídeo atualizado | Saiba como configurar um [!DNL Experience Platform] ambiente de sandbox com dados de amostra. Uso de um [!UICONTROL Postman] coleção, você pode criar grupos de campos, esquemas, conjuntos de dados e, em seguida, importar dados de amostra para [!DNL Experience Platform]. |
 | Julho de 2023 | [Autenticar e acessar [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=pt-BR) | Vídeo atualizado | Introdução ao Adobe [!DNL Experience Platform] APIs. Este tutorial o orienta pelo processo de criação de credenciais de autenticação e de criação [!DNL Experience Platform] Solicitações de API. |
@@ -286,7 +286,7 @@ Assista ao [Vídeo de visão geral da versão de junho de 2023](https://video.tv
 
 _Novos recursos_
 
-* [!UICONTROL Fragmentos de conteúdo] e suas referências agora podem ser publicadas no [Serviço de visualização do AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service) usando o [Console de fragmentos de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=pt-BR), permitindo que os usuários visualizem a experiência final em um aplicativo de visualização dissociado antes de entrar em funcionamento.
+* Os fragmentos de conteúdo e suas referências agora podem ser publicados no [Serviço de visualização do AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=pt-BR#access-preview-service) usando o [Console de fragmentos de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=pt-BR), permitindo a visualização da experiência final em um aplicativo separado antes da publicação.
 * As imagens agora podem ser otimizadas dinamicamente para entrega na Web em cenários headless usando o AEM GraphQL. [Variáveis de consulta](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) O pode ser definido em queries do GraphQL para permitir que aplicativos clientes dissociados solicitem imagens otimizadas de AEM.
 * Tags ativadas [Variações do fragmento de conteúdo](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) agora pode ser enviado para JSON usando a API de entrega de conteúdo AEM GraphQL.
 
@@ -350,13 +350,13 @@ _Novos recursos disponíveis no Forms_
 
 * [Forms adaptável no editor de páginas AEM e no fragmento de experiência](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/create-or-add-an-adaptive-form-to-aem-sites-page.html): É possível usar o AEM [!UICONTROL Editor de páginas] e [!UICONTROL Fragmentos de experiência] para criar e adicionar rapidamente vários formulários às suas páginas do AEM Sites. Esse recurso permite que os autores de conteúdo criem experiências de captura de dados perfeitas no [!DNL Sites] páginas usando o poder do [!UICONTROL Forms adaptável] componentes como comportamento dinâmico, validações, integração de dados, geração de documentos de registro e automação de processos comerciais.
 
-* [Usar as soluções Acrobat Sign para o governo (Reclamação HIPPA) com a AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] agora integra-se ao [!DNL Acrobat Sign Solutions] para o Governo. Essa integração oferece um nível avançado de conformidade e segurança para assinaturas eletrônicas com envios de formulários adaptáveis para contas associadas ao governo (departamentos e agências governamentais).
+* [Usar as soluções Acrobat Sign para o governo (Reclamação HIPPA) com a AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] agora integra-se ao [!DNL Acrobat Sign Solutions] para o Governo. Essa integração oferece um nível avançado de conformidade e segurança para assinaturas eletrônicas com envios de formulários adaptáveis para contas associadas a órgãos governamentais (departamentos e agências governamentais).
 
-A integração com o Adobe Acrobat Sign Solutions para o governo permite que os parceiros do Adobe e os clientes do governo usem assinaturas eletrônicas no [!UICONTROL Forms adaptável] para algumas das linhas de negócios mais críticas e sensíveis. Essa camada adicional de segurança garante que todas as assinaturas eletrônicas sejam totalmente compatíveis com a conformidade Moderada do FedRAMP, proporcionando tranquilidade aos clientes governamentais Adobe.
+A integração com o Adobe Acrobat Sign Solutions para o governo permite que os parceiros do Adobe e os clientes do governo usem assinaturas eletrônicas no [!UICONTROL Forms adaptável] para algumas das linhas de negócios mais críticas e sensíveis. Essa camada adicional de segurança garante que todas as assinaturas eletrônicas sejam totalmente compatíveis com o nível moderado de conformidade do FedRAMP, proporcionando tranquilidade aos clientes governamentais da Adobe.
 
-* [Tratamento de erros aprimorado com manipuladores de erros personalizados no editor de regras](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): agora você pode chamar uma função personalizada (usando a Biblioteca do cliente) em resposta a um erro retornado por um serviço externo e fornecer uma resposta personalizada aos usuários finais. Ou você pode realizar ações específicas para erros retornados por um serviço. Por exemplo, você pode chamar um fluxo de trabalho personalizado no backend para códigos de erro específicos ou informar ao cliente que o serviço está inativo.
+* [Tratamento de erros aprimorado com manipuladores de erros personalizados no editor de regras](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): agora você pode chamar uma função personalizada (usando a Biblioteca do cliente) em resposta a um erro retornado por um serviço externo e fornecer uma resposta personalizada aos usuários finais. Como alternativa, você pode realizar ações específicas para erros retornados por um serviço. Por exemplo, você pode acionar um fluxo de trabalho personalizado no back-end para códigos de erro específicos ou informar ao cliente que o serviço está inativo.
 
-Essa funcionalidade ajuda a melhorar a capacidade geral de tratamento de erros, introduzindo respostas de erro baseadas em padrões que são compatíveis com versões anteriores de manipuladores de erro OOTB, com maior flexibilidade e controle.
+Essa funcionalidade ajuda a melhorar a capacidade geral de tratamento de erros, por meio da adição de respostas baseadas em padrões que são compatíveis com versões anteriores de manipuladores de erro prontos para uso, o que oferece maior flexibilidade e controle.
 
 [Métodos de autenticação aprimorados para o modelo de dados de formulário](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=pt-BR): Experimente maior segurança com a introdução da autenticação baseada em Credenciais do cliente para conectar o AEM Forms (Modelos de dados de formulário) a fontes de dados compatíveis. Esse aprimoramento elimina a necessidade de representação ou logon de usuário, reforçando a proteção de seus dados.
 
