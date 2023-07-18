@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 43%
@@ -31,7 +31,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **12 de julho de 2023**
+Última atualização: **18 de julho de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -176,7 +176,7 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 ### AppMeasurement {#appm}
 
-Versão de lançamento: **2.23.0**
+Versão de lançamento: **2.24.0**
 
 * [Notas de versão do AppMeasurement para JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=pt-BR)
 
@@ -360,7 +360,7 @@ Essa funcionalidade ajuda a melhorar a capacidade geral de tratamento de erros, 
 
 [Métodos de autenticação aprimorados para o modelo de dados de formulário](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=pt-BR): Experimente maior segurança com a introdução da autenticação baseada em Credenciais do cliente para conectar o AEM Forms (Modelos de dados de formulário) a fontes de dados compatíveis. Esse aprimoramento elimina a necessidade de representação ou logon de usuário, reforçando a proteção de seus dados.
 
-[Criar Forms adaptável com seções que podem ser repetidas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): Agora é possível criar componentes Acordeão, Assistente, Painel e Guias horizontais em um Formulário adaptável baseado em Componentes principais para criar seções repetíveis.
+[Criar Forms adaptável com seções que podem ser repetidas](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=pt-BR): Agora é possível criar componentes Acordeão, Assistente, Painel e Guias horizontais em um Formulário adaptável baseado em Componentes principais para criar seções repetíveis.
 
 Essas seções repetíveis permitem fornecer um número ilimitado de entradas sem uma contagem de campos fixa. É útil quando as instâncias de dados necessárias são desconhecidas antecipadamente. Os usuários do Forms podem adicionar ou remover seções facilmente, tornando os formulários adaptáveis a diferentes cenários de entrada de dados e simplificando a coleta de várias ocorrências dos mesmos dados.
 
