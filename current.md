@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 Última atualização: **29 de agosto de 2023**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **29 de agosto**)
+* Eventos e atualizações da [[!DNL Experience League] ](#events) (atualizado em **29 de agosto**)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Administração e interface da [!DNL Experience Cloud]](#ecloud)
@@ -72,17 +72,17 @@ Saiba mais sobre as integrações de aplicativos da Experience Cloud mais comuns
 
 +++Eventos futuros na Experience League
 
-* **[!DNL JOURNEY OPTIMIZER]** | Webinário | Sessão de perguntas e respostas da comunidade com especialistas da Adobe Journey Optimizer Siddharth Jain, Chetan Prasad e Nikhil Sharma_ | **30 de agosto às 8h (pT)** | [Registrar](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL JOURNEY OPTIMIZER]** | Webinário | Sessão de perguntas e respostas da comunidade com os especialistas do Adobe Journey Optimizer Siddharth Jain, Chetan Prasad e Nikhil Sharma_ | **30 de agosto às 08:00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867?profile.language=pt)
 
-* **[!DNL EXPERIENCE CLOUD]** | Webinário | _A combinação perfeita: Marketo + Workfront_ | **31 de agosto às 13h ET** | [Registrar](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | Webinário | _A combinação perfeita: Marketo + Workfront_ | **31 de agosto às 13:00 (ET)** | [Inscreva-se](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** | Evento da comunidade | _Adobe Workfront Connect: bate-papo com o administrador para marketing e criação_ | **1 de setembro às 10h (MT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Evento da comunidade | _Adobe Workfront Connect: bate-papo sobre administração para marketing e criação_ | **1º de setembro às 10:00 (MT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO ENGAGE]** | Evento da comunidade | _Aumente a capacidade de entrega de email com o[!DNL Marketo Engage]_ | **7 de setembro às 8h (PT)** | [Registrar](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL MARKETO ENGAGE]** | Evento da comunidade | _Aumente a capacidade de entrega de emails com o[!DNL Marketo Engage]_ | **7 de setembro às 08:00 (PT)** | [Inscreva-se](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **GERAL** | Livestream | _App Builder Live - Migração para OAuth_ | **7 de setembro às 9h (PT)** | [Registrar](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
+* **Geral** | Transmissão ao vivo | _Construtor de aplicativos ao vivo: migração para OAuth_ | **7 de setembro às 09:00 (PT)** | [Inscreva-se](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL WORKFRONT]** | Workshop do cliente | _Saiba mais: justificando um administrador de sistema em tempo integral_ | **7 de setembro às 12h (CT)** | [Registrar](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | Workshop do cliente | _Saiba mais: Apresentação do administrador de sistema em tempo integral_ | **7 de setembro às 12:00 (CT)** | [Inscreva-se](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 Exibir todos os [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou explorar as [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR). Agora é possível usar o painel de navegação à esquerda para procurar eventos gravados com base no tipo de série ou aplicativo.
 
