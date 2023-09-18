@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 90be4cc050b3e0219f86648a99427a883d5ec185
+source-git-commit: 54b40c6a51aaccdc0e9b121d82c30f3112d4d754
 workflow-type: tm+mt
-source-wordcount: '7103'
+source-wordcount: '7100'
 ht-degree: 44%
 
 ---
@@ -33,7 +33,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **13 de setembro de 2023**
+Última atualização: **18 de setembro de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -41,7 +41,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 * [Administração e interface da [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) **(Versão de 13 de setembro)**
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Audience Manager]](#aam)
@@ -55,6 +55,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Adobe Pass]](#pass) (antigo [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Gerenciamento de dados do cliente - Vozes](#voices)
@@ -76,10 +77,6 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 +++Eventos futuros na Experience League
 
-* **[!DNL COMMERCE]** | Webinário | _Preparação da temporada de pico_ | **14 de setembro às 13h ET** | [Registrar](https://register.gotowebinar.com/register/1649826426335413079?source=ExL)
-
-* **[!DNL WORKFRONT]** | Bate-papo de perguntas e respostas | _Pergunte aos especialistas: trilha do crescimento do Skill Exchange_ | **15 de setembro às 10h MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ti9YHZqvVUyqJ5ooYWQSYQ,Vc_WBSS-uEGcM_vITdto1A,QitJ7x6tM0GLC9Ahpcgblg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Workshop do cliente | _Administrador 101 - Introdução ao Workfront_ | **19 de setembro às 10h (CT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | GEMS AEM | _Disponibilizar o poder do APM do New Relic para AEM as a Cloud Service_ | **20 de setembro às 8h (PT)** | [Registrar](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
@@ -93,6 +90,8 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 * **[!DNL WORKFRONT]** | Evento da comunidade | _Conectar: Chat do administrador para Marketing e criação_ | **6 de outubro às 10h MT** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Workshop do cliente | _Admin 101: fazendo com que seus usuários usem o Workfront_ | **17 de outubro às 9h (MT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+<!-- * **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce_ | **November 6 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) -->
 
 Exibir todos os [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou explorar as [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR). Agora é possível usar o painel de navegação à esquerda para procurar eventos gravados com base no tipo de série ou aplicativo.
 
@@ -770,6 +769,16 @@ Veja as [novidades do  [!DNL Advertising DSP]](https://experienceleague.adobe.co
 Veja as [novidades do  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html?lang=pt-BR)
 
 +++
+
+## ![Ícone](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+
+[!DNL Adobe Pass] O é uma plataforma de TV com várias telas que ajuda emissoras, redes a cabo e provedores de serviço a criarem e monetizarem experiências de visualização personalizadas e atraentes.
+
+>[!NOTE]
+>
+>_[!DNL Adobe Primetime]_é agora_[!DNL Adobe Pass]_. Você poderá ver os dois nomes de marca na documentação em breve, até que o trabalho de reformulação da marca seja concluído.
+
+Consulte [Notas de versão do Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=pt-BR) para encontrar informações específicas sobre versão, requisitos de sistema, limitações, problemas corrigidos e problemas conhecidos.
 
 ## ![Ícone](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
