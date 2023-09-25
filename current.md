@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 | Publicado | Aplicativo | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Setembro de 2023 | Experience Cloud | [Definição de uma estratégia eficiente de Audience Activation](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=br) | Webinário de sucesso do cliente | Saiba mais sobre a importância de uma estratégia de gerenciamento de dados, visão geral e recursos do Adobe Audience Manager, casos de uso do Adobe Audience Manager, plano de ação para a configuração de uma estratégia de gerenciamento de dados |
+| Setembro de 2023 | Experience Cloud | [Definição de uma estratégia eficiente do Audience Activation](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=br) | Webinário de sucesso do cliente | Conheça a importância de uma estratégia de gerenciamento de dados, confira uma visão geral e os recursos do Adobe Audience Manager, casos de uso do Adobe Audience Manager e um plano de ação para configurar uma estratégia de gerenciamento de dados |
 | Verão de 2023 | Experience Cloud | [Página inicial dos tutoriais de integração para aplicativos da Experience Cloud](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=pt-BR) | Vídeos | Saiba mais sobre as integrações dos aplicativos mais comuns da Experience Cloud. Procurar tutoriais de integração por [solução](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=pt-BR) ou [aplicativo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=pt-BR). Este conteúdo é atualizado constantemente, portanto, acesse-o com frequência. |
 
 {style="table-layout:auto"}
@@ -91,7 +91,7 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 * **[!DNL WORKFRONT]** | Workshop de cliente | _Princípios de administração: incentivar usuários a usar o Workfront_ | **17 de outubro às 9h00 (MT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** e **[!DNL COMMERCE]** | Desenvolvedores em tempo real | _Conteúdo e comércio: sessões aprofundadas sobre [!UICONTROL Edge Delivery Services], recursos headless, extensibilidade, capacidade de composição e ferramentas de produtividade_ | **6 de novembro às 9h (MT)** | [Registrar](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** e **[!DNL COMMERCE]** | Desenvolvedores ao vivo | _Conteúdo e Commerce: sessões aprofundadas sobre [!UICONTROL Edge Delivery Services], recursos headless, extensibilidade, capacidade de composição e ferramentas de produtividade_ | **6 de novembro às 09:00 (MT)** | [Inscreva-se](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Exibir todos os [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou explorar as [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR). Agora é possível usar o painel de navegação à esquerda para procurar eventos gravados com base no tipo de série ou aplicativo.
 
@@ -772,13 +772,13 @@ Veja as [novidades do  [!DNL Advertising Search, Social, & Commerce]](https://ex
 
 ## ![Ícone](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] O é uma plataforma de TV com várias telas que ajuda emissoras, redes a cabo e provedores de serviço a criarem e monetizarem experiências de visualização personalizadas e atraentes.
+O [!DNL Adobe Pass] é uma plataforma de TV de várias telas que ajuda as emissoras, as redes a cabo e os provedores de serviço a criar e monetizar experiências de visualização personalizadas e envolventes.
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_é agora_[!DNL Adobe Pass]_. Você poderá ver os dois nomes de marca na documentação em breve, até que o trabalho de reformulação da marca seja concluído.
+>_[!DNL Adobe Primetime]_é agora_[!DNL Adobe Pass]_. É possível que você veja os dois nomes de marca na documentação em breve, até que o trabalho de reformulação da marca seja concluído.
 
-Consulte [Notas de versão do Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=pt-BR) para encontrar informações específicas sobre versão, requisitos de sistema, limitações, problemas corrigidos e problemas conhecidos.
+Consulte [Notas de versão do Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=pt-BR) para encontrar informações específicas da versão, requisitos de sistema, limitações, problemas corrigidos e problemas conhecidos.
 
 ## ![Ícone](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
