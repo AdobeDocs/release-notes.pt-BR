@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe [!DNL Journey Optimiz
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
+| Setembro de 2023 | [Gerenciamento, criação e utilização de fragmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=pt-BR) | Vídeo | Saiba como gerenciar, criar e usar fragmentos no Adobe Journey Optimizer. |
+| Setembro de 2023 | [Suporte a aplicativo de página única (SPA) no editor da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da Web do Journey Optimizer. |
+| Setembro de 2023 | [Relatórios de nível de canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Vídeo | Saiba como acessar, navegar e exportar relatórios no nível do canal. |
+| Setembro de 2023 | [Exportar relatórios no formato CSV](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Vídeo | Entenda como baixar um relatório CSV para um relatório e um único widget. |
+| Setembro de 2023 | [Suporte a aplicativo de página única (SPA) no editor da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da Web do Journey Optimizer. |
 | Setembro de 2023 | [Criar uma mensagem no aplicativo em uma jornada](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=pt-BR) | Vídeo | Entenda o que é uma mensagem no aplicativo e como ela pode ser aplicada em uma jornada. Saiba como criar uma mensagem no aplicativo em uma jornada e como testar e publicar sua jornada. |
 
 {style="table-layout:auto"}
