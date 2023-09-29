@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
+source-git-commit: 4f55e03e4909e6e743c0ae97fac779c897dd87ef
 workflow-type: tm+mt
 source-wordcount: '7206'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -89,7 +89,7 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 * **[!DNL WORKFRONT]** | Workshop de cliente | _Princípios de administração: incentivar usuários a usar o Workfront_ | **17 de outubro às 9h00 (MT)** | [Inscrever-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** e **[!DNL COMMERCE]** | Desenvolvedores ao vivo | _Conteúdo e Commerce: sessões aprofundadas sobre [!UICONTROL Edge Delivery Services], recursos headless, extensibilidade, capacidade de composição e ferramentas de produtividade_ | **6 de novembro às 09:00 (MT)** | [Inscreva-se](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** e **[!DNL COMMERCE]** | Desenvolvedores em tempo real | _Conteúdo e comércio: uma sessão aprofundada sobre [!UICONTROL Edge Delivery Services], recursos headless, extensibilidade, capacidade de composição e ferramentas de produtividade_ | **6 de novembro às 9h (MT)** | [Registrar](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Exibir todos os [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou explorar as [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR). Agora é possível usar o painel de navegação à esquerda para procurar eventos gravados com base no tipo de série ou aplicativo.
 
