@@ -6,10 +6,10 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
+source-git-commit: 7be5fe7a514f31b4c798166332adba5fe96d6919
 workflow-type: tm+mt
-source-wordcount: '7500'
-ht-degree: 63%
+source-wordcount: '7531'
+ht-degree: 64%
 
 ---
 
@@ -54,6 +54,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass) (antigo [!DNL Adobe Primetime])
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
@@ -684,10 +685,10 @@ Novos vídeos, tutoriais ou cursos publicados para o Adobe [!DNL Journey Optimiz
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
 | Setembro de 2023 | [Gerenciamento, criação e utilização de fragmentos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=pt-BR) | Vídeo | Saiba como gerenciar, criar e usar fragmentos no Adobe Journey Optimizer. |
-| Setembro de 2023 | [Suporte a aplicativo de página única (SPA) no editor da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da Web do Journey Optimizer. |
-| Setembro de 2023 | [Relatórios de nível de canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Vídeo | Saiba como acessar, navegar e exportar relatórios no nível do canal. |
-| Setembro de 2023 | [Exportar relatórios no formato CSV](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Vídeo | Entenda como baixar um relatório CSV para um relatório e um único widget. |
-| Setembro de 2023 | [Suporte a aplicativo de página única (SPA) no editor da Web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da Web do Journey Optimizer. |
+| Setembro de 2023 | [Compatibilidade com aplicativos de página única (SPA) no editor da web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da web do Journey Optimizer. |
+| Setembro de 2023 | [Relatórios no nível do canal](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Vídeo | Saiba como acessar, exportar e navegar por relatórios no nível do canal. |
+| Setembro de 2023 | [Exportar relatórios no formato CSV](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Vídeo | Entenda como baixar um relatório no formato CSV para um único dispositivo. |
+| Setembro de 2023 | [Compatibilidade com aplicativos de página única (SPA) no editor da web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Vídeo | Saiba como criar aplicativos de página única (SPA) no editor da web do Journey Optimizer. |
 | Setembro de 2023 | [Criar uma mensagem no aplicativo em uma jornada](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=pt-BR) | Vídeo | Entenda o que é uma mensagem no aplicativo e como ela pode ser aplicada em uma jornada. Saiba como criar uma mensagem no aplicativo em uma jornada e como testar e publicar sua jornada. |
 
 {style="table-layout:auto"}
@@ -782,6 +783,17 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Workfront].
 {style="table-layout:auto"}
 
 Consulte a página de [[!DNL Workfront] lançamentos de produtos](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=pt-BR) para obter um resumo das informações mais recentes de todos os produtos.
+
++++
+
+## ![Ícone](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+
++++Detalhes
+
+Consulte as seguintes páginas para obter as informações mais recentes:
+
+* Mix Modeler [notas de versão](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
+* Mix Modeler [documentação do produto](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
 
 +++
 
