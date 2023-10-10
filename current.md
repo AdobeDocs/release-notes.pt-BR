@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7be5fe7a514f31b4c798166332adba5fe96d6919
+source-git-commit: b7a89fac869a56dbf2d0624e48c5cc01acac68c6
 workflow-type: tm+mt
-source-wordcount: '7531'
+source-wordcount: '7533'
 ht-degree: 64%
 
 ---
@@ -33,7 +33,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **4 de outubro de 2023**
+Última atualização: **9 de outubro de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -54,7 +54,7 @@ Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-B
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler) (Atualizar **9 de outubro**)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass) (antigo [!DNL Adobe Primetime])
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
