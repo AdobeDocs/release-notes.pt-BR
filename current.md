@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
 workflow-type: tm+mt
-source-wordcount: '7532'
+source-wordcount: '7515'
 ht-degree: 99%
 
 ---
@@ -21,19 +21,13 @@ ht-degree: 99%
 
 **Outubro de 2023**
 
-Esta página ajuda você a se manter atualizado sobre as informações de lançamento de produto, eventos e oportunidades de aprendizado na Experience League.
-
->[!TIP]
->
->Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização prioritária de produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consulte-a com frequência para ficar por dentro do que está acontecendo com os aplicativos corporativos da Adobe.
-
-**Precisa de ajuda?**
-
-Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) e personalize sua experiência de pesquisa na biblioteca de recursos de autoajuda da Adobe. Navegue pela [documentação do produto](https://experienceleague.adobe.com/docs/?lang=pt-BR), [vídeos tutoriais](https://experienceleague.adobe.com/?lang=pt-BRdocs/home-tutorials.html), [cursos](https://experienceleague.adobe.com/?lang=pt-BR#courses) e [eventos](https://experienceleague.adobe.com/events?lang=pt-BR/), para todos os níveis e funções. Faça perguntas na [comunidade](https://experienceleaguecommunities.adobe.com/?profile.language=pt) online de usuários e obtenha [suporte](https://experienceleague.adobe.com/?support-tab=home&amp;lang=pt-BR#support) especializado quando você mais precisar.
+Esta página ajuda você a se manter atualizado sobre as informações de lançamento de produto, eventos e oportunidades de aprendizado na Experience League. Para receber uma notificação por email mensal sobre atualizações nessa página, assine a [Atualização prioritária de produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Atualizações e eventos de lançamento do produto
 
-Última atualização: **9 de outubro de 2023**
+Faça logon na [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) e personalize sua experiência de pesquisa na biblioteca de recursos de autoajuda da Adobe. Navegue pela [documentação do produto](https://experienceleague.adobe.com/docs/?lang=pt-BR), [vídeos tutoriais](https://experienceleague.adobe.com/?lang=pt-BRdocs/home-tutorials.html), [cursos](https://experienceleague.adobe.com/?lang=pt-BR#courses) e [eventos](https://experienceleague.adobe.com/events?lang=pt-BR/), para todos os níveis e funções. Faça perguntas na [comunidade](https://experienceleaguecommunities.adobe.com/?profile.language=pt) online de usuários e obtenha [suporte](https://experienceleague.adobe.com/?support-tab=home&amp;lang=pt-BR#support) especializado quando você mais precisar.
+
+Atualizado: **9 de outubro de 2023**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
