@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ba91a6738c4adceafa590bd667829040b1532b3a
+source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
 workflow-type: tm+mt
-source-wordcount: '6776'
+source-wordcount: '6774'
 ht-degree: 69%
 
 ---
@@ -29,7 +29,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 Última atualização: **25 de outubro de 2023**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **20 de outubro**)
+* [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
