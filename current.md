@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
+source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
 workflow-type: tm+mt
-source-wordcount: '6940'
+source-wordcount: '6959'
 ht-degree: 96%
 
 ---
@@ -560,6 +560,7 @@ Obtenha acesso às notas de versão, novos tutoriais e artigos da knowledge base
 +++Detalhes
 
 * Consulte as [Notas de versão do  [!DNL Adobe Commerce]  e do  [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR) para manter-se atualizado.
+* Consulte [Guias de serviços da Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) para ver informações e documentação da versão dos Commerce Services.
 * Consulte a [disponibilidade do produto](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html?lang=pt-BR) para acessar as notas de versão de produtos individuais e verificar a disponibilidade.
 
 >[!NOTE]
