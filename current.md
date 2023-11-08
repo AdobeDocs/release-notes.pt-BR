@@ -1,6 +1,6 @@
 ---
 title: Notas de versão mais recentes
-description: Encontre as notas de versão mais recentes para o Adobe [!DNL Experience Cloud] produtos e serviços. Saiba mais sobre os eventos futuros e a nova documentação na Experience League. Conheça os tutoriais e cursos mais recentes para aplicativos da [!DNL Experience Cloud] .
+description: Encontre as notas de versão mais recentes de produtos e serviços da Adobe  [!DNL Experience Cloud] . Saiba mais sobre os eventos futuros e a nova documentação na Experience League. Conheça os tutoriais e cursos mais recentes para aplicativos da [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
