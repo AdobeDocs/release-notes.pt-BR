@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
+source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -77,9 +77,9 @@ Atualizado **5 de janeiro de 2024**
 
 * **[!DNL WORKFRONT]** | Workshop do cliente | _Conectar: Chat do administrador para Marketing e criação_ | Você é um administrador de sistema de uma equipe de marketing ou criativa? Esta sessão orientada pelo cliente conectará você a outros administradores para discutir as práticas recomendadas, bem como dicas e truques. | **2 de fevereiro às 9h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Workshop do cliente | _Admin 101: fazendo com que seus usuários usem o Workfront_ | Novo no Workfront? Junte-se ao nosso encontro mensal para novos administradores! Este mês, discutiremos as práticas recomendadas para a adoção de usuários. | **14 de fevereiro às 8h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Workshop do cliente | _Conecte-se: Círculo do setor - Ensino superior_ | Novidade em 2024, este primeiro círculo do setor é uma mesa redonda informal projetada para reunir os administradores do Workfront no ensino superior para interagir em rede, compartilhar experiências, aprendizado e práticas recomendadas. | **8 de fevereiro às 9h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Workshop do cliente | _Admin 101: fazendo com que seus usuários usem o Workfront_ | Novo no Workfront? Junte-se ao nosso encontro mensal para novos administradores! Este mês, discutiremos as práticas recomendadas para a adoção de usuários. | **14 de fevereiro às 8h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Veja mais [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou navegue pelas [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR) na Experience League.
 
