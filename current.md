@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 93%
+source-wordcount: '6123'
+ht-degree: 89%
 
 ---
 
@@ -28,6 +28,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 Última atualização: **sábado, 12 de janeiro de 2024**
 
 * [[!DNL Experience League] eventos e atualizações](#events) (atualizado) **Janeiro de 12**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **Novo!**
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
@@ -80,6 +81,23 @@ Atualizado **12 de janeiro de 2024**
 Veja mais [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou navegue pelas [gravações de eventos](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=pt-BR) na Experience League.
 
 +++
+
+## ![Ícone](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) O é uma solução completa para acelerar e simplificar sua cadeia de fornecimento de conteúdo com IA gerativa e automação inteligente.
+
++++Detalhes
+
+| Publicado | Nome | Tipo | Descrição |
+| -----------| ---------- | ---------- | ---------- |
+| Janeiro de 2024 | [Tutorials GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Vídeos | Ver tutoriais do Experience League no novo [!DNL Adobe GenStudio]. O GenStudio é uma solução completa para acelerar e simplificar sua cadeia de fornecimento de conteúdo com IA gerativa e automação inteligente. |
+| Janeiro de 2024 | [Fluxo de trabalho e planejamento: agilizar e acelerar o trabalho](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Vídeos | Para a empresa que se esforça para conectar e rastrear seus requisitos de conteúdo por meio do processo de planejamento até a produção e conclusão do conteúdo. A falta de consistência de processos, planejamento, aprovações e dados em todos os projetos está roubando a produtividade e a eficiência da cadeia de fornecimento de conteúdo dessa empresa. |
+| Janeiro de 2024 | [Produtividade criativa: equipes criativas de supercarga](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Vídeos | Para a empresa que tem criativos rock star, mas precisa aumentar sua criação de conteúdo. O GenStudio fornece ferramentas sobrecarregadas com GenAI que ajudam essa equipe a aumentar a produção, a entrega e a capacidade de descoberta de conteúdo. |
+| Janeiro de 2024 | [Agilidade de marketing: capacite os não criativos a crescer](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Vídeos | Com o Adobe GenStudio, às vezes, uma solicitação de conteúdo pode ser atendida sem o tratamento completo da equipe criativa/estúdio. O Adobe coloca as ferramentas nas mãos dos profissionais de marketing e de outros possíveis criadores de conteúdo. Essas ferramentas permitem ativações rápidas na criação de variações de conteúdo. As atualizações podem ser executadas por um grupo ampliado e mais amplo de indivíduos conectados à cadeia de fornecimento de conteúdo, aumentando drasticamente a taxa de transferência de conteúdo e o tempo de entrada no mercado. |
+| Janeiro de 2024 | [Entrega e ativação: experiências e desempenho avançados](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Vídeos | Para a empresa que precisa de suporte para obter o conteúdo certo na frente do indivíduo certo no canal certo. O GenStudio torna essa conexão melhor do que qualquer outra solução, além de fornecer a análise para garantir o desempenho geral do conteúdo. |
+
+{style="table-layout:auto"}
+
 
 ## ![Ícone](/assets/certification-badge.png) Certificação{#certification}
 
