@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 Última atualização: **quinta-feira, 24 de janeiro de 2024**
 
-* [Eventos e atualizações da [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **24 de janeiro**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Novo!**
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Atualizado **24 de janeiro**)
 * [Gerenciamento de dados do cliente - Vozes](#voices)
 * [Blueprints de experiência digital](#blueprints)
 * [Vulnerabilidades de segurança do produto da Adobe](https://helpx.adobe.com/br/security.html)
@@ -826,7 +826,13 @@ Para tutoriais da [!DNL Document Cloud], consulte:
 
 Novos vídeos, tutoriais e cursos publicados para aplicativos da [!DNL Adobe Creative Cloud for enterprise].
 
+Atualizado **24 de janeiro de 2024**
+
 +++Detalhes
+
+| Publicado | Aplicativo | Nome | Tipo | Descrição |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Janeiro de 2024 | [!DNL Adobe Express] | [Tutorials para Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Vídeos | Comece a criar um trabalho incrível que se destaca com IA gerativa fornecida pelo [!DNL Adobe Firefly]. Criar folhetos, TikToks, currículos e rolos com [!DNL Adobe Express]. |
 
 Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=pt-BR) para obter os tutoriais mais recentes.
 
