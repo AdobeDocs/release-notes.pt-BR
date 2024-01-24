@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6284'
+source-wordcount: '6259'
 ht-degree: 38%
 
 ---
@@ -24,7 +24,7 @@ Esta página ajuda a localizar os seguintes recursos de autoajuda para aplicativ
 * Notas de versão e documentação do produto
 * Suporte a artigos da knowledge base
 * Eventos futuros no Experience League
-* Tutoriais em vídeo e cursos mais recentes
+* Tutoriais em vídeo mais recentes
 
 Para obter a melhor experiência de autoajuda, entre no [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) e personalizar sua experiência de pesquisa na biblioteca gratuita de Adobe do [documentação](https://experienceleague.adobe.com/docs/?lang=pt-BR), [cursos](https://experienceleague.adobe.com/?lang=pt-BR#courses), [events](https://experienceleague.adobe.com/events?lang=pt-BR/), [fóruns da comunidade](https://experienceleaguecommunities.adobe.com/?profile.language=pt), e [suporte](https://experienceleague.adobe.com/?support-tab=home&amp;lang=pt-BR#support).
 
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Janeiro de 2024
 
-Última atualização: **quinta-feira, 17 de janeiro de 2024**
+Última atualização: **quinta-feira, 24 de janeiro de 2024**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Novo!**
@@ -68,15 +68,15 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
+Atualizado **24 de janeiro de 2024**
+
 +++Eventos futuros na Experience League
 
-* **[!DNL ANALYTICS]e[!DNL Customer Journey Analytics]** | EXPERIENCE LEAGUE LIVE | _Trazendo o seu [!DNL Adobe Analytics] dados e análises em[!DNL Customer Journey Analytics]_ | Saiba mais sobre como usar processos automatizados para mover dados e análises do Adobe Analytics para o [!DNL Customer Journey Analytics], bem como quaisquer armadilhas a serem consideradas ao longo do caminho. | **17 de janeiro às 10h (PT)** | [Registrar](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | Webinário | _Marketo &amp; Mochas: fundamentos dos painéis de atribuição_ | Seus modelos de atribuição e painéis MPI estão configurados para utilizar as métricas de desempenho críticas na ponta dos dedos? Junte-se aos nossos especialistas em Adobe e saiba como usar essas ferramentas para impulsionar o sucesso da sua equipe de marketing. | **25 de janeiro às 13h ET** | [Registrar](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Workshop do cliente | _Admin 101 - Introdução a [!DNL Workfront_] | Novo para [!DNL Workfront]? Esse evento fornece aos novos administradores de sistema uma introdução aos recursos, um resumo da navegação do sistema e práticas recomendadas para a configuração inicial. | **17 de janeiro às 8h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinário | _Libere o desempenho na criação e no gerenciamento de conteúdo._ | Descubra como melhorar a velocidade do conteúdo com fragmentos de experiência do Adobe Experience Manager Sites. Obtenha dicas sobre como fornecer experiências variadas e personalizadas em escala em qualquer canal. | **1 de fevereiro às 9h GMT** | [Registrar](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | Aprenda com seus colegas | _Domínio de pontuação da pessoa com [!DNL Marketo Engage]: nuances localizadas em uma estrutura global_ | Participe deste webinário em 18 de janeiro de 2024 como [!DNL Marketo Engage] O especialista compartilha como permitir influências locais em seu modelo de pontuação ao trabalhar globalmente, sem perder consistência em toda a organização. | **18 de janeiro às 8h (PT)** | [Registrar](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Workshop do cliente | _Aprender: Adobe [!DNL Workfront] Arredondamento para cima da versão 24.1_ | Unir a outros [!DNL Workfront] clientes enquanto discutimos os recursos, os benefícios e as ideias da versão mais recente em planos de implantação e gerenciamento de alterações. | **24 de janeiro às 8h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | Webinário | _Commerce &amp; Coffee: personalização de experiências de comércio eletrônico com IA_ | Nunca foi tão fácil personalizar experiências de comércio eletrônico para o cliente individual. Junte-se à Adobe própria Corey Gelato para saber como a IA ajuda a personalizar facilmente seus produtos, emails e sites no Adobe Commerce. | **1 de fevereiro às 13h ET** | [Registrar](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Workshop do cliente | _Conectar: Chat do administrador para Marketing e criação_ | Você é um administrador de sistema de uma equipe de marketing ou criativa? Esta sessão orientada pelo cliente conecta você com outros administradores para discutir práticas recomendadas e dicas e truques. | **2 de fevereiro às 9h (PT)** | [Registrar](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
