@@ -1,7 +1,7 @@
 ---
 source-git-commit: 9a146261c08d182f45f0d2a0dbb0a1519b2af38f
-workflow-type: tm+mt
-source-wordcount: '431'
+workflow-type: ht
+source-wordcount: '427'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ sem permissão explícita
 ## Nossas responsabilidades
 
 Os administradores de projeto são responsáveis por esclarecer os padrões de comportamento aceitáveis
-e devem tomar medidas corretivas apropriadas em
+e devem realizar a ação apropriada em
 resposta a quaisquer instâncias de comportamento inaceitável.
 
 Os administradores de projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, código, edições wiki, problemas e outras contribuições
