@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '6481'
-ht-degree: 94%
+source-wordcount: '6394'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Janeiro de 2024
 
-Última atualização: **terça-feira, 29 de janeiro de 2024**
+Última atualização: **sexta-feira, 1 de fevereiro de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **29 de janeiro**)
+* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **1 de fevereiro**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Novidade**
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **terça-feira, 29 de janeiro de 2024**
+Atualizado **1 de fevereiro de 2024**
 
 +++Eventos futuros na Experience League
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinário | _Libere o desempenho na criação e no gerenciamento de conteúdo._ | Descubra como melhorar a velocidade do conteúdo com fragmentos de experiência do Adobe Experience Manager Sites. Obtenha dicas sobre como fornecer experiências variadas e personalizadas em escala em qualquer canal. | **1 de fevereiro às 9h GMT** | [Registrar](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | Webinário | _Commerce &amp; Coffee: personalização de experiências de comércio eletrônico com IA_ | Nunca foi tão fácil personalizar experiências de comércio eletrônico para o cliente individual. Junte-se à Adobe própria Corey Gelato para saber como a IA ajuda a personalizar facilmente seus produtos, emails e sites no Adobe Commerce. | **1 de fevereiro às 13h ET** | [Registrar](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Workshop do cliente |_Connect: bate-papo administrativo sobre marketing e criação_ | Você atua como admin de sistema de uma equipe de marketing ou criação? Esta sessão destinada a clientes conecta você a outros(as) admins para discutir sobre práticas recomendadas, dicas e truques. |**2 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
