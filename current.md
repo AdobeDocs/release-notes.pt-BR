@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
+source-wordcount: '6393'
 ht-degree: 95%
 
 ---
@@ -32,9 +32,9 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Janeiro de 2024
 
-Última atualização: **sexta-feira, 1 de fevereiro de 2024**
+Última atualização: **quinta-feira, 7 de fevereiro de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **1 de fevereiro**)
+* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado **7 de fevereiro**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Novidade**
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado **1 de fevereiro de 2024**
+Atualizado **7 de fevereiro de 2024**
 
 +++Eventos futuros na Experience League
 
-* **[!DNL WORKFRONT]** | Workshop do cliente |_Connect: bate-papo administrativo sobre marketing e criação_ | Você atua como admin de sistema de uma equipe de marketing ou criação? Esta sessão destinada a clientes conecta você a outros(as) admins para discutir sobre práticas recomendadas, dicas e truques. |**2 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Guias estratégicos de caso de uso: modelos de autoatendimento para implantar casos de uso com apenas alguns cliques_ | Saiba como os manuais de casos de uso podem traduzir suas metas de marketing em objetos de implementação com apenas alguns cliques! |**8 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Workshop do cliente |_Connect: círculo industrial - Ensino superior_ | Uma novidade em 2024, este primeiro círculo industrial será realizado no formato de um bate-papo informal que reunirá administradores de ensino superior do [!DNL Workfront] para interagir, compartilhar experiências, aprendizados e práticas recomendadas. |**8 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
