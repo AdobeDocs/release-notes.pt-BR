@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
+source-wordcount: '6207'
 ht-degree: 99%
 
 ---
@@ -70,17 +70,7 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 Atualizado **7 de fevereiro de 2024**
 
-+++Próximos eventos na Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Guias estratégicos de caso de uso: modelos de autoatendimento para implantar casos de uso com apenas alguns cliques_ | Saiba como os manuais de casos de uso podem traduzir suas metas de marketing em objetos de implementação com apenas alguns cliques! |**8 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Workshop do cliente |_Connect: círculo industrial - Ensino superior_ | Uma novidade em 2024, este primeiro círculo industrial será realizado no formato de um bate-papo informal que reunirá administradores de ensino superior do [!DNL Workfront] para interagir, compartilhar experiências, aprendizados e práticas recomendadas. |**8 de fevereiro às 9h00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinário | _Data Drip: canais de marketing e modelagem de atribuição_ | Você sabe o impacto que as interações com seus clientes têm nas conversões? Junte-se aos nossos especialistas da Adobe para saber como configurar canais de marketing e aproveitar a IA no Adobe Analytics para criar modelos de atribuição personalizados. | **8 de fevereiro às 13:00 ET** | [Inscreva-se](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Evento da comunidade | _Workfront Collective_ | Junte-se a outros clientes do Workfront em nossa sessão mensal coletiva de solução de problemas e compartilhamento de sucesso. | **12 de fevereiro às 06:00 PT** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webinário | _Priorização do fluxo de dados_ | Saiba como gerenciar a priorização de fluxo de dados para a orquestração de campanhas para turbinar a capacidade da sua organização de executar a personalização orientada por dados. | **13 de fevereiro às 09:30 PT** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Detalhes
 
 * **[!DNL WORKFRONT]** | Workshop do cliente |_Admin 101: como fazer com que seus usuários usem o[!DNL Workfront]_ | Para iniciantes no [!DNL Workfront] Participe do nosso encontro mensal de novos admins. Neste mês, discutiremos sobre as práticas recomendadas para a adoção de usuários. |**14 de fevereiro às 8h00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -105,7 +95,7 @@ O [Adobe  [!DNL GenStudio]](https://business.adobe.com/solutions/adobe-genstudio
 | Janeiro de 2024 | [Tutoriais do GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=pt-BR) | Vídeos | Veja os tutoriais da Experience League sobre o novo [!DNL Adobe GenStudio]. O [!DNL GenStudio] é uma solução completa para acelerar e simplificar sua cadeia de suprimento de conteúdo por meio de IA generativa e automação inteligente. |
 | Janeiro de 2024 | [Fluxo de trabalho e planejamento: simplifique e acelere o trabalho](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=pt-BR) | Vídeos | Para empresas que lutam para conectar e monitorar seus requisitos de conteúdo durante todo o processo de planejamento, produção e conclusão. A falta de processos eficazes, planejamento, aprovações e consistência de dados dos projetos está diminuindo a produtividade e eficiência da cadeia de suprimento de conteúdo desta empresa. |
 | Janeiro de 2024 | [Produtividade criativa: turbine as equipes criativas](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=pt-BR) | Vídeos | Para empresas com profissionais de criação talentosos, mas que precisam aumentar a criação de conteúdo. O [!DNL GenStudio] fornece ferramentas avançadas por meio da [!DNL GenAI], as quais ajudam esta equipe a aumentar a produção, entrega e descoberta de conteúdo. |
-| Janeiro de 2024 | [Agilidade de marketing: possibilitar a evolução de profissionais não criativos](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=pt-BR) | Vídeos | Com o Adobe [!DNL GenStudio], às vezes uma solicitação de conteúdo pode ser atendida sem o cuidado completo do estúdio ou da equipe de criação. A Adobe disponibiliza ferramentas para profissionais de marketing e outros possíveis criadores de conteúdo. Essas ferramentas permitem mudanças rápidas na criação de variações de conteúdo. As atualizações podem ser executadas por um grupo maior de indivíduos conectados à cadeia de suprimento de conteúdo, aumentando drasticamente a capacidade de entrega de conteúdo e reduzindo o prazo para comercialização. |
+| Janeiro de 2024 | [Agilidade de marketing: possibilitar a evolução de profissionais não criativos](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=pt-BR) | Vídeos | Com o Adobe [!DNL GenStudio], às vezes uma solicitação de conteúdo pode ser atendida sem o tratamento completo do estúdio ou da equipe de criação. A Adobe disponibiliza ferramentas para profissionais de marketing e outros possíveis criadores de conteúdo. Essas ferramentas permitem mudanças rápidas na criação de variações de conteúdo. As atualizações podem ser executadas por um grupo maior de indivíduos conectados à cadeia de suprimento de conteúdo, aumentando drasticamente a capacidade de entrega de conteúdo e reduzindo o prazo para comercialização. |
 | Janeiro de 2024 | [Entrega e ativação: experiências eficientes e desempenho](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=pt-BR) | Vídeos | Para empresas que precisam de suporte para apresentar o conteúdo certo à pessoa certa e no canal certo. O [!DNL GenStudio] realiza essa conexão melhor do que qualquer outra solução, além de fornecer análises para garantir o desempenho geral do conteúdo. |
 
 {style="table-layout:auto"}
