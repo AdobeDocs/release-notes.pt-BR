@@ -6,9 +6,9 @@ breadcrumb-title: Notas de versão
 user-guide-description: Saiba mais sobre novos recursos, correções e avisos importantes sobre a Adobe Experience Cloud e a Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: f459933cbaa67994a11237f8c1e5b2e4694f75be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
