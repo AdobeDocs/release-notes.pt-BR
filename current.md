@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 99%
 
 ---
 
@@ -32,9 +32,9 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Fevereiro de 2024
 
-Última atualização: **14 de fevereiro de 2024**
+Última atualização: **terça-feira, 26 de fevereiro de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events)
+* [[!DNL Experience League] eventos e atualizações](#events)  (atualizado) **26 de fevereiro**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **14 de fevereiro 14 de 2024**
+Atualizado em: **terça-feira, 26 de fevereiro de 2024**
 
 +++Detalhes
 
-* **[!DNL WORKFRONT]** | Bate-papo de perguntas e respostas | _Pergunte ao Suporte ao cliente – Solução de problemas comuns de exibição e de modelos de layout_ | Junte-se à equipe de Suporte ao cliente do Workfront em uma sessão do tipo “Pergunte ao especialista” para saber mais sobre as práticas recomendadas e dicas de solução de problemas referentes aos modelos de layout e exibições. |**22 de fevereiro às 09:00 (horário do Pacífico)** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Chat de perguntas e respostas | _Painel Pergunte ao cliente: avance sua carreira com o Workfront_ | O primeiro painel de 2024 começa com três clientes inspiradores do Workfront que construíram uma carreira de sucesso usando sua experiência com o Workfront. Junte-se a nós para uma discussão de uma hora para aprender as habilidades necessárias para o sucesso.   **27 de fevereiro às 8:00 (PT)**   [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | A Conferência da experiência digital | _Expanda suas habilidades, descubra as últimas tendências e explore o futuro do crescimento baseado em experiência_ | Aprenda com as principais marcas, descubra o futuro da IA generativa e prepare-se para o crescimento orientado por experiência. | **De 25 a 28 de março em Las Vegas e online** | [Inscreva-se](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
