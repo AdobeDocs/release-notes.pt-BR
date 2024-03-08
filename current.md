@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -71,11 +71,7 @@ Atualizado em: **28 de fevereiro de 2024**
 
 +++Detalhes
 
-* **CAMPAIGN (V7, V8)** | Coffee Break | _Sessão de perguntas e respostas da comunidade Adobe Campaign_ | Junte-se a nós para uma sessão de bate-papo de uma hora em torno da nova interface da Adobe Campaign na Web com nossa equipe de produtos Adobe Campaign. | **7 de março às 8:00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webinário | _Desperte com o Workfront: gerenciamento de recursos_ | Explore um dos casos de uso mais impactantes do Workfront, o gerenciamento de recursos, enquanto o Adobe Workfront Business Advisor aborda o uso de blueprints para criar facilmente sistemas de gerenciamento de trabalho que evoluem de acordo com suas necessidades. | **7 de março às 13:00 ET** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Evento comunitário | _Conecte-se: coletivo do Workfront_ | Junte-se a outros clientes do Workfront para uma sessão coletiva de solução de problemas e compartilhamento de sucesso. | **11 de março às 06:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Evento da comunidade | _Conecte-se: coletivo do Workfront_ | Junte-se a outros clientes do Workfront para uma sessão coletiva de solução de problemas e compartilhamento de sucesso. | **11 de março às 06:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Evento da comunidade | _Conecte-se: coletivo do Workfront_ | Junte-se a outros clientes do Workfront para uma sessão coletiva de solução de problemas e compartilhamento de sucesso. | **11 de março às 06:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
