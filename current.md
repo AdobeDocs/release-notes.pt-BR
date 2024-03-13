@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 65%
 
 ---
@@ -605,7 +605,6 @@ Tutoriais em vídeos novos ou atualizados publicados para o Adobe Campaign.
 | Fevereiro de 2024 | Interface do Campaign Web | [Gerenciar e criar públicos-alvo](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Vídeo | Saiba como criar e gerenciar públicos-alvo, selecionar públicos-alvo para uma entrega e definir grupos de controle. |
 | Fevereiro de 2024 | Interface do Campaign Web | [Criar um fluxo de trabalho de direcionamento](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Vídeo | Entenda como os workflows funcionam e como criar um workflow para construção do target. |
 | Fevereiro de 2024 | Interface do Campaign Web | [Criar uma entrega de email](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Vídeo | Saiba como criar uma entrega por email do zero, definir o público-alvo, criar o conteúdo, simular a pré-visualização e enviar uma prova. |
-| Fevereiro de 2024 | Interface do Campaign Web | [Criar conteúdo de email do zero](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Vídeo | Saiba como navegar no Designer de email. Saiba como estruturar e projetar um email do zero, além de personalizá-lo e testá-lo. |
 | Fevereiro de 2024 | Interface do usuário da Web do Campaign, Experience Platform | [Criar um público-alvo com o Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Vídeo | Saiba como criar um destino para usar um público-alvo Experience Platform no Adobe Campaign. |
 | Fevereiro de 2024 | Interface do Campaign Web | [Criar um email carregando o HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Vídeo | Saiba como criar um email fazendo o upload de um HTML, como torná-lo compatível com o designer de email e como convertê-lo em um modelo. |
 | Fevereiro de 2024 | Interface do Campaign Web | [Cancelar assinatura do Dos e do Don&#39;ts](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Artigo | Use uma lista de coisas a serem feitas e as coisas a serem evitadas ao gerenciar cancelamentos de assinatura. |
