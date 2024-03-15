@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6115'
+source-wordcount: '6023'
 ht-degree: 65%
 
 ---
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Março de 2024
 
-Última atualização: **quinta-feira, 13 de março de 2024**
+Última atualização: **sábado, 15 de março de 2024**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -40,8 +40,8 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (lançado) **13 de março**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado) **13 de março**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado **Março de 2024**
+Atualizado em **sábado, 15 de março de 2024**
 
 +++Detalhes
 
-* **WORKFRONT** | Workshop do cliente | _Administrador 101: Obter dados do Workfront_ | Novo no Workfront? Junte-se às nossas reuniões mensais de &quot;Novo administrador&quot; para fazer perguntas, obter recursos e recomendações, conhecer outros novos administradores e, nesta sessão, aprender as práticas recomendadas para todos os relatórios no Workfront. | **13 de março às 8:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | GEMS AEM | _Introdução à criação e ao Edge Delivery Services do AEM_ | Participe do webinário de GEMs do AEM para começar a criar AEM com Edge Delivery Services. Saiba como criar um desenvolvimento de projeto habilitado para AEM junto com a criação WYSIWYG usando o serviço de nuvem AEM. | **13 de março às 9:00 (PT)** | [Inscreva-se](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | Webinário | _Expressos e Experience Manager: por que o AEM é mais eficiente na nuvem_ | Junte-se a especialistas da Adobe enquanto eles discutem como garantir uma transição suave para a nuvem por meio da avaliação de conteúdo e do planejamento de migração com ferramentas como o Analisador de práticas recomendadas e o Cloud Acceleration Manager. | **14 de março às 13:00 ET** | [Inscreva-se](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Workshop do cliente | _Administrador 101 - Faça suas perguntas sobre o Workfront_ | Você perdeu as sessões anteriores do Admin 101 ou ainda tem dúvidas? Junte-se a nós para um acompanhamento de uma hora de duração da série, onde resumiremos as sessões e as abriremos para perguntas e respostas. | **20 de março às 8:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | A Conferência da experiência digital | _Expanda suas habilidades, descubra as últimas tendências e explore o futuro do crescimento baseado em experiência_ | Aprenda com as principais marcas, descubra o futuro da IA generativa e prepare-se para o crescimento orientado por experiência. | **De 25 a 28 de março em Las Vegas e online** | [Inscreva-se](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
