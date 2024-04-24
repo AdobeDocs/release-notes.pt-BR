@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 51%
+source-wordcount: '6106'
+ht-degree: 52%
 
 ---
 
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Abril de 2024
 
-Última atualização: **quinta-feira, 17 de abril de 2024**
+Última atualização: **quinta-feira, 24 de abril de 2024**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -70,13 +70,6 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 Atualizado **19 de abril de 2024**
 
 +++Detalhes
-
-* **WORKFRONT** | Evento da comunidade | _Connect: Workfront Collective_ | Junte-se a seus colegas administradores de sistema da Workfront nesta sessão coletiva mensal de brainstorming e compartilhamento, onde discutimos as atualizações e as práticas recomendadas mais recentes. | **22 de abril às 6:00 PT** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Chat de perguntas e respostas | _Pergunte: migrar para a plataforma de negócios Adobe_ | Junte-se a nós para perguntas e respostas com nossos engenheiros de suporte técnico para saber o que esperar e como se preparar melhor para a migração da plataforma de negócios Adobe. | **23 de abril às 8:00 PT** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** | Aprenda com seus colegas | _Equipe da prática de administração do sistema_ | Quantos administradores você precisa para oferecer suporte ao Workfront? Depende! Junte-se a nós no dia 25 de abril para ouvir seus colegas da Dell e do Adobe sobre como contratar os administradores certos hoje pode ajudá-lo a evitar erros dispendiosos no futuro. | **23 de abril às 8:00 PT** | [Inscreva-se](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | Pergunte ao especialista: operações de fusão | _Equipe da prática de administração do sistema_ | Junte-se ao especialista Andy Hess para saber mais sobre as operações no Adobe Workfront Fusion, incluindo como quantificá-las, bem como dicas e truques para otimizar seu uso em seus cenários. | **30 de abril às 10:30 PT** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -289,7 +282,7 @@ A Adobe recomenda visitar os seguintes recursos para continuar a par de todas as
 
 * [Atualizações e roteiros de versão do Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Saiba mais sobre o roteiro de versões, atualizações de versões anteriores e atualizações de documentação do Experience Manager.
 * [Atualizações de versão do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview) - Assista aos vídeos de visão geral das versões atuais e anteriores do [!DNL Experience Manager as a Cloud Service].
-* [Notas de versão atuais do Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - Leia as notas de versão mais recentes do [!DNL Experience Manager as a Cloud Service].
+* [Notas de versão atuais do Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - Leia as notas de versão mais recentes do [!DNL Experience Manager as a Cloud Service].
 
 <!-- ### Latest Release Overview video
 
@@ -414,7 +407,7 @@ Todas as notas de versão do [!DNL Experience Manager] são mantidas nas seguint
 
 * [Informações sobre a versão do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Atualizações da versão do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
-* [Notas de versão atuais do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Notas de versão atuais do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Informações sobre a versão do Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Notas de versão do Experience Manager Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Notas de versão do Serviço de conversão automatizada de formulários](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
