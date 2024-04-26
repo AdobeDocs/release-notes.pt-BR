@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 100%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ Atualizado em **sábado, 19 de abril de 2024**
 * **WORKFRONT** | Pergunte a especialistas: operações do Fusion | _Capacite suas atividades de administração de sistemas_ | Junte-se ao especialista Andy Hess para saber mais sobre as operações no Adobe Workfront Fusion, incluindo como quantificá-las, e aprenda dicas e truques para otimizar o uso em seus cenários. | **30 de abril, às 10h30 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Sessão de bate-papo | _Sessão de perguntas e respostas da comunidade do Adobe Journey Optimizer_ | Junte-se a especialistas do Adobe Journey Optimizer para fazer suas perguntas e conversar sobre o novo canal de experiências baseado em código no Journey Optimizer. | **8 de maio, às 08h00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816?lang=pt-BR)
+
+* **COMMERCE** | Webinário | _Commerce &amp; Coffee: dominando os fundamentos de comércio eletrônico_ | Junte-se ao consultor sênior de estratégias da Commerce, Corey Gelato, enquanto compartilha os fundamentos do comércio eletrônico para o sucesso, incluindo promoções personalizadas de clientes, programas de fidelidade e processos otimizados de pagamento e envio. | **2 de maio às 10h (PT)** | [Registrar](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **COMMERCE** | Workshop do cliente | _Admin 101: fazendo com que os usuários usem o Workfront_ | De judeu para Workfront? Junte-se aos nossos encontros mensais de Administrador 101 para fazer perguntas, obter recursos, conhecer as práticas recomendadas e conhecer outros novos administradores. Este mês, discutiremos a adoção de usuários! | **8 de maio, às 08h00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Confira os [eventos futuros](https://experienceleague.adobe.com/events/?lang=pt-BR) ou navegue pelos [eventos gravados](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) da Experience League.
 
