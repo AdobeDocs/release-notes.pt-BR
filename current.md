@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 98%
 
 ---
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Abril de 2024
 
-Última atualização: **quinta-feira, 24 de abril de 2024**
+Última atualização: **quinta-feira, 1 de maio de 2024**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -67,11 +67,9 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **quarta-feira, 30 de abril de 2024**
+Atualizado em **quinta-feira, 1 de maio de 2024**
 
 +++Detalhes
-
-* **WORKFRONT** | Pergunte a especialistas: operações do Fusion | _Capacite suas atividades de administração de sistemas_ | Junte-se ao especialista Andy Hess para saber mais sobre as operações no Adobe Workfront Fusion, incluindo como quantificá-las, e aprenda dicas e truques para otimizar o uso em seus cenários. | **30 de abril, às 10h30 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Sessão de bate-papo | _Sessão de perguntas e respostas da comunidade do Adobe Journey Optimizer_ | Junte-se a especialistas do Adobe Journey Optimizer para fazer suas perguntas e conversar sobre o novo canal de experiências baseado em código no Journey Optimizer. | **8 de maio, às 08h00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816?lang=pt-BR)
 
