@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6449'
 ht-degree: 53%
 
 ---
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Maio de 2024
 
-Última atualização: **quinta-feira, 15 de maio de 2024**
+Última atualização: **sexta-feira, 16 de maio de 2024**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [Certificação na Adobe](#certification)
@@ -228,7 +228,7 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 [!DNL Analytics] data de lançamento: **15 de maio de 2024**
 
-* [Notas de versão](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=pt-BR) do [!DNL Analytics]
+* [Notas de versão](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest?lang=pt-BR) do [!DNL Analytics]
 
 * [Documentação do produto e tutoriais](https://experienceleague.adobe.com/en/docs/analytics?lang=pt-BR) do [!DNL Analytics]
 
@@ -466,10 +466,10 @@ Novos vídeos, tutoriais ou cursos publicados para o Experience Manager.
 | Maio de 2024 | [!DNL AEM Sites] | [Gerar variações - Modelos de prompt no Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | Vídeo | Descubra como usar os modelos de prompt de IA generativa na criação de documentos do Edge Delivery Services para gerar variações de conteúdo. |
 | Maio de 2024 | [!DNL AEM Sites] | [Gerar variações - Modelos de prompt personalizados no Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Vídeo | Aprenda a criar os modelos de prompt personalizados para Gerar variações na criação de documentos do Edge Delivery Services. |
 | Maio de 2024 | [!DNL AEM Sites] | [Gerar variações - Salvar modelos de prompt personalizados no Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | Vídeo | Descubra como salvar os modelos personalizados de prompt de IA generativa na criação de documentos do Edge Delivery Services para gerar variações de conteúdo. |
-| Maio de 2024 | [!DNL AEM Sites] | [Configurar o sidekick para gerar variações no Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Vídeo | Descubra como configurar o sidekick para gerar variações na criação de documentos do Edge Delivery Services. |
+| Maio de 2024 | [!DNL AEM Sites] | [Configurar o sidekick para gerar variações no Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | Vídeo | Descubra como configurar o sidekick para gerar variações na criação de documentos do Edge Delivery Services. |
 | Maio de 2024 | [!DNL AEM Assets] | [Exportar ativos](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export?lang=pt-BR) | Artigo | Saiba como exportar ativos para seu computador local usando um `Node.js` script. Este script de exportação fornece um exemplo de como baixar programaticamente ativos do AEM usando [!DNL AEM Assets] APIs HTTP, com foco especificamente nas representações originais para garantir a mais alta qualidade. |
 | Maio de 2024 | [!DNL AEM Forms] | [Uso da API do GuideBridge para dados de formulário do POST](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Artigo | Uso [!UICONTROL Salvar e retomar] para que um formulário salve o progresso do preenchimento e o retome posteriormente. |
-| Maio de 2024 | [!DNL AEM Sites] | [IA gerada no [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Vídeo | Explore os novos recursos da IA gerativa disponíveis em [!DNL AEM Sites] criação de documentos. |
+| Maio de 2024 | [!DNL AEM Sites] | [IA gerada no [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | Vídeo | Explore os novos recursos da IA gerativa disponíveis em [!DNL AEM Sites] criação de documentos. |
 | Maio de 2024 | [!DNL AEM Forms] | [Preencha um formulário de PDF usando o ChatBot](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Vídeo | Saiba como preencher um formulário de PDF usando o Chatbot. |
 | Maio de 2024 | AEM Headless | [Proteção de conteúdo no AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content?lang=pt-BR) | Artigo | Saiba como proteger o conteúdo no AEM Headless. |
 | Maio de 2024 | AEM CS | [Rede avançada](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Artigo | Saiba mais sobre as opções avançadas de rede do AEM as a Cloud Service. |
@@ -497,13 +497,13 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Experience Man
 | Abril de 2024 | [[!DNL Marcom] - A limpeza de revisão não é exibida em manutenção diária - [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037) | Novo artigo | Saiba mais sobre a visibilidade do [!UICONTROL Limpeza de revisão] tarefa na [!DNL Adobe Experience Manager (AEM)] IU em [!UICONTROL Manutenção diária], especialmente depois de uma atualização para [!DNL SP17]e fornece informações sobre o gerenciamento de  [!UICONTROL Coleta de lixo de revisão] ao usar [!DNL MongoDB] como um armazenamento de dados. |
 | Abril de 2024 | [Desabilitando pesquisa de texto completo por [!DNL mime] tipo com personalizado [!DNL Tika] configuração no [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046) | Novo artigo | Saiba como personalizar o [!DNL Tika] configuração para desativar a pesquisa de texto completo com base no arquivo [!DNL mime] tipos. |
 | Abril de 2024 | [[!DNL Scene7]: selecione o quadro de pôster ou a miniatura do vídeo](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053) | Novo artigo | Saiba como especificar uma miniatura de vídeo ou imagem de pôster específica no [!DNL Adobe Experience Manager (AEM)] no contexto da [!DNL Scene7], agora conhecido como **[!DNL Dynamic Media]**. |
-| Abril de 2024 | [Como adicionar `stricthostcheck` in [!DNL AEMaaCS] configuração do dispatcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | Novo artigo | Saiba como adicionar `stricthostcheck` in [!DNL AEMaaCS] configuração do dispatcher. |
+| Abril de 2024 | [Como adicionar `stricthostcheck` in [!DNL AEMaaCS] Configuração do Dispatcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | Novo artigo | Saiba como adicionar `stricthostcheck` in [!DNL AEMaaCS] Configuração do Dispatcher. |
 | Abril de 2024 | [[!DNL Adobe Experience Manager]: não é possível exibir [!DNL Java] origem de [!DNL JSP/HTL] em `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079) | Novo artigo | Saiba como visualizar o [!DNL Java] origem de [!DNL JSP/HTL] em `/libs` desativando o [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] pacote. |
 | Abril de 2024 | [[!DNL Adobe Experience Manager]: a primeira etapa da investigação para `No renderer for extension html`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080) | Novo artigo | Saiba mais sobre a causa da mensagem de erro: `No renderer for extension html`, encontrado ao tentar abrir uma página da Web no [!DNL Adobe Experience Manager]. |
 | Abril de 2024 | [Limpeza [!DNL Fastly CDN] armazenamento em cache ao usar um [!DNL WAF] ou [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097) | Novo artigo | Saiba como configurar a limpeza de cache para o [!DNL AEM as a Cloud Service] ao usar um [!DNL Web Application Firewall (WAF)] ou um personalizado [!DNL CDN] solução ([!DNL BYOCDN]). Entender como navegar por essas configurações complexas é fundamental para manter a entrega eficiente do conteúdo. |
 | Abril de 2024 | [Noções básicas [!UICONTROL Tempos de execução de consulta cumulativa] in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24128) | Novo artigo | Saiba mais sobre como entender a solução de problemas de desempenho de consulta no [!DNL AEM]. |
 | Abril de 2024 | [As páginas não são exibidas corretamente na visualização](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24147) | Novo artigo | Saiba mais sobre a solução para quando uma página é visualizada na nuvem ([!DNL AEMaaCS]), a página pode parecer não carregar nenhum [!DNL CSS]Fragmentos de experiência, formatação ou que são incluídos no modelo da página. |
-| Abril de 2024 | [Como [!DNL flush] o cache do dispatcher quando há farms com pastas de cache separadas](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | Novo artigo | Saiba como [!DNL flush] o cache do dispatcher quando há farms com pastas de cache separadas. |
+| Abril de 2024 | [Como [!DNL flush] o cache do Dispatcher quando houver farms com pastas de cache separadas](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023) | Novo artigo | Saiba como [!DNL flush] o cache do Dispatcher quando houver farms com pastas de cache separadas. |
 
 {style="table-layout:auto"}
 
@@ -659,7 +659,7 @@ Novos vídeos, tutoriais e cursos publicados para o Adobe [!DNL Journey Optimize
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
-| Maio de 2024 | [Criar ações](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | Vídeo | Saiba o que é uma ação, como usar a ação Editar perfil e saltar no [!DNL Journey Optimizer]e como configurar uma ação personalizada. |
+| Maio de 2024 | [Criar ações](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | Vídeo | Saiba o que é uma ação, como usar a ação Editar perfil e saltar no [!DNL Journey Optimizer]e como configurar uma ação personalizada. |
 | Maio de 2024 | [Importe e crie conteúdo de email HTML com o editor de mensagens](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | Vídeo | Saiba como importar conteúdo HTML existente, ajustar o design, adicionar mirror page e links para cancelar a inscrição e como codificar seu conteúdo. |
 | Maio de 2024 | [Configurar credenciais da API do MMS e superfícies do canal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | Vídeo | Saiba como se conectar [!DNL Journey Optimizer] para um provedor de serviços MMS e como criar uma superfície de canal MMS. |
 | Maio de 2024 | [Criar uma campanha de experiência baseada em código](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | Vídeo | Saiba como criar uma campanha de experiência baseada em código para dimensionar a personalização com suporte para métodos de implementação do lado do servidor, baseados em API ou baseados em SDK para integrar-se perfeitamente a ambientes de desenvolvimento. |
