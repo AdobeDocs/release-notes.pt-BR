@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6546'
-ht-degree: 96%
+source-wordcount: '6446'
+ht-degree: 97%
 
 ---
 
@@ -67,13 +67,9 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **sábado, 17 de maio de 2024**
+Atualizado em **sábado, 24 de maio de 2024**
 
 +++Detalhes
-
-* **REAL-TIME CUSTOMER DATA PLATFORM E TARGET** | Webinário | _A combinação perfeita: RTCDP, Target e Amigos_ | Junte-se ao consultor de soluções sênior, Josh Kimball, enquanto compartilha como a RTCDP unifica os dados entre canais em perfis de clientes e se conecta perfeitamente ao Adobe Target para ativar uma estratégia personalizada para esses segmentos. | **23 de maio às 1:00 ET** | [Registrar](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Evento da comunidade | _Círculo industrial do Adobe Workfront: varejo_ | Se você é cliente do Workfront no setor de varejo e tem interesse na solução coletiva de problemas e no compartilhamento de aprendizados com outros(as) admins, junte-se a nós para uma discussão aberta de 1 hora, liderada por admins da DSW e da Nordstrom. | **23 de maio, às 11h00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Bate-papo | _Bate-papo com perguntas e respostas da comunidade do Adobe Workfront: migração para a Adobe Business Platform_ | Junte-se a especialistas do Workfront na comunidade e faça perguntas sobre a Adobe Business Platform, a migração da sua organização para o Adobe Admin Console e muito mais. | **29 de maio, às 08h00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
