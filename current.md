@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
+source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
 workflow-type: tm+mt
-source-wordcount: '4957'
-ht-degree: 98%
+source-wordcount: '5007'
+ht-degree: 97%
 
 ---
 
@@ -32,9 +32,9 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Maio de 2024
 
-Última atualização: **quarta-feira, 28 de maio de 2024**
+Última atualização: **sexta-feira, 30 de maio de 2024**
 
-* [Eventos e atualizações da [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos e atualizações](#events) (**30 de maio**)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
@@ -67,16 +67,19 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **quarta-feira, 28 de maio de 2024**
+Atualizado em **sexta-feira, 30 de maio de 2024**
 
 +++Detalhes
 
 * **EXPERIÊNCIAS POR VOCÊ** | Vídeos | _Experiências por você_ apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções Adobe DX. encontre a inspiração necessária para elevar o nível da sua experiência com produtos. | [Disponível sob demanda](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | Bate-papo | _Bate-papo com perguntas e respostas da comunidade do Adobe Workfront: migração para a Adobe Business Platform_ | Junte-se a especialistas do Workfront na comunidade e faça perguntas sobre a Adobe Business Platform, a migração da sua organização para o Adobe Admin Console e muito mais. | **29 de maio, às 08h00 (PT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinário | _Desperte com o Workfront: otimize e mantenha seu ambiente_ | Junte-se aos consultores de negócios da Adobe enquanto compartilham insights para otimizar o seu ambiente de gerenciamento de trabalho no Adobe Workfront por meio de estratégias de limpeza e treinamento, planos de implementação e práticas de melhoria contínua. | **6 de junho às 13:00 (ET)** | [Inscreva-se](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Evento da comunidade | _Conecte-se: chat administrativo para marketing e criação_ | Você é administrador de sistema de uma equipe de marketing ou criação? Esta sessão orientada ao cliente conectará você com outros administradores para discutir práticas recomendadas, bem como dicas e truques. | **7 de junho às 09:00 (PT)** | [Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **COMMERCE** | Webinário | _Por trás da brew: Adobe Commerce Intelligence (fka MBI)_ | Junte-se a nós para um aprofundamento do Adobe Commerce Intelligence (antigo Magento Business Intelligence), uma ferramenta poderosa projetada para transformar seus dados de comércio eletrônico em insights acionáveis por meio de painéis e relatórios personalizados. | **11 de junho às 13:00 (ET)** | [Inscreva-se](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **MARKETO ENGAGE** | Coffee Break | _Recursos de IA de geração para o Adobe Dynamic Chat_ | Não perca esta oportunidade de perguntar aos nossos especialistas sobre os recursos recém-adicionados do Adobe Dynamic Chat, que permite conversas de forma livre e bidirecionais no seu chatbot e muito mais! | **12 de junho às 8:00 (PT)** | [Inscreva-se](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 Confira os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
