@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ Novos tutoriais publicados para aplicativos no [!DNL Adobe Creative Cloud for en
 | Publicado | Aplicativo | Nome | Tipo | Descrição |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Maio de 2024 | [!DNL Firefly] | [Criar cenas reutilizáveis para mercadorias](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Vídeo | Saiba como criar cenas reutilizáveis para mercadorias, como bolsas e acessórios. A criação de cenas reutilizáveis acelera o merchandising digital, permitindo atualizar a mercadoria do site de acordo com a temporada ou sempre que desejar. |
-| Maio de 2024 | [!DNL Firefly] | [Acelerar a geração de ideias criativas](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vídeo | Saiba como visualizar ideias rapidamente e explorar conceitos para campanhas comerciais. Acelerar a geração de ideias criativas permite que as organizações produzam conteúdo de alta qualidade em um ritmo rápido. |
+| Maio de 2024 | [!DNL Firefly] | [Acelerar a geração de ideias criativas](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vídeo | Saiba como visualizar ideias e explorar conceitos para campanhas comerciais. Acelerar a geração de ideias criativas permite que as organizações produzam conteúdo de alta qualidade em um ritmo rápido. |
 
 Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview?lang=pt-BR) para obter os tutoriais mais recentes.
 
