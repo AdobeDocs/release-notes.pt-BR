@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
-workflow-type: ht
-source-wordcount: '4006'
-ht-degree: 100%
+source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
+workflow-type: tm+mt
+source-wordcount: '4031'
+ht-degree: 95%
 
 ---
 
@@ -32,16 +32,16 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Junho de 2024
 
-Última atualização: **12 de junho de 2024**
+Última atualização: **quarta-feira, 25 de junho de 2024**
 
-* Eventos e atualizações da [[!DNL Experience League] ](#events) (**30 de maio**)
+* [[!DNL Experience League] eventos e atualizações](#events) (**25 de junho**)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (lançamento **12 de junho**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançamento **12 de junho**)
+* [[!DNL Adobe Analytics]](#analytics) (lançado) **12 de junho**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado) **12 de junho**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,17 +67,19 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 ### Eventos na Experience League
 
-Atualizado em **12 de junho de 2024**
+Atualizado em **quarta-feira, 25 de junho de 2024**
 
 +++Detalhes
 
-* **CREATIVE CLOUD, EXPERIENCE MANAGER E WORKFRONT** | Bate-papo de perguntas e respostas | _Pergunta: construção da cadeia de suprimento de conteúdo com o Workfront, a Creative Cloud e o AEM_ | Junte-se às equipes de sucesso do cliente da Adobe e ao City National Bank para uma discussão de 1 hora em estilo de entrevista sobre práticas recomendadas, benefícios e impulsionamento de valor com as integrações do Workfront, da Creative Cloud e do AEM. | **18 de junho às 10:30 (PT)** | [Inscreva-se](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **CREATIVE CLOUD** | Adobe Developers Live | _Adobe Developers Live para Adobe Express e Creative Cloud_ | Junte-se a nós ao vivo em uma conferência virtual de dois dias destinada a todos que desenvolvem complementos, plug-ins ou integrações para o Adobe Express ou para a Creative Cloud para aprender sobre as principais prioridades e roteiros do desenvolvedor em 2024. |**19 de junho às 09:15 MT** |[Inscreva-se](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fevents.ringcentral.com%2Fevents%2Fadobe-developers-live-adobe-express-creative-cloud-2024%3Futm_source%3DExperienceleague%2520Events%26utm_campaign%3DExperienceleague%2520Events&amp;data=05%7C02%7Cieichel%40adobe.com%7C350e6e0f78514d018ff708dc8998551f%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638536534560540136%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=l%2BVrnbrZ8BBlfl3v3UGMozKCOcF%2BtoN89bWgOsLokQo%3D&amp;reserved=0)
-
-* **MARKETO MEASURE** | Webinário | _Marketo Measure e Mochas: atividades e modelos personalizados_ | Junte-se aos especialistas do Adobe Marketo Measure enquanto eles compartilham como usar modelos de atribuição personalizados e atribuição de atividades para alinhar seus dados de vendas e marketing usando pontos de contato diretamente de seus registros de atividades de CRM. | **20 de junho às 13:00 (ET)** | [Inscreva-se](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
 * **WORKFRONT** | Workshop do cliente | _Saiba mais: priorização e planejamento estratégico do trabalho no Workfront_ | Junte-se à equipe de sucesso do cliente do Workfront para saber mais sobre as práticas recomendadas para o planejamento anual, como criar um processo formal para a priorização e visualizações recomendadas para exibir os dados do projeto e garantir o alinhamento geral. | **25 de junho às 09:30 (PT)** | [Inscreva-se](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Workshop do cliente | _Administrador 101: Faça suas perguntas sobre o Workfront_ | Você perdeu alguma de nossas sessões de Administrador 101? Junte-se a nós para uma sessão de perguntas e respostas de uma hora, na qual resumiremos os eventos anteriores e os abriremos para discussões e perguntas gerais. |**26 de junho às 9:00 MT** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webinário | _Novidades da versão 24.7_ | Junte-se à equipe de produtos da Adobe Workfront em 26 de junho, às 10h00 EST, para saber mais sobre os recursos e aprimoramentos futuros na versão 24.7. |**27 de junho às 8:00 MT** |[Inscreva-se](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
+
+* **JOURNEY OPTIMIZER** | Chat de perguntas e respostas | _Webinário de descoberta de carreiras - Adobe Journey Optimizer_ | Neste webinário, você aprenderá com membros do painel convidado sobre o trabalho e a experiência deles no Adobe Journey Optimizer e descobrirá como começar a trilhar o caminho para novas oportunidades de carreira. |**28 de junho às 8:00 MT** |[Inscreva-se](https://event.adobe.com/careerdiscovery)
+
+* **WORKFRONT** | Workshop do cliente | _Administrador 101 - Introdução ao Workfront_ | Novo no Workfront? Junte-se às nossas reuniões mensais de &quot;Novo administrador&quot; para fazer perguntas, obter recursos e recomendações, conhecer outros novos administradores e, nesta sessão, aprender as práticas recomendadas para configurar seu ambiente do Workfront. | **9 de julho às 9h (MT)** | [Registrar]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 +++
@@ -155,7 +157,7 @@ Encontre as informações da versão mais recente e a nova documentação da [!D
 
 ### Novos tutoriais da [!DNL Experience Platform]{#tutorials-aep}
 
-Novos tutoriais da Adobe [!DNL Experience Platform] publicados na Experience League.
+Novos tutoriais do Adobe [!DNL Experience Platform] publicados na Experience League.
 
 | Publicado | Aplicativos | Nome | Tipo | Descrição |
 | ----------| ---------- | ---------- | ---------- |---------- |
