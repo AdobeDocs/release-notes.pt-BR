@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c32968c3fe0e49e367b9b6130f681dd246541a7
+source-git-commit: a534185e2781addbf6004cef41a613a6e368c417
 workflow-type: tm+mt
-source-wordcount: '4031'
-ht-degree: 95%
+source-wordcount: '3853'
+ht-degree: 98%
 
 ---
 
@@ -34,14 +34,14 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 Última atualização: **quarta-feira, 25 de junho de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (**25 de junho**)
+* [[!DNL Experience League] eventos e atualizações](#events) (**25** de junho)
 * [Certificação na Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (lançado) **12 de junho**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado) **12 de junho**)
+* [[!DNL Adobe Analytics]](#analytics) (lançado em **12 de** junho)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado em **12 de** junho)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -71,15 +71,7 @@ Atualizado em **quarta-feira, 25 de junho de 2024**
 
 +++Detalhes
 
-* **WORKFRONT** | Workshop do cliente | _Saiba mais: priorização e planejamento estratégico do trabalho no Workfront_ | Junte-se à equipe de sucesso do cliente do Workfront para saber mais sobre as práticas recomendadas para o planejamento anual, como criar um processo formal para a priorização e visualizações recomendadas para exibir os dados do projeto e garantir o alinhamento geral. | **25 de junho às 09:30 (PT)** | [Inscreva-se](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Workshop do cliente | _Administrador 101: Faça suas perguntas sobre o Workfront_ | Você perdeu alguma de nossas sessões de Administrador 101? Junte-se a nós para uma sessão de perguntas e respostas de uma hora, na qual resumiremos os eventos anteriores e os abriremos para discussões e perguntas gerais. |**26 de junho às 9:00 MT** |[Inscreva-se](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webinário | _Novidades da versão 24.7_ | Junte-se à equipe de produtos da Adobe Workfront em 26 de junho, às 10h00 EST, para saber mais sobre os recursos e aprimoramentos futuros na versão 24.7. |**27 de junho às 8:00 MT** |[Inscreva-se](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
-
-* **JOURNEY OPTIMIZER** | Chat de perguntas e respostas | _Webinário de descoberta de carreiras - Adobe Journey Optimizer_ | Neste webinário, você aprenderá com membros do painel convidado sobre o trabalho e a experiência deles no Adobe Journey Optimizer e descobrirá como começar a trilhar o caminho para novas oportunidades de carreira. |**28 de junho às 8:00 MT** |[Inscreva-se](https://event.adobe.com/careerdiscovery)
-
-* **WORKFRONT** | Workshop do cliente | _Administrador 101 - Introdução ao Workfront_ | Novo no Workfront? Junte-se às nossas reuniões mensais de &quot;Novo administrador&quot; para fazer perguntas, obter recursos e recomendações, conhecer outros novos administradores e, nesta sessão, aprender as práticas recomendadas para configurar seu ambiente do Workfront. | **9 de julho às 9h (MT)** | [Registrar]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **FRENTE DE** TRABALHO | Workshop do cliente | _Administrador 101 - Introdução com a Workfront_ | Novo para a Workfront? Associar-se nossas reuniões mensais &quot;Novo Administrador&quot; para fazer perguntas, obter recursos e recomendações, conhecer outros novos administradores e, para esta sessão, conheça as práticas recomendadas para configurar sua workfront ambiente. | **9 de julho às 9:00 AM MT** | [Registrar]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 +++
