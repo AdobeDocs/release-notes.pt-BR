@@ -40,8 +40,8 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 * [[!DNL Adobe Experience Cloud] - Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (lançado) **12 de junho**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado) **12 de junho**)
+* [[!DNL Adobe Analytics]](#analytics) (lançado **12 de junho**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (lançado **12 de junho**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -71,11 +71,11 @@ Atualizado em **quarta-feira, 25 de junho de 2024**
 
 +++Detalhes
 
-* **WORKFRONT** | Evento da comunidade | _Conecte-se: chat administrativo para marketing e criação_ | Você é administrador de sistema de uma equipe de marketing ou criação? Esta sessão orientada ao cliente conectará você com outros administradores para discutir práticas recomendadas, bem como dicas e truques. | **12 de julho às 10h MT** | [Registrar](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Evento da comunidade | _Conecte-se: chat administrativo para marketing e criação_ | Você é administrador de sistema de uma equipe de marketing ou criação? Esta sessão orientada ao cliente conectará você com outros administradores para discutir práticas recomendadas, bem como dicas e truques. | **12 de julho às 10h (MT)** | [Registrar](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Coffee break | _Sweepstakes de coffee-break: Informações criativas e práticas recomendadas_ | Junte-se a nós para o nosso segundo Coffee Break Sweepstakes sobre as práticas recomendadas do Creative Brief! Descubra novas estratégias e compartilhe seus insights. Envie uma pergunta, um comentário ou uma dica para ganhar um swag do Workfront. Não perca! | **16 de julho às 11h (MT)** | [Registrar](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+* **WORKFRONT** | Coffee break | _Sorteios De Coffee Break: Informações Criativas De Entradas E Práticas Recomendadas_ | Junte-se a nós para o nosso segundo Coffee Break Sweepstakes sobre as práticas recomendadas do Creative Brief! Descubra novas estratégias e compartilhe seus insights. Envie uma pergunta, um comentário ou uma dica para ganhar um swag do Workfront. Não perca! | **16 de julho às 11h (MT)** | [Registrar](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
-* **WORKFRONT** | Workshop do cliente | _Saiba mais: rodada da versão do Adobe Workfront do terceiro trimestre de 2024 + promoção do ambiente_ | Junte-se a nós para nossa sessão trimestral de revisão de lançamento, na qual discutimos os recursos da versão mais recente e seus benefícios. Nesta sessão, também discutiremos o recurso altamente previsto de &quot;Promoção do ambiente&quot;. | **18 de julho às 9h (MT)** | [Registrar](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Workshop do cliente | _Saiba mais: rodada da versão do 3º trimestre de 2024 do Adobe Workfront + promoção do ambiente_ | Junte-se a nós para nossa sessão trimestral de revisão de lançamento, na qual discutimos os recursos da versão mais recente e seus benefícios. Nesta sessão, também discutiremos o recurso altamente previsto de &quot;Promoção do ambiente&quot;. | **18 de julho às 9h (MT)** | [Registrar](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS E EXPERIENCE MANAGER SITES** | Webinário | _Expressos e Experience Manager: Agilidade digital com AEM_ | Saiba mais sobre as mais recentes inovações no AEM Sites e no Assets que tornam o AEM sua solução para os desafios mais comuns na área de CMS. Exploraremos o Universal Editor, a Criação headless e baseada em documentos e a interface do usuário do Assets. | **18 de julho às 11h (MT)** | [Registrar](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
 
