@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3052'
-ht-degree: 52%
+source-wordcount: '3097'
+ht-degree: 51%
 
 ---
 
@@ -34,7 +34,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 Última atualização: **quinta-feira, 14 de agosto de 2024**
 
-* [Eventos e atualizações da [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado: **16 de agosto**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
+### Listas de reprodução no Experience League (novo!)
+
+Atualização: **16 de agosto de 2024**
+
+As [listas de reprodução](https://experienceleague.adobe.com/en/playlists) de vídeo são novas no Experience League. Uma lista de reprodução é uma coleção de vídeos com curadoria projetada para ajudá-lo rapidamente a adquirir as habilidades e o conhecimento que você busca.
+
+Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > **[!UICONTROL Listas de Reprodução]**.
+
+>[!NOTE]
+>
+>**Cursos** estão sendo retirados do Experience League. Se você tiver um favorito em um curso, será redirecionado para uma lista de reprodução correspondente.
+
+Se quiser enviar feedback ao Experience League sobre listas de reprodução ou qualquer problema de ajuda, use a janela pop-up Feedback na parte inferior de cada página.
+
 ### Eventos na Experience League
 
-Atualizado em **quinta-feira, 14 de agosto de 2024**
-
 +++Detalhes
-
-* **[!DNL EXPERIENCE MANAGER]** | Criadores de experiências | _O intercâmbio de habilidades para o Adobe Experience Manager_ | Junte-se a nós no dia 14 de agosto neste evento gratuito de aprendizado para o cliente digital. Você ouvirá especialistas e colegas sobre como eles usam melhor o AEM. Há tempo para responder suas perguntas. | **14 de agosto às 10h (MT)** | [Registrar](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Criadores de experiências | _O intercâmbio de habilidades para o Adobe Workfront_ | Junte-se a nós em 15 de agosto para um evento gratuito de aprendizado digital de clientes com conteúdo focado no Workfront. Você ouvirá especialistas e colegas sobre como eles usam o Workfront em seus negócios diários. | **15 de agosto às 10h (MT)** | [Registrar](https://adobe.ly/4c7TAqZ)
 
