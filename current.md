@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 51%
 
 ---
@@ -32,7 +32,7 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Agosto de 2024
 
-Última atualização: **quinta-feira, 14 de agosto de 2024**
+Última atualização: **sábado, 16 de agosto de 2024**
 
 * [[!DNL Experience League] eventos e atualizações](#events) (Atualizado: **16 de agosto**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Atualização: **16 de agosto de 2024**
 
 As [listas de reprodução](https://experienceleague.adobe.com/en/playlists) de vídeo são novas no Experience League. Uma lista de reprodução é uma coleção de vídeos com curadoria projetada para ajudá-lo rapidamente a adquirir as habilidades e o conhecimento que você busca.
 
-Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > **[!UICONTROL Listas de Reprodução]**.
+Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > **[!UICONTROL Procurar todas as listas de reprodução]**.
 
 >[!NOTE]
 >
