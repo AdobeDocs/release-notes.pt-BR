@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ Para receber uma notificação por email mensal sobre atualizações nessa pági
 
 ## Agosto de 2024
 
-Última atualização: **quinta-feira, 28 de agosto de 2024**
+Última atualização: **quarta-feira, 3 de setembro de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (Atualizado: **28 de agosto**)
+* [[!DNL Experience League] eventos e atualizações](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] – Interface central e administração](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interface e administração centrais](#ecloud) (Atualizado: **3 de setembro**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Data de lançamento: **14 de agosto**)
@@ -132,7 +132,11 @@ Saiba mais sobre os componentes da interface central e administração da [!DNL 
 
 +++Detalhes
 
-Não atualizado.
+Versão: **2 de setembro de 2024**
+
+| Recurso | Descrição |
+| -----------| ---------- |
+| Notificações Slack | Você pode configurar suas preferências de conta para enviar notificações de Experience Cloud para o Slack. Consulte _notificações de Slack_ em [Preferências da conta e notificações](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) para obter detalhes. |
 
 Para obter ajuda sobre os componentes centrais da interface da Experience Cloud, consulte o [Manual de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Públicos-alvo]).
 
