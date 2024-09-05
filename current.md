@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
+source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
 workflow-type: tm+mt
-source-wordcount: '3215'
-ht-degree: 90%
+source-wordcount: '3186'
+ht-degree: 89%
 
 ---
 
@@ -406,11 +406,13 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### Recursos de ajuda do [!DNL Campaign]
 
-* Interface do[!DNL Campaign]Web: [Novidades](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new?lang=pt-BR) – [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/campaign-web-home)
-* [!DNL Campaign] v8: [documentação](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/campaign-home), [notas de versão](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/whats-new?lang=pt-BR) e [guias de implementação](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement?lang=pt-BR)
-* [!DNL Campaign] Standard: [documentação do Campaign Standard](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/campaign-standard-home), [notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/release-notes/release-notes), [vídeos explicativos](https://experienceleague.adobe.com/en/docs/campaign-standard-learn/tutorials/overview?lang=pt-BR), [planejamento de versão](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-planning?lang=pt-BR) e [atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/release-notes/documentation-updates)
-* [!DNL Campaign] Classic: [documentação do Campaign Classic v7](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/campaign-classic-home), [notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/release-notes/latest-release), [vídeos explicativos](https://experienceleague.adobe.com/en/docs/campaign-classic-learn/tutorials/overview?lang=pt-BR) e [atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/release-notes/documentation-updates)
-* Painel de controle do[!DNL Campaign]: [documentação](https://experienceleague.adobe.com/en/docs/control-panel/using/control-panel-home?lang=pt-BR), [notas de versão](https://experienceleague.adobe.com/en/docs/control-panel/using/release-notes/release-notes?lang=pt-BR) e [vídeos explicativos](https://experienceleague.adobe.com/en/docs/control-panel-learn/tutorials/control-panel-overview?lang=pt-BR)
+* [!DNL Web User Interface]: **3 de setembro** - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/release-notes/release-notes) | [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/campaign-web-home)
+
+* [!DNL Campaign] v8: **3 de setembro** - [Notas de versão](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes?lang=pt-BR) | [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/campaign-home)
+
+* [!DNL Campaign Classic] v7: [notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/release-notes/latest-release) | [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/campaign-classic-home)
+
+* [!DNL Campaign Standard]: **agosto de 2024** - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/release-notes/release-notes) | [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/campaign-standard-home)
 
 +++
 
