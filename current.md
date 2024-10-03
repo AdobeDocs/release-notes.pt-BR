@@ -2,18 +2,18 @@
 title: Notas de versão mais recentes
 description: Veja as notas de versão e problemas de knowledge base mais recentes dos produtos e serviços da Adobe [!DNL Experience Cloud] . Saiba mais sobre os eventos futuros e a nova documentação na Experience League. Conheça os tutoriais e cursos mais recentes para aplicativos da [!DNL Experience Cloud] .
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
-workflow-type: ht
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+workflow-type: tm+mt
 source-wordcount: '4127'
 ht-degree: 100%
 
 ---
 
-# Notas de versão da Experience Cloud: setembro de 2024
+# Notas de versão da Experience Cloud - Outubro de 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ Procure por **_Este conteúdo foi útil?Janela pop-up_** na parte inferior de ca
 
 Para receber uma notificação mensal por email sobre atualizações desta página, assine a [Atualização prioritária de produtos da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Setembro de 2024
+## Outubro de 2024
 
-Última atualização: **11 de setembro de 2024**
+Última atualização: **quinta-feira, 2 de outubro de 2024**
 
 * Eventos e atualizações da [[!DNL Experience League] ](#events) (Atualizado em: **10 de setembro**)
 * [[!DNL Adobe System Status]](#status)
@@ -208,7 +208,7 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 +++Detalhes
 
-Data de lançamento do [!DNL Analytics]: **11 de setembro de 2024**
+Data de lançamento do [!DNL Analytics]: **quinta-feira, 2 de outubro de 2024**
 
 * [Notas de versão](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest?lang=pt-BR) do [!DNL Analytics] <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
