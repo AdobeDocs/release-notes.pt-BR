@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3921'
-ht-degree: 95%
+source-wordcount: '3907'
+ht-degree: 96%
 
 ---
 
@@ -142,7 +142,7 @@ Versão: **10 de setembro de 2024**
 | Data de lançamento | Recurso | Descrição |
 | -----------| -----------| ---------- |
 | Setembro de 10 | Notificações do [!DNL Slack] na [!DNL Experience Cloud] | É possível configurar as preferências da sua conta para enviar notificações do [!DNL Experience Cloud] ao Slack. Consulte [Assinar notificações do Slack](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences) para mais detalhes. |
-| Outubro de 2 | Página inicial personalizável | Na página de aterrissagem do Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite que você personalize sua página inicial do Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada.alize sua página inicial do Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. |
+| Outubro de 2 | Página inicial personalizável | Na página de aterrissagem do Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite que você personalize sua página inicial do Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles intuitivos e perfeitos para mover, redimensionar e gerenciar widgets, incluindo ações em massa e ajustes de layout, oferecendo uma experiência mais estética e personalizada. |
 
 Para obter ajuda sobre os componentes centrais da interface da [!DNL Experience Cloud], consulte o [Manual de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Públicos-alvo]).
 
