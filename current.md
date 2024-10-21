@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3907'
-ht-degree: 96%
+source-wordcount: '3952'
+ht-degree: 95%
 
 ---
 
@@ -95,7 +95,9 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 * **[!DNL WORKFRONT]** | Bate-papo de perguntas e respostas | _Saiba mais: Jornada da Qualcomm à adoção do Adobe Workfront_ | Conheça a abordagem estratégica que Becky Barus, líder técnico certificado da Adobe Workfront na Qualcomm, utilizou para impulsionar significativamente a adoção da Adobe Workfront pelos usuários. | **23 de outubro, às 10:00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Junte-se a nós para Adobe Developers Live pessoalmente em Adobe HQ em San Jose! Conecte-se com desenvolvedores de AEM e Commerce, explore as inovações mais recentes e conheça as práticas recomendadas. 12 de novembro, pessoalmente ou online. Inscreva-se agora! | **12 de novembro às 9h (MT)** | [Registrar][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024))
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Bate-papo de perguntas e respostas | _Adobe Experience League Live: Harmonizar Públicos-alvo em Ecossistemas de Experiência - Composição de Público Federado em Experience Platform_ | Saiba mais sobre como a Composição de público-alvo federado fornece uma abordagem abrangente para a curadoria e ativação de público-alvo com o Real-Time CDP e o Journey Optimizer. | **24 de outubro, às 8:30 (MT)** | [Inscreva-se](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Junte-se a nós para Adobe Developers Live pessoalmente em Adobe HQ em San Jose! Conecte-se com desenvolvedores de AEM e Commerce, explore as inovações mais recentes e conheça as práticas recomendadas. 12 de novembro, pessoalmente ou online. Inscreva-se agora! | **12 de novembro às 9h (MT)** | [Registrar](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 E muito mais! Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
