@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9231c3a730a0b7167c8c63a7655f08239fd6dee9
+source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
 workflow-type: tm+mt
-source-wordcount: '4614'
-ht-degree: 97%
+source-wordcount: '4710'
+ht-degree: 95%
 
 ---
 
@@ -38,7 +38,7 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 
 ## Novembro de 2024
 
-Última atualização: **8 de novembro**
+Última atualização: **12 de novembro**
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,13 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 +++Detalhes
 
-* **[!DNL Workfront]** | Evento da comunidade | _Conectar: Coletivo Workfront_ | Participe dos nossos eventos coletivos mensais do Workfront na segunda-feira projetados para se conectar com outros clientes, discutir os recursos do Workfront, compartilhar ideias e fazer um brainstorming para resolver desafios comuns. | **11 de novembro às 7h (MT)** | [Registrar](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | Workshop do cliente | _Administrador 101: fazendo com que os usuários usem o Workfront_ | Novo no Workfront? Junte-se a nós na segunda sessão da série Admin 101 de 3 partes para discutir todos os assuntos relacionados à adoção pelo usuário. Venha com suas perguntas! | **12 de novembro, às 9h00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud](vários produtos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participe do Adobe Developers Live presencialmente na sede da Adobe em San José. Interaja com desenvolvedores(as) do AEM e do Commerce, confira as inovações e conheça as práticas recomendadas. 12 de novembro, presencial ou online. Inscreva-se já! | **12 de novembro, às 9h00 (MT)** | [Inscreva-se](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introdução ao Assistente de IA para Públicos-alvo para profissionais de marketing no Real-Time CDP_ | Junte-se aos especialistas em produtos do Adobe para obter uma prévia do Assistente de IA para públicos-alvo que em breve chegará ao Adobe Real-Time CDP para sobrecarregar os insights e as ações do público-alvo. Obtenha respostas de especialistas em produtos Adobe para suas dúvidas! | **13 de novembro às 10h (MT)** | [Registrar](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage Campeões | _Horário comercial do Marketo Engage Champion de novembro de 2024_ | Junte-se a nós para o nosso Horário de Trabalho de Campeão do Marketo de novembro na quinta-feira, 14 de novembro, com o nosso painel dos Campeões Miray Vu, Maria Cruz, AJ Navarro e Lucas Goncalves Machado, moderado por Alsyha Khan. | **14 de novembro, às 9h00 (MT)** | [Inscreva-se](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Sessões técnicas do Experience Cloud | _Inovações em produtos Adobe Customer Journey Analytics: Uma visão geral trimestral - 4º trimestre de 2025_ | Junte-se aos especialistas em produtos da Adobe Analytics para descobrir as mais recentes inovações com o Adobe Customer Journey Analytics. A sessão do quarto trimestre de 2025 acontecerá em breve. Portanto, cadastre-se agora para garantir seu lugar. | **14 de novembro às 10h (MT)** | [Registrar](https://event.adobe.com/customerjourneyanalytics)
 
 E muito mais. Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
@@ -321,6 +321,9 @@ Novos tutoriais do [!DNL Adobe Commerce] na Experience League.
 
 | Publicado | Nome | Tipo | Descrição |
 | -----------| ---------- | ---------- | ---------- |
+| Novembro de 2024 | [Valores de configuração](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vídeo | Saiba como localizar, validar e gerenciar valores de configuração no Adobe Commerce usando o `core_config_data`, arquivos XML e configurações de administração. |
+| Novembro de 2024 | [Resolver erros comuns](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vídeo | Resolva dois erros comuns no projeto da Adobe Cloud que impedem o carregamento do site. |
+| Novembro de 2024 | [Certificado SSL Expirado](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | Vídeo | Saiba como identificar um certificado ssl expirado e, em seguida, como gerar novamente um para a integração do Adobe Commerce Cloud ou outros ambientes de desenvolvimento. |
 | Outubro de 2024 | [Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | Vários vídeos | Assista a novos vídeos sobre a estrutura de mercado do Commerce, o modelo de entrega global, as funções de administração, as opções de vitrine e muito mais. |
 | Outubro de 2024 | [Migrar para o Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | Vídeo | Uma visão geral que aborda assuntos como preparação, código personalizado, controle de qualidade, desempenho e segurança ao migrar para o Adobe Commerce. |
 | Outubro de 2024 | [Redefinir o URI do admin usando a CLI](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/admin/reset-admin-uri) | Vídeo | Saiba como redefinir o URI do admin usando o comando CLI da Adobe Commerce Cloud. Isso é útil se o URL do admin for alterado, mas ocorrer um erro que impeça o acesso ao admin. |
