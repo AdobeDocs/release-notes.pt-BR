@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c46b2408ea58ab78dbd5b0dd9e3931ddd20e33a
+source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
 workflow-type: tm+mt
-source-wordcount: '4710'
+source-wordcount: '4660'
 ht-degree: 95%
 
 ---
@@ -38,15 +38,15 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 
 ## Novembro de 2024
 
-Última atualização: **12 de novembro**
+Última atualização: **22 de novembro**
 
-* [Eventos e atualizações da [!DNL Experience League]](#events)
+* [[!DNL Experience League] eventos e atualizações](#events) (**24 de novembro**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Versão: **23 de outubro**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versão: **23 de outubro**)
+* [[!DNL Adobe Analytics]](#analytics) (Lançamento: **23 de outubro**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Lançamento: **23 de outubro**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -57,7 +57,7 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**Novo!**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -71,6 +71,17 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 ## ![Ícone](/assets/experience-league.png) Eventos e atualizações da [!DNL Experience League] {#events}
 
 Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
+
+### Melhorias no índice
+
+Atualização: **22 de novembro de 2024**
+
+As seguintes atualizações foram feitas em cada índice do Experience League:
+
+* **[!UICONTROL Expandir todas as seções]**: exibe todo o sumário em qualquer guia de Experience League. (Esse botão desliga após o carregamento de uma página. Esse problema será corrigido em uma atualização futura.) As opções **[!UICONTROL Exibir mais]** e **[!UICONTROL Exibir menos]** foram removidas.
+* **Rolagem**: permite rolar por um sumário longo.
+* **[!UICONTROL Filtrar por palavra-chave]**: permite filtrar entradas de sumário digitando palavras-chave. Uma lista suspensa exibe resultados relevantes e você pode limpar o filtro clicando em **[!UICONTROL Limpar]**.
+* **Visibilidade da página ativa**: a página ativa está sempre realçada no sumário.
 
 ### Listas de reprodução na Experience League
 
@@ -93,15 +104,7 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 +++Detalhes
 
-* **[!DNL Experience Cloud](vários produtos)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participe do Adobe Developers Live presencialmente na sede da Adobe em San José. Interaja com desenvolvedores(as) do AEM e do Commerce, confira as inovações e conheça as práticas recomendadas. 12 de novembro, presencial ou online. Inscreva-se já! | **12 de novembro, às 9h00 (MT)** | [Inscreva-se](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | EXPERIENCE LEAGUE LIVE | _Introdução ao Assistente de IA para Públicos-alvo para profissionais de marketing no Real-Time CDP_ | Junte-se aos especialistas em produtos do Adobe para obter uma prévia do Assistente de IA para públicos-alvo que em breve chegará ao Adobe Real-Time CDP para sobrecarregar os insights e as ações do público-alvo. Obtenha respostas de especialistas em produtos Adobe para suas dúvidas! | **13 de novembro às 10h (MT)** | [Registrar](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage Campeões | _Horário comercial do Marketo Engage Champion de novembro de 2024_ | Junte-se a nós para o nosso Horário de Trabalho de Campeão do Marketo de novembro na quinta-feira, 14 de novembro, com o nosso painel dos Campeões Miray Vu, Maria Cruz, AJ Navarro e Lucas Goncalves Machado, moderado por Alsyha Khan. | **14 de novembro, às 9h00 (MT)** | [Inscreva-se](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Sessões técnicas do Experience Cloud | _Inovações em produtos Adobe Customer Journey Analytics: Uma visão geral trimestral - 4º trimestre de 2025_ | Junte-se aos especialistas em produtos da Adobe Analytics para descobrir as mais recentes inovações com o Adobe Customer Journey Analytics. A sessão do quarto trimestre de 2025 acontecerá em breve. Portanto, cadastre-se agora para garantir seu lugar. | **14 de novembro às 10h (MT)** | [Registrar](https://event.adobe.com/customerjourneyanalytics)
-
-E muito mais. Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
+Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
 +++
 
@@ -130,6 +133,10 @@ As notas de versão recentes estão disponíveis aqui:
 Saiba mais sobre os componentes da interface central e administração da [!DNL Experience Cloud]. Gerencie produtos e usuários, defina configurações e preferências de perfil, pesquise por objetos da Experience Cloud e gerencie cookies.
 
 +++Detalhes
+
+Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página de preferências de Experience Cloud para remover opções duplicadas. Para simplificar, preservamos as preferências atuais do usuário e você pode atualizar suas preferências a qualquer momento em https://experience.adobe.com/preferences.
+
+
 
 | Data de lançamento | Recurso | Descrição |
 | -----------| -----------| ---------- |
