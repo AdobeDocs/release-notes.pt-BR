@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Para ter a melhor experiência de autoatendimento, faça logon na [Experience Le
 
 **Novembro de 2024**
 
-Última atualização: **sábado, 22 de novembro de 2024**
+Última atualização: **segunda-feira, 24 de novembro de 2024**
 
 * [[!DNL Experience League] eventos e atualizações](#events) (**24 de novembro**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Para ter a melhor experiência de autoatendimento, faça logon na [Experience Le
 * [Certificação na Adobe](https://experienceleague.adobe.com/pt-br/certification-home)
 * [Vulnerabilidades de segurança do produto da Adobe](https://helpx.adobe.com/br/security.html)
 
-## Eventos e atualizações da [!DNL Experience League] {#events}
+## [!DNL Experience League] atualizações e eventos {#events}
 
 Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
-+++Detalhes
+### Atualizações no Experience League
 
-### Melhorias no índice
++++Detalhes
 
 Atualização: **22 de novembro de 2024**
 
-As seguintes atualizações foram feitas em cada índice do Experience League:
+**Atualizações do índice:** As atualizações a seguir foram feitas em cada índice do Experience League:
 
 * **[!UICONTROL Expandir todas as seções]**: exibe todo o sumário em qualquer guia de Experience League. (Esse botão desliga após o carregamento de uma página. Esse problema será corrigido em uma atualização futura.) As opções **[!UICONTROL Exibir mais]** e **[!UICONTROL Exibir menos]** foram removidas.
 * **Rolagem**: permite rolar por um sumário longo.
