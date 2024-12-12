@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 93%
 
 ---
 
@@ -34,15 +34,15 @@ Para ter a melhor experiência de autoatendimento, faça logon na [Experience Le
 
 **Novembro de 2024**
 
-Última atualização: **segunda-feira, 24 de novembro de 2024**
+Última atualização: **quinta-feira, 11 de dezembro de 2024**
 
-* [[!DNL Experience League] eventos e atualizações](#events) (**24 de novembro**)
+* [[!DNL Experience League] eventos e atualizações](#events) (**11 de dezembro**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – Interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Lançamento: **23 de outubro**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Lançamento: **23 de outubro**)
+* [[!DNL Adobe Analytics]](#analytics) (Versão mais recente: **23 de outubro**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versão mais recente: **23 de outubro**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 ### Eventos na Experience League
 
 +++Detalhes
+
+* **[!DNL Workfront]** | Evento da comunidade | _Conectar: Coletivo Workfront_ | Participe dos nossos eventos coletivos mensais do Workfront na segunda-feira projetados para se conectar com outros clientes, discutir os recursos do Workfront, compartilhar ideias e fazer um brainstorming para resolver desafios comuns. | **16 de dezembro às 7h (MT)** | [Registrar](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Chat de perguntas e respostas | _Administrador 101: Faça Suas Perguntas Sobre O Workfront_ | Novo no Workfront? Você perdeu alguma das sessões da Administração 101 anteriores? Participe da nossa sessão de resumo para fazer perguntas, obter recursos e recomendações, e conhecer outros novos administradores. | **17 de dezembro às 9h (MT)** | [Registrar](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
