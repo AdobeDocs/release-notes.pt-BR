@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4775'
-ht-degree: 92%
+source-wordcount: '4855'
+ht-degree: 89%
 
 ---
 
-# Notas de versão da Experience Cloud - Novembro de 2024
+# Notas de versão do Experience Cloud - novembro/dezembro de 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ Para ter a melhor experiência de autoatendimento, faça logon na [Experience Le
 
 **novembro/dezembro de 2024**
 
-Última atualização: **terça-feira, 16 de dezembro de 2024**
+Última atualização: **quarta-feira, 9 de janeiro de 2024**
 
 * [[!DNL Experience League] eventos e atualizações](#events) (**16 de dezembro**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] – Interface central e administração](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interface e administração centrais](#ecloud) (**9 de janeiro**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Versão mais recente: **23 de outubro**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Versão mais recente: **23 de outubro**)
+* [[!DNL Adobe Analytics]](#analytics) (Próxima versão: **22 de janeiro**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Próxima versão: **22 de janeiro**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 +++Detalhes
 
-* **[!DNL Workfront]** | Chat de perguntas e respostas | _Administrador 101: Faça Suas Perguntas Sobre O Workfront_ | Novo no Workfront? Você perdeu alguma das sessões da Administração 101 anteriores? Participe da nossa sessão de resumo para fazer perguntas, obter recursos e recomendações, e conhecer outros novos administradores. | **17 de dezembro às 9h (MT)** | [Registrar](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Webinar da versão do primeiro trimestre do Adobe Workfront_ | Este webinário, realizado em parceria com Jeremy Flores, gerente de produto sênior, destacará os últimos aprimoramentos de recursos do Adobe Workfront programados para lançamento na próxima semana na versão do primeiro trimestre de 2025. | **9 de janeiro às 10h30 MT** | [Registrar](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _Conecte-se: Chat do administrador para Marketing e Criação_ | Você é um Administrador do sistema de uma equipe de marketing ou criativa? Esta sessão orientada pelo cliente, realizada em parceria com a Catholic Relief Services, fornecerá as melhores práticas, bem como tempo livre para perguntas. | **10 de janeiro às 10h (MT)** | [Registrar](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ Para facilitar o controle das preferências de dados de uso do Experience Cloud,
 
 | Data de lançamento | Recurso | Descrição |
 | -----------| -----------| ---------- |
-| 2 de Outubro | Página inicial personalizável | Na página de destino da Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite personalizar a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles contínuos e intuitivos para mover, redimensionar e gerenciar widgets. Esse recurso inclui ações em massa e ajustes de layout, oferecendo uma experiência mais atrativa e personalizada. Personalize a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. |
+| **Janeiro de 9** | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso do Experience Cloud, simplificamos nossa página [Preferências](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) de Experience Cloud para remover opções duplicadas. Com essa simplificação, preservamos as preferências atuais do usuário e você pode atualizar suas preferências a qualquer momento em [preferências de Experience Cloud](https://experience.adobe.com/preferences). |
+| **30 de janeiro** (data de lançamento planejada) | Espectro 2 | A estrutura do aplicativo Experience Cloud, que inclui a barra de cabeçalho e os componentes acessados a partir dela, bem como o painel de navegação esquerdo para determinados aplicativos, será atualizado para o Spectrum 2, Adobe sistema de design mais recente. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos no cabeçalho são reposicionados para se alinharem a outros sites e aplicativos de Adobe. |
+| **2** de outubro | Página inicial personalizável | Na página de destino da Experience Cloud, clique em **[!UICONTROL Editar]**. O modo [!UICONTROL Editar] permite personalizar a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. O modo [!UICONTROL Editar] fornece controles contínuos e intuitivos para mover, redimensionar e gerenciar widgets. Esse recurso inclui ações em massa e ajustes de layout, oferecendo uma experiência mais atrativa e personalizada. Personalize a página inicial da Experience Cloud com acesso a uma biblioteca de widgets e planos de fundo personalizados. |
 
 Para obter ajuda sobre os componentes centrais da interface da [!DNL Experience Cloud], consulte o [Manual de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Públicos-alvo]).
 
