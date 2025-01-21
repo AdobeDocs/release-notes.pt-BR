@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b8c92ee53a0cfc4a4fb38e12eee75cfc2641c03
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4865'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -105,9 +105,17 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 +++Detalhes
 
-* **[!DNL Workfront]** | Workfront | _Webinar da versão do primeiro trimestre do Adobe Workfront_ | Este webinário, realizado em parceria com Jeremy Flores, gerente de produto sênior, destacará os últimos aprimoramentos de recursos do Adobe Workfront programados para lançamento na próxima semana na versão do primeiro trimestre de 2025. | **9 de janeiro às 10h30 MT** | [Registrar](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Acordar Com O Workfront: Pergunte-Me Qualquer Coisa_ | Nesta sessão &quot;Pergunte-me qualquer coisa&quot;, os consultores de negócios da Adobe Workfront, Samantha Miller, Aaron Baker e Mary Ann Erickson, responderão às perguntas e compartilharão as práticas recomendadas no Workfront para ajudar os clientes a ter sucesso em 2025. | **23 de janeiro às 11h (MT)** | [Registrar](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _Conecte-se: Chat do administrador para Marketing e Criação_ | Você é um Administrador do sistema de uma equipe de marketing ou criativa? Esta sessão orientada pelo cliente, realizada em parceria com a Catholic Relief Services, fornecerá as melhores práticas, bem como tempo livre para perguntas. | **10 de janeiro às 10h (MT)** | [Registrar](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Conectar: Coletivo Workfront_ | Participe dos nossos eventos coletivos mensais do Workfront na segunda-feira projetados para se conectar com outros clientes, discutir os recursos do Workfront, compartilhar ideias e fazer um brainstorming para resolver desafios comuns. | **27 de janeiro às 7h (MT)** | [Registrar](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Saiba mais: superando a resistência às mudanças em sua Jornada do Workfront_ | Junte-se aos nossos especialistas em gerenciamento de alterações da Workfront para discutir as práticas recomendadas para identificar e superar a resistência com os usuários. | **30 de janeiro às 10h (MT)** | [Registrar](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Série de webinários de maturidade do Adobe Target_ | Inovações do Adobe Target, incluindo a GenAI, e práticas recomendadas de personalização e experimentação alimentadas por IA em escala. | **4 de fevereiro às 9h (MT)** | [Registrar](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo &amp; Mochas: 5 recursos do Marketo que você deve conhecer em 2025_ | Em nossa primeira sessão do ano sobre Marketo &amp; Mochas, os especialistas da Marketo, Carly Gaver e Kate Colbert, abordarão cinco recursos avançados que podem ajudar a elevar a experiência do cliente e impulsionar a demanda em 2025. | **6 de fevereiro às 11h MT** | [Registrar](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce &amp; Coffee: a ascensão do autoatendimento no B2B_ | Comece o ano com firmeza com nossos especialistas em Commerce, Corey Gelato &amp; Agbi Bajrushi, que exploram as últimas tendências B2B e uma abordagem para aproveitar os novos recursos do Adobe Commerce para ficar à frente da concorrência o ano todo. | **13 de fevereiro às 11h (MT)** | [Registrar](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
