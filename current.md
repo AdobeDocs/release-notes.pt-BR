@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: ht
-source-wordcount: '4493'
-ht-degree: 100%
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+workflow-type: tm+mt
+source-wordcount: '4370'
+ht-degree: 95%
 
 ---
 
@@ -33,7 +33,7 @@ A [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) ajuda
 
 ## Janeiro de 2025
 
-Última atualização: **22 de janeiro de 2025**
+Última atualização: **quinta-feira, 5 de fevereiro de 2025**
 
 Para saber as datas específicas dos lançamentos de aplicativos, consulte as notas de versão do produto.
 
@@ -69,35 +69,23 @@ Para saber as datas específicas dos lançamentos de aplicativos, consulte as no
 
 Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
-### Atualizações na Experience League
+### Atualizações para o Experience League (fevereiro de 2025)
 
 +++Detalhes
 
-Lançamento: **último trimestre de 2024**
+**Página inicial personalizada**
 
-**Atualizações do índice:** estas são as atualizações realizadas em cada índice da Experience League:
+Lançamento: **5 de fevereiro de 2025**
 
-* **[!UICONTROL Expandir todas as seções]**: exibe o índice inteiro em qualquer guia da Experience League. (Esse botão é desativado após o carregamento de uma página. Esse problema será corrigido em uma atualização futura.) As opções **[!UICONTROL Exibir mais]** e **[!UICONTROL Exibir menos]** foram removidas.
-* **Rolagem**: permite rolar por um índice longo.
-* **[!UICONTROL Filtrar por palavra-chave]**: permite filtrar entradas do índice digitando palavras-chave. Uma lista suspensa exibe resultados relevantes, e é possível limpar o filtro clicando em **[!UICONTROL Limpar]**.
-* **Visibilidade da página ativa**: a página ativa está sempre realçada no índice.
+A [Experience League home](https://experienceleague.adobe.com/?lang=en) totalmente nova apresenta recomendações de aprendizado personalizadas viabilizadas pelo [!DNL Adobe Target].
 
-### Listas de reprodução na Experience League
+Principais recursos:
 
-Novas [listas de reprodução](https://experienceleague.adobe.com/pt-br/playlists) de vídeos estão disponíveis na Experience League. Uma lista de reprodução é uma coleção de vídeos com curadoria projetada para ajudar a adquirir as habilidades e o conhecimento que você busca.
-
-Os recursos da lista de reprodução incluem:
-
-* Reproduzir vídeos automaticamente
-* Seleção do capítulos e velocidade de reprodução
-* Retomar de onde você parou
-* Transcrições de vídeo
-
-Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > **[!UICONTROL Procurar todas as listas de reprodução]**.
-
->[!NOTE]
->
->Caso tenha marcado um curso na Experience League, você será redirecionado(a) para uma lista de reprodução correspondente. Em alguns casos, pode ser necessário procurar uma nova lista de reprodução que aborde os tópicos que você está procurando.
+* Conteúdo recomendado com base em função, produto e atividade recente
+* Conteúdo visualizado recentemente
+* Eventos e certificações sob demanda sugeridos
+* Conteúdo recém-publicado para o produto
+* Interface reprojetada e atualizada
 
 +++
 
@@ -105,15 +93,17 @@ Para procurar listas de reprodução, navegue até **[!UICONTROL Aprender]** > *
 
 +++Detalhes
 
-* **[!DNL Workfront]** | _Desperte com o Workfront: perguntas gerais_ | Nesta sessão de “Perguntas gerais”, Samantha Miller, Aaron Baker e Mary Ann Erickson, integrantes da equipe de consultoria comercial do Adobe [!DNL Workfront], responderão suas perguntas em tempo real e compartilharão as práticas recomendadas do [!DNL Workfront] para ajudar clientes a serem bem-sucedidos em 2025. | **23 de janeiro às 11h00 (MT)** | [Inscreva-se](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Connect: coletiva do [!DNL Workfront]_ | Participe de nossos encontros coletivos mensais de segunda-feira sobre o [!DNL Workfront], cujo objetivo é promover a interação com outros clientes, o debate sobre os recursos do [!DNL Workfront], o compartilhamento de ideias e o brainstorming para resolução de desafios comuns. | **27 de janeiro às 7h00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Aprendizagem: como superar a resistência a mudanças em sua jornada do [!DNL Workfront]_ | Junte-se a especialistas em gerenciamento de alterações do [!DNL Workfront] para conversar sobre as práticas recomendadas e identificar e superar a resistência dos usuários. | **30 de janeiro às 10h00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Série de webinários avançados do Adobe Target_ | Inovações do Adobe Target, incluindo a GenAI, e práticas recomendadas de personalização e experimentação em escala viabilizadas por IA. | **4 de fevereiro às 9h00 (MT)** | [Inscreva-se](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _A Conferência sobre Experiência Digital_ | Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. | **18 a 19 de março em Las Vegas &amp; Online** | [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo &amp; Mochas: 5 recursos do Marketo que você deve conhecer em 2025_ | Em nossa primeira sessão do ano do [!DNL Marketo] e Mochas, Carly Gaver e Kate Colbert, especialistas do [!DNL Marketo], descrevem cinco recursos avançados que podem ajudar a melhorar a experiência do cliente e impulsionar a demanda em 2025. | **6 de fevereiro às 11h00 (MT)** | [Inscreva-se](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Conecte-se: Chat do administrador para Marketing e Criação_ | Você é um administrador de sistema da Workfront para uma equipe de marketing ou criativa? Participe da nossa discussão interativa para se conectar com outros administradores e compartilhar práticas recomendadas. | **7 de fevereiro às 10h MT** | [Registrar](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Administrador 101: fazendo com que os usuários usem o Workfront_ | Novo no Workfront? Junte-se à segunda sessão da nossa série de 3 partes, onde oferecemos práticas recomendadas sobre a entrada de projetos e a adoção de usuários. | **11 de fevereiro às 9h00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Pergunte-me algo sobre a Governança do Workfront_ | Pergunte aos nossos especialistas internos como você pode melhorar os processos, as políticas e os controles do Workfront para se alinhar melhor aos objetivos estratégicos da sua organização. | **12 de fevereiro às 9h00 (MT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Horário comercial do Adobe Marketo Engage Champion - fevereiro de 2025_ | Junte-se a nós para um time friendly norte-americano e LATAM Champion Office Hours liderado pelo 2024/25 Marketo Engage Campeões. | **13 de fevereiro às 8h (MT)** | [Registrar](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: a ascensão do autoatendimento no B2B_ | Comece o ano com o pé direito com a ajuda de Corey Gelato e Agbi Bajrushi, especialistas do [!DNL Commerce], e analise as últimas tendências do modelo B2B e conheça uma abordagem para aproveitar os novos recursos do Adobe [!DNL Commerce] para ficar à frente da concorrência o ano todo. | **13 de fevereiro às 11h00 (MT)** | [Inscreva-se](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
