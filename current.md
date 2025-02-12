@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
 workflow-type: tm+mt
-source-wordcount: '4370'
-ht-degree: 95%
+source-wordcount: '4224'
+ht-degree: 96%
 
 ---
 
@@ -33,13 +33,13 @@ A [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) ajuda
 
 ## Janeiro de 2025
 
-Última atualização: **quinta-feira, 5 de fevereiro de 2025**
+Última atualização: **quinta-feira, 12 de fevereiro de 2025**
 
 Para saber as datas específicas dos lançamentos de aplicativos, consulte as notas de versão do produto.
 
 * [Eventos e atualizações da [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] : interface central e administração](#ecloud)
+* [[!DNL Adobe Experience Cloud] - interface e administração centrais](#ecloud) (Atualizado: **12** de fevereiro)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -69,7 +69,7 @@ Para saber as datas específicas dos lançamentos de aplicativos, consulte as no
 
 Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
 
-### Atualizações para o Experience League (fevereiro de 2025)
+### Atualizações no Experience League (fevereiro de 2025)
 
 +++Detalhes
 
@@ -77,7 +77,7 @@ Saiba mais sobre eventos interessantes na Experience League. É um excelente lug
 
 Lançamento: **5 de fevereiro de 2025**
 
-A [Experience League home](https://experienceleague.adobe.com/?lang=en) totalmente nova apresenta recomendações de aprendizado personalizadas viabilizadas pelo [!DNL Adobe Target].
+A [Experience League home](https://experienceleague.adobe.com/?lang=en) totalmente nova apresenta recomendações de aprendizado personalizadas viabilizadas por [!DNL Adobe Target].
 
 Principais recursos:
 
@@ -95,15 +95,7 @@ Principais recursos:
 
 * **[!DNL Adobe Summit]** | _A Conferência sobre Experiência Digital_ | Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. | **18 a 19 de março em Las Vegas &amp; Online** | [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Target]** | _Marketo &amp; Mochas: 5 recursos do Marketo que você deve conhecer em 2025_ | Em nossa primeira sessão do ano do [!DNL Marketo] e Mochas, Carly Gaver e Kate Colbert, especialistas do [!DNL Marketo], descrevem cinco recursos avançados que podem ajudar a melhorar a experiência do cliente e impulsionar a demanda em 2025. | **6 de fevereiro às 11h00 (MT)** | [Inscreva-se](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Conecte-se: Chat do administrador para Marketing e Criação_ | Você é um administrador de sistema da Workfront para uma equipe de marketing ou criativa? Participe da nossa discussão interativa para se conectar com outros administradores e compartilhar práticas recomendadas. | **7 de fevereiro às 10h MT** | [Registrar](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Administrador 101: fazendo com que os usuários usem o Workfront_ | Novo no Workfront? Junte-se à segunda sessão da nossa série de 3 partes, onde oferecemos práticas recomendadas sobre a entrada de projetos e a adoção de usuários. | **11 de fevereiro às 9h00 (MT)** | [Inscreva-se](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Pergunte-me algo sobre a Governança do Workfront_ | Pergunte aos nossos especialistas internos como você pode melhorar os processos, as políticas e os controles do Workfront para se alinhar melhor aos objetivos estratégicos da sua organização. | **12 de fevereiro às 9h00 (MT)** | [Inscreva-se](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
-
-* **[!DNL Marketo and Marketo Engage]** | _Horário comercial do Adobe Marketo Engage Champion - fevereiro de 2025_ | Junte-se a nós para um time friendly norte-americano e LATAM Champion Office Hours liderado pelo 2024/25 Marketo Engage Campeões. | **13 de fevereiro às 8h (MT)** | [Registrar](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
+* **[!DNL Marketo and Marketo Engage]** | _Horário comercial do Adobe Marketo Engage Champion - fevereiro de 2025_ | Junte-se a nós para um time friendly norte-americano e LATAM Champion Office Hours liderado pelo 2024/25 Marketo Engage Champions. | **13 de fevereiro às 8h (MT)** | [Registrar](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: a ascensão do autoatendimento no B2B_ | Comece o ano com o pé direito com a ajuda de Corey Gelato e Agbi Bajrushi, especialistas do [!DNL Commerce], e analise as últimas tendências do modelo B2B e conheça uma abordagem para aproveitar os novos recursos do Adobe [!DNL Commerce] para ficar à frente da concorrência o ano todo. | **13 de fevereiro às 11h00 (MT)** | [Inscreva-se](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
@@ -140,7 +132,7 @@ Saiba mais sobre os componentes da interface central e administração da [!DNL 
 | Data | Recurso | Descrição |
 | -----------| -----------| ---------- |
 | 9 de janeiro | Dados de uso do produto | Para facilitar o controle das preferências de dados de uso do produto da [!DNL Experience Cloud], simplificamos a página de [Preferências](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences) da [!DNL Experience Cloud] para remover opções duplicadas. Com essa alteração, preservamos as preferências atuais do usuário para que você possa atualizar suas [preferências da Experience Cloud](https://experience.adobe.com/preferences) a qualquer momento. |
-| 5 de fevereiro (data planejada de lançamento) | Spectrum 2 | O quadro do aplicativo da [!DNL Experience Cloud], incluindo a barra de cabeçalho e os componentes acessados pela barra de cabeçalho (e o painel de navegação esquerdo de determinados aplicativos), será atualizado para o Spectrum 2. O Spectrum é o padrão de design da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
+| 13 de fevereiro (data planejada de lançamento) | Spectrum 2 | O quadro do aplicativo da [!DNL Experience Cloud], incluindo a barra de cabeçalho e os componentes acessados pela barra de cabeçalho (e o painel de navegação esquerdo de determinados aplicativos), será atualizado para o Spectrum 2. O Spectrum é o padrão de design da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
 
 Para obter ajuda sobre os componentes centrais da interface da [!DNL Experience Cloud], consulte o [Guia de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Públicos-alvo]).
 
@@ -207,7 +199,7 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 +++Detalhes
 
-Data de lançamento do [!DNL Analytics]: **22 de janeiro de 2025**
+[!DNL Analytics] última data de lançamento: **22 de janeiro de 2025**
 
 * [Notas de versão](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest?lang=pt-BR)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) --> do [!DNL Analytics]
 
@@ -245,7 +237,7 @@ Encontre as informações da versão mais recente do [!DNL Customer Journey Anal
 
 +++Detalhes
 
-Data de lançamento do [!DNL Customer Journey Analytics]: **22 de janeiro de 2025**
+[!DNL Customer Journey Analytics] última data de lançamento: **22 de janeiro de 2025**
 
 * [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) --> do [!DNL Customer Journey Analytics]
 
