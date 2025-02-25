@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ Recursos principais:
 
 +++Detalhes
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _A Conferência sobre Experiência Digital_ | Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. | **18 e 19 de março em Las Vegas e online** | [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Aprenda com seus colegas | _Como medir e compartilhar o valor do Workfront_ | **26 de fevereiro às 8h00 (PT)** | Junte-se a nós em 26 de fevereiro de 2025, enquanto seus colegas da Synchrony e da EMMsphere compartilham como criaram o que há de melhor em &quot;Workfront Why&quot; e como eles comunicam resultados mensuráveis como economia de tempo e custos. | [Registrar](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Aprenda com seus colegas | _Como medir e compartilhar o valor do Workfront_ | Junte-se a nós em 26 de fevereiro de 2025, enquanto seus colegas da Synchrony e da EMMsphere compartilham como criaram o que há de melhor em &quot;Workfront Why&quot; e como eles comunicam resultados mensuráveis como economia de tempo e custos.| **26 de fevereiro às 8:00 (PT)**   [Inscreva-se](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Webinário | _Protegendo o patrocínio executivo para o Adobe Workfront_ | **27 de fevereiro às 9h MST** | Descubra como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma. | [Registrar](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Webinário | _Protegendo o patrocínio executivo para o Adobe Workfront_ | Descubra como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma.| **27 de fevereiro às 9h MST** | [Registrar](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform_ | **27 de fevereiro às 8h30 PST** | Descubra como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma. | [Registrar](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform_ | Descubra como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma.| **27 de fevereiro às 8h30 PST** | [Registrar](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _A Conferência sobre Experiência Digital_ | **18 a 19 de março em Las Vegas e Online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 E muito mais. Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
