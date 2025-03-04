@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
 source-wordcount: '3590'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -87,9 +87,9 @@ Recursos principais:
 
 +++Detalhes
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Desbloqueando insights operacionais com o Assistente de IA no Adobe Experience Platform_ | **27 de fevereiro às 8h30 PST** | Descubra como o AI Assistant pode desbloquear insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho no Adobe Experience Platform e em seus aplicativos baseados em plataforma. | [Registrar](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Platform]** | Experience League LIVE | _Como explorar insights operacionais com o Assistente de IA na Adobe Experience Platform_ | **27 de fevereiro às 8h30 (PST)** | Descubra como o Assistente de IA pode oferecer insights operacionais valiosos, aumentando a produtividade e redefinindo o trabalho na Adobe Experience Platform e em seus aplicativos baseados em plataforma. | [Inscreva-se](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _A Conferência sobre Experiência Digital_ | **18 a 19 de março em Las Vegas e Online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Registrar](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conferência sobre experiência digital_ | **18 a 19 de março em Las Vegas e online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 E muito mais. Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
