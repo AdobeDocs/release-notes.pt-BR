@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Saiba mais sobre os componentes da interface central e administração da [!DNL 
 
 +++Detalhes
 
-| Data | Recurso | Descrição |
+| Data | Atualização | Descrição |
 | -----------| -----------| ---------- |
+| sexta-feira, 6 de março de 2025 | Correção da opção de menu de clique com o botão direito | As guias de navegação do cabeçalho do Experience Cloud agora permitem funções de menu suspenso do navegador e do clique com o botão direito do mouse. Isso corrige um problema introduzido na versão de fevereiro do sistema de design do Spectrum 2. |
 | 13 de fevereiro | Spectrum 2 | O quadro do aplicativo da [!DNL Experience Cloud], incluindo a barra de cabeçalho e os componentes acessados pela barra de cabeçalho (e o painel de navegação esquerdo de determinados aplicativos), será atualizado para o Spectrum 2. O Spectrum é o padrão de design da Adobe. Esse design atualizado inclui uma iconografia atualizada, mas com a mesma funcionalidade. Entretanto, vários elementos do cabeçalho foram reposicionados para se alinhar a outros sites e aplicativos da Adobe. |
 
 Para obter ajuda sobre os componentes centrais da interface da [!DNL Experience Cloud], consulte o [Guia de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) (inclui [!UICONTROL Atributos do cliente], [!DNL Experience Cloud Assets] e [!UICONTROL Públicos-alvo]).
