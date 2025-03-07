@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3696'
-ht-degree: 95%
+source-wordcount: '3688'
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ Recursos principais:
 
 +++Detalhes
 
-* **[!DNL Experience Manager Forms]** | _Expressos e Experience Manager: AEM Forms_ | **Março de 6** | Junte-se à equipe de produtos AEM da Adobe à medida que destacam as mais recentes inovações da AEM Forms, incluindo: o novo Assistente de IA de geração, Composição unificada com o AEM Sites e novas maneiras de implantar formulários por meio de conversas. | [Inscreva-se](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _A Conferência sobre Experiência Digital_ | **18 a 19 de março em Las Vegas e Online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _Conectar: Chat do Administrador para Marketing e Creative_ | **7 de março** | Seja você um Administrador de sistema do Workfront para marketing, criação ou qualquer outra equipe, esta discussão interativa se concentrará nas práticas recomendadas e no brainstorming coletivo. | [Inscreva-se](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _Saiba: Criar um Gráfico do Seu Curso para o Sucesso com o Adobe Workfront Planning_ | **13 de março** | Junte-se aos nossos gerentes de produto da Adobe para uma sessão introdutória detalhada sobre o Workfront Planning, onde eles compartilharão como esse recurso pode fornecer visibilidade abrangente dos detalhes operacionais da sua organização. | [Inscreva-se](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Administrador 101: Obtendo Dados do Workfront_ | **11 de março** | Novo no Workfront? Junte-se a nós na terceira sessão da série Admin 101 para saber tudo sobre relatórios. Você pode esperar uma discussão interativa sobre blueprints, painéis, Forms personalizado e muito mais. | [Inscreva-se](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Administrador 101: Faça Suas Perguntas Sobre O Workfront_ | **25 de março** | Novo no Workfront? Você perdeu alguma das sessões da Administração 101 anteriores? Participe da nossa sessão de resumo para fazer perguntas, obter recursos e recomendações, e conhecer outros novos administradores. | [Inscreva-se](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - A Conferência de Experiência Digital_ | **18 a 19 de março em Las Vegas e Online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Insights, inteligência e impacto do Personalization em escala_ | **Abril de 1** | Inovações do Adobe Target, incluindo a IA de geração e práticas recomendadas para personalização e experimentação alimentadas por IA em escala. | [Inscreva-se](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 E muito mais. Confira todos os [próximos eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) ou procure [gravações de eventos anteriores](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview?lang=pt-BR) na Experience League.
 
