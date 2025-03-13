@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4056'
-ht-degree: 44%
+source-wordcount: '4011'
+ht-degree: 41%
 
 ---
 
@@ -19,15 +19,19 @@ ht-degree: 44%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-Com a [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home), você aprende sobre a Experience Cloud e os aplicativos corporativos da Adobe. Para obter a melhor experiência, faça logon e personalize sua pesquisa em nossa biblioteca de recursos gratuita.
+A [Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) é sua biblioteca de recursos que pode ajudá-lo a aprender sobre os aplicativos corporativos da Experience Cloud e da Adobe. Entrar e:
 
-* **Receba notificações:** para receber uma notificação mensal por email sobre atualizações desta página, assine a [Atualização prioritária de produtos da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
+* [Personalize seu aprendizado](https://experienceleague.adobe.com/en/home/profile-settings): ajude-nos a personalizar sua experiência de aprendizado. Selecione sua função, o setor e os produtos que lhe interessam.
+* [Navegue e descubra](https://experienceleague.adobe.com/en/browse): encontre conteúdo popular, novos tutoriais, documentações, eventos futuros e muito mais!
+* [Obtenha novas perspectivas](https://experienceleague.adobe.com/en/perspectives): reunimos uma variedade de casos de uso reais e práticas recomendadas, escritos por seus colegas e especialistas em produtos da Adobe.
+* [Certificar-se](https://experienceleague.adobe.com/pt-br/certification-home): o novo Portal de Certificação da Adobe torna o aprimoramento de suas habilidades e a certificação um processo simples.
+* [Interaja com uma comunidade de colegas](https://experienceleaguecommunities.adobe.com/?profile.language=pt): participe de grupos, conheça nossos Supervisores da Comunidade Experience League e aprenda até mesmo como se tornar um deles.
 
-* **Deixe seus comentários:** procure pela seção **_Este conteúdo foi útil?Pop-up_** na parte inferior de cada artigo ou vídeo. Seus comentários são editados e entregues aos autores de conteúdo.
+Para receber uma notificação por email trimestral sobre atualizações nessa página, assine a [Atualização Prioritária de Produto da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## Março de 2025
 
-Última atualização: **quinta-feira, 12 de março de 2025**
+Última atualização: **sexta-feira, 13 de março de 2025**
 
 Use estes links para localizar notas de versão de aplicativo, eventos, novos tutoriais e os artigos de suporte mais recentes da Knowledge base:
 
@@ -58,37 +62,13 @@ Use estes links para localizar notas de versão de aplicativo, eventos, novos tu
 * [Certificação na Adobe](https://experienceleague.adobe.com/pt-br/certification-home)
 * [Vulnerabilidades de segurança do produto da Adobe](https://helpx.adobe.com/br/security.html)
 
-## Atualizações e eventos da [!DNL Experience League] {#events}
+## Eventos em [!DNL Experience League] {#events}
 
-Saiba mais sobre eventos interessantes na Experience League. É um excelente lugar para aprender, interagir e obter respostas de especialistas de produtos da Adobe.
+Localize [eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) e registre-se para os que interessam a você.
 
-### Atualizações na Experience League
-
-+++Detalhes
-
-**Página inicial personalizada**
-
-A mais nova [página inicial da Experience League](https://experienceleague.adobe.com/?lang=pt-br) apresenta recomendações de aprendizagem personalizadas fornecidas pelo [!DNL Adobe Target].
-
-Recursos principais:
-
-* Conteúdo recomendado com base em função, produto e atividades recentes
-* Conteúdo exibido recentemente
-* Sugestões de eventos e certificações sob demanda
-* Conteúdo recém-publicado para o produto
-* Interface reprojetada e atualizada
-
-[Saiba mais...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Eventos na Experience League
-
-+++Detalhes
++++Eventos
 
 * **[!DNL Adobe Summit]** | _A Conferência sobre Experiência Digital_ | **18 a 19 de março em Las Vegas e Online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Saiba: Criar um Gráfico do Seu Curso para o Sucesso com o Adobe Workfront Planning_ | **13 de março** | Junte-se aos nossos gerentes de produto da Adobe para uma sessão introdutória detalhada sobre o Workfront Planning, onde eles compartilharão como esse recurso pode fornecer visibilidade abrangente dos detalhes operacionais da sua organização. | [Inscreva-se](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Administrador 101: Faça Suas Perguntas Sobre O Workfront_ | **25 de março** | Novo no Workfront? Você perdeu alguma das sessões da Administração 101 anteriores? Participe da nossa sessão de resumo para fazer perguntas, obter recursos e recomendações, e conhecer outros novos administradores. | [Inscreva-se](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ E muito mais. Confira todos os [próximos eventos](https://experienceleague.ado
 
 Saiba mais sobre os recursos e as atualizações mais recentes no [!DNL Adobe System Status].
 
-+++Detalhes
+Nenhuma atualização de março.
+
++++Notas de versão
 
 O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de status e notificações por email sobre produtos e serviços da Adobe. Receba notificações sobre interrupções, paralisações e eventos de manutenção. Confira em [status.adobe.com/br](https://status.adobe.com/br).
 
@@ -130,7 +112,7 @@ As notas de versão recentes estão disponíveis aqui:
 
 Saiba mais sobre os componentes da interface central e administração da [!DNL Experience Cloud]. Gerencie produtos e usuários, defina configurações e preferências de perfil, pesquise por objetos da Experience Cloud e gerencie cookies.
 
-+++Detalhes
++++Novos recursos
 
 | Data | Atualização | Descrição |
 | -----------| -----------| ---------- |
