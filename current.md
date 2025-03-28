@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ Localize [eventos](https://experienceleague.adobe.com/events/?lang=pt-BR) e regi
 +++Eventos
 
 * **[!DNL Adobe Summit]** | _Conferência de experiência digital_ | **18 e 19 de março em Las Vegas e online**| Junte-se a colegas e ouça executivos da Coca-Cola Company, JPMorganChase, ServiceNow e muito mais. |  [Inscreva-se](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Introdução para admins: faça perguntas sobre o Workfront_ | **25 de março** | Está começando no Workfront? Você perdeu alguma das sessões da Administração 101 anteriores? Participe da nossa sessão de resumo para fazer perguntas, obter recursos e recomendações, e conhecer outros novos administradores. | [Inscreva-se](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Aprendizado: 10 dicas sobre o modo de texto do Adobe Workfront_ | **27 de março** | Deseja expandir seu conhecimento sobre relatórios com o modo de texto? Aqui é o lugar certo. Este workshop fornecerá uma breve introdução aos princípios básicos do modo de texto e do API Explorer, além de 10 dicas sobre como usá-lo no Adobe Workfront. | [Inscreva-se](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Conecte-se: coletiva do Workfront_ | **31 de março** | Participe dos nossos eventos mensais da coletiva do Workfront às segundas-feiras, desenvolvidos para que você possa interagir com outros clientes, conversar sobre recursos do Workfront, compartilhar ideias e fazer brainstorming para resolver desafios comuns. | [Inscreva-se](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
