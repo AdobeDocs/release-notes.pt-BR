@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ Esta página ajuda a encontrar notas de versão específicas do aplicativo, even
 Para receber uma notificação mensal por email sobre atualizações desta página, assine a [Atualização prioritária de produtos da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
 Atualizado em **quinta-feira, 16 de abril de 2025**
+
++++Exibir todos os produtos
 
 * [[!DNL Experience League] eventos e atualizações](#events) (Atualizado em **15 de abril**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Atualizado em **quinta-feira, 16 de abril de 2025**
 * [Certificação na Adobe](https://experienceleague.adobe.com/pt-br/certification-home)
 * [Vulnerabilidades de segurança do produto da Adobe](https://helpx.adobe.com/br/security.html)
 
++++
+
 ## Eventos na [!DNL Experience League] {#events}
 
 Localize [eventos](https://experienceleague.adobe.com/en/events) e inscreva-se nos que você achar interessante.
 
-+++Eventos
++++Eventos futuros
 
 * **[!DNL Marketo]** | _Marketo &amp; Mochas: Auditando uma Instância Herdada ou Atual_ | **Abril de 17** | Você herdou recentemente uma instância do Marketo? Ou talvez você esteja procurando realizar auditorias regulares na instância atual para maximizar seu potencial? Junte-se a nós neste webinário do Marketo &amp; Mochas com nossos consultores de negócios da Adobe, Cynthia Chang e Carly Gaver, centralizado em como executar uma auditoria detalhada para entender o estado atual de sua instância. | [Inscreva-se](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
