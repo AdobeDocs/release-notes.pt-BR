@@ -6,9 +6,9 @@ last-update: May 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f58913fc8c1ed947cff7d8021f7ea7e26f4cbac6
+source-git-commit: bf2548b11ab3118fa4d704b38d4e618bc8a428e7
 workflow-type: tm+mt
-source-wordcount: '5501'
+source-wordcount: '5363'
 ht-degree: 96%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 96%
 
 Esta página ajuda a encontrar notas de versão específicas do aplicativo, eventos futuros, novos tutoriais e os artigos de suporte mais recentes na Experience League.
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/pt-br/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/pt-br/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/pt-br/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/pt-br/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/?profile.language=pt): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
+<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 Para receber uma notificação mensal por email sobre atualizações desta página, assine a [Atualização prioritária de produtos da Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Atualizado em sexta-feira, 22 de maio de 2025**
+**Atualizado em quinta-feira, 28 de maio de 2025**
 
 +++Exibir links do produto
 
@@ -65,13 +65,9 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 
 Localize [eventos](https://experienceleague.adobe.com/pt-br/events) e inscreva-se nos que você achar interessante.
 
-Atualizado em: **quarta-feira, 27 de maio de 2025**
+Atualizado em: **quinta-feira, 28 de maio de 2025**
 
 +++Eventos futuros
-
-* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: otimize o desempenho com insights de IA_ | Junte-se a nós para um evento de transmissão ao vivo de uma hora onde mergulhamos no mundo transformador do Content Analytics, alimentado pela tecnologia de IA de ponta da Adobe. Esta sessão explorará como o Content Analytics pode revolucionar a maneira como você avalia, entende e otimiza o desempenho do conteúdo.  | **Reagendado para 28 de maio** | [Registrar](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&amp;mv=other)
-
-* **[!DNL Workfront]** | _Comece rápido e expanda com inteligência: como alcançar o sucesso da equipe com o Planejamento do Workfront_ | Lançar uma nova solução de planejamento em uma empresa pode ser uma experiência caótica, pois trata-se de um processo caro, lento e desconectado das necessidades das equipes que só querem que as coisas sejam feitas de imediato. Nesta sessão, vamos comparar o modelo de implementação federal com o modelo estadual e mostraremos como a adoção antecipada do Planejamento do Workfront permite agregar valor rapidamente, sem ter que esperar pelo consenso de toda a empresa.  | **Quarta-feira, 28 de maio** | [Inscreva-se](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Explore o potencial da conexão de dados do Workfront_ | Deseja elevar o nível dos seus relatórios do Workfront? Incluído no pacote Ultimate, mas disponível como um complemento pago para clientes Select ou Prime, esse webinário de uma hora hospedado em parceria com o Gerenciamento de produtos do Adobe Workfront falará sobre a conexão de dados e tudo o que ela pode fazer.  | **Quinta-feira, 29 de maio** | [Inscreva-se](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,11 +106,11 @@ Saiba mais sobre as atualizações dos componentes da interface de administraç�
 
 +++Novos recursos
 
-Consulte o [guia de administração e interface da Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud?lang=pt-BR) para obter ajuda sobre:
+Consulte o [guia de administração e interface da Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud?lang=pt-BR) para obter ajuda sobre:
 
-* **Novo.** [IA de geração em aplicativos Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/generative-ai)
-* [Licenças de produto e gerenciamento de usuários](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Atributos do cliente, Biblioteca de público-alvo, Assets](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/overview) e muito mais
+* **Novo.** [IA de geração em aplicativos Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
+* [Licenças de produto e gerenciamento de usuários](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
+* [Atributos do cliente, Biblioteca de público-alvo, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview) e muito mais
 
 +++
 
@@ -124,7 +120,7 @@ Encontre as informações da versão mais recente e a nova documentação da [!D
 
 +++Notas de versão, tutoriais e artigos de suporte
 
-* Notas de versão da [[!DNL Experience Platform] ](https://experienceleague.adobe.com/pt-br/docs/experience-platform/release-notes/latest?lang=pt-BR)
+* Notas de versão da [[!DNL Experience Platform] ](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest?lang=pt-BR)
 
 * [[!DNL Experience Platform] Notas de versão do SDK móvel](https://developer.adobe.com/pt_BR/client-sdks/documentation/release-notes/)
 
@@ -134,9 +130,9 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
-|April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
-|April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
+|April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
+|April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
+|April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
  -->
 
 ### Nova knowledge base de suporte do [!DNL Experience Platform]{#kb-aep}
@@ -166,9 +162,9 @@ Encontre os tutoriais mais recentes da [!DNL Real-Time CDP].
 
 Para obter mais informações, consulte:
 
-* Tutoriais em vídeo: [Como funciona a Real-Time CDP](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform?lang=pt-BR)
+* Tutoriais em vídeo: [Como funciona a Real-Time CDP](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform?lang=pt-BR)
 
-* Documentação do produto: [Real-Time CDP](https://experienceleague.adobe.com/pt-br/docs/real-time-customer-data-platform?lang=pt-BR)
+* Documentação do produto: [Real-Time CDP](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform?lang=pt-BR)
 
 +++
 
@@ -180,9 +176,9 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 Data de lançamento do [!DNL Analytics]: **14 de maio de 2025**
 
-* [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/analytics/release-notes/latest?lang=pt-BR) do [!DNL Analytics]
+* [Notas de versão](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest?lang=pt-BR) do [!DNL Analytics]
 
-* [Documentação do produto e tutoriais](https://experienceleague.adobe.com/pt-br/docs/analytics?lang=pt-BR) do [!DNL Analytics]
+* [Documentação do produto e tutoriais](https://experienceleague.adobe.com/en/docs/analytics?lang=pt-BR) do [!DNL Analytics]
 
 ### AppMeasurement {#appm}
 
@@ -194,7 +190,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/pt-br/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 +++
 
@@ -228,9 +224,9 @@ Encontre as informações da versão mais recente do [!DNL Streaming Media Analy
 
 Não atualizado.
 
-* [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/media-analytics/using/release-notes/release-notes?lang=pt-BR) do [!DNL Streaming Media Analytics]
+* [Notas de versão](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes?lang=pt-BR) do [!DNL Streaming Media Analytics]
 
-* [Documentação do produto e tutoriais](https://experienceleague.adobe.com/pt-br/docs/media-analytics/using/media-overview?lang=pt-BR) do [!DNL Streaming Media Analytics]
+* [Documentação do produto e tutoriais](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview?lang=pt-BR) do [!DNL Streaming Media Analytics]
 
 +++
 
@@ -249,15 +245,15 @@ A próxima versão está planejada para **5 de junho de 2025**.
 Todas as notas de versão do [!DNL Experience Manager] estão contidas nas seguintes páginas:
 
 * [Notas de versão mais recentes do  [!DNL Experience Manager]  as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Vídeo de visão geral da versão mais recente](https://experienceleague.adobe.com/pt-br/docs/events/aemcs-release-update-recordings/overview?lang=pt-BR)
+* [Vídeo de visão geral da versão mais recente](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview?lang=pt-BR)
 * Atualizações e roteiros da versão do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/pt-br/docs/experience-manager-release-information/aem-release-updates/home)
 * [[!DNL Experience Manager] Notas de versão do Pacote de serviços 6.5](https://experienceleague.adobe.com/pt-br/docs/experience-manager-65/content/release-notes/release-notes)
-* [[!DNL Experience Manager] Notas de versão do Cloud Manager](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-manager/content/release-notes/current?lang=pt-BR)
-* [Notas de versão do Serviço de conversão automatizada de formulários](https://experienceleague.adobe.com/pt-br/docs/aem-forms-automated-conversion-service/using/release-notes?lang=pt-BR)
-* [[!DNL Experience Manager] Notas de versão do Assets Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/dynamic-media-developer-resources/release-notes/s7rn2017?lang=pt-BR)
-* [[!DNL Experience Manager] Notas de versão do Brand Portal](https://experienceleague.adobe.com/pt-br/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes?lang=pt-BR)
-* [[!DNL Experience Manager] Notas de versão do aplicativo de desktop](https://experienceleague.adobe.com/pt-br/docs/experience-manager-desktop-app/using/release-notes?lang=pt-BR)
-* [[!DNL Experience Manager] Notas de versão do Dispatcher](https://experienceleague.adobe.com/pt-br/docs/experience-manager-dispatcher/using/getting-started/release-notes?lang=pt-BR)
+* [[!DNL Experience Manager] Notas de versão do Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current?lang=pt-BR)
+* [Notas de versão do Serviço de conversão automatizada de formulários](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes?lang=pt-BR)
+* [[!DNL Experience Manager] Notas de versão do Assets Dynamic Media](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017?lang=pt-BR)
+* [[!DNL Experience Manager] Notas de versão do Brand Portal](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes?lang=pt-BR)
+* [[!DNL Experience Manager] Notas de versão do aplicativo de desktop](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes?lang=pt-BR)
+* [[!DNL Experience Manager] Notas de versão do Dispatcher](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes?lang=pt-BR)
 
 ### Novos tutoriais do [!DNL Experience Manager] {#tutorials-aem}
 
@@ -317,7 +313,7 @@ Novos tutoriais do [!DNL Adobe Commerce] na Experience League.
 | Maio de 2025 | [Disponibilidade técnica dos aceleradores de sucesso](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-technical-readiness) | Novo vídeo | Saiba mais sobre os benefícios de disponibilidade técnica, análise de soluções, planejamento de eventos e monitoramento 24 horas por dia, 7 dias por semana do acelerador de sucesso do Commerce, que garantem um desempenho ideal. |
 | Maio de 2025 | [Adoção e habilitação dos aceleradores de sucesso](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-adoption-and-enablement) | Novo vídeo | Saiba mais sobre a adoção e a habilitação do acelerador de sucesso do Adobe Commerce para desenvolvimento estratégico, aprimoramento de habilidades e governança. |
 | Maio de 2025 | [O que é Ultimate Success?](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-ultimate-success) | Novo vídeo | Saiba mais sobre o suporte proativo e a orientação estratégica do Adobe Commerce Ultimate Success para experiências digitais de alto desempenho. |
-| Maio de 2025 | [Integração técnica: ofertas de SaaS](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps?lang=pt-BR) | Novo vídeo | Saiba mais sobre as ofertas, o suporte e outros comunicados de SaaS da Adobe Commerce Cloud, além de algumas próximas etapas. |
+| Maio de 2025 | [Integração técnica: ofertas de SaaS](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps?lang=pt-BR) | Novo vídeo | Saiba mais sobre as ofertas, o suporte e outros comunicados de SaaS da Adobe Commerce Cloud, além de algumas próximas etapas. |
 
 ### Nova knowledge base de suporte do [!DNL Commerce]{#kb-commerce}
 
@@ -348,11 +344,11 @@ Obtenha acesso às notas de pré-lançamento, notas da versão atual e novos tut
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes?lang=pt-BR)
-* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes?lang=pt-BR)
+* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes?lang=pt-BR)
+* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes?lang=pt-BR)
 
 +++
 
@@ -378,8 +374,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
+|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
+|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
 
 ### Nova knowledge base de suporte do [!DNL Campaign]{#kb-campaign}
 
@@ -464,7 +460,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Journey Optimi
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview?lang=pt-BR)
+* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home?lang=pt-BR) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview?lang=pt-BR)
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -481,15 +477,15 @@ Obtenha as informações da versão mais recente do [!DNL Journey Optimizer B2B 
 * [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/release-notes) para [!DNL Journey Optimizer B2B Edition]
 * [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/guide-overview) para [!DNL Journey Optimizer B2B Edition]
 * [Visões gerais e tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b-learn/tutorials/overview) para [!DNL Journey Optimizer B2B Edition]
-* [Descrição e licenciamento do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) para [!DNL Journey Optimizer B2B Edition]
+* [Descrição e licenciamento do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) para [!DNL Journey Optimizer B2B Edition]
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 Para obter mais informações, consulte:
 
@@ -505,8 +501,8 @@ Saiba mais sobre as notas de versão e a programação de lançamento do [!DNL M
 
 ### Atualizações principais do Marketo Engage
 
-* Consulte as [Notas de versão atuais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/current?lang=pt-BR) para obter as informações mais recentes.
-* Consulte a [programação de lançamento](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/release-schedule?lang=pt-BR) do [!DNL Marketo Engage] para obter as informações mais recentes sobre a programação de lançamento e notas de versão.
+* Consulte as [Notas de versão atuais](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current?lang=pt-BR) para obter as informações mais recentes.
+* Consulte a [programação de lançamento](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule?lang=pt-BR) do [!DNL Marketo Engage] para obter as informações mais recentes sobre a programação de lançamento e notas de versão.
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
@@ -514,9 +510,9 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
-Para obter a documentação mais recente do produto, consulte a página inicial da [Documentação de produto do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR)
+Para obter a documentação mais recente do produto, consulte a página inicial da [Documentação de produto do Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR)
 
 ### Nova knowledge base de suporte do [!DNL Marketo]
 
@@ -597,8 +593,8 @@ Encontre as informações da versão mais recente e a nova documentação do [!D
 
 Consulte as seguintes páginas para obter as informações mais recentes:
 
-* Notas de versão de [março e abril de 2025](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/releases/latest?lang=pt-BR) do Mix Modeler
-* [Documentação de produto](https://experienceleague.adobe.com/pt-br/docs/mix-modeler?lang=pt-BR) do Mix Modeler
+* Notas de versão de [março e abril de 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest?lang=pt-BR) do Mix Modeler
+* [Documentação de produto](https://experienceleague.adobe.com/en/docs/mix-modeler?lang=pt-BR) do Mix Modeler
 
 +++
 
@@ -614,13 +610,13 @@ Para procurar a ajuda da Adobe [!DNL Advertising], acesse [Documentação do Ado
 
 7 de maio de 2025
 
-Confira as [novidades do  [!DNL Advertising DSP]](https://experienceleague.adobe.com/pt-br/docs/advertising/dsp/home?lang=pt-BR)
+Confira as [novidades do  [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home?lang=pt-BR)
 
 ### Novos recursos no [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 26 de março de 2024
 
-Confira as [novidades do  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/pt-br/docs/advertising/search-social-commerce/home?lang=pt-BR)
+Confira as [novidades do  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home?lang=pt-BR)
 
 +++
 
@@ -654,9 +650,9 @@ Novos tutoriais publicados para a Adobe Document Cloud.
 
 Para tutoriais da [!DNL Document Cloud], consulte:
 
-* [Adobe Acrobat](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/acrobat-learning/overview?lang=pt-BR)
-* [Adobe Acrobat Sign](https://experienceleague.adobe.com/pt-br/docs/document-cloud-learn/sign-learning-hub/overview?lang=pt-BR)
-* [Tutoriais da API de serviços do Adobe Acrobat](https://experienceleague.adobe.com/pt-br/docs/acrobat-services-learn/tutorials/overview?lang=pt-BR)
+* [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview?lang=pt-BR)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview?lang=pt-BR)
+* [Tutoriais da API de serviços do Adobe Acrobat](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview?lang=pt-BR)
 * [Aprendizagem &amp; suporte da Document Cloud](https://helpx.adobe.com/br/support/document-cloud.html)
 
 +++
@@ -669,38 +665,38 @@ Novos tutoriais publicados para aplicativos na [!DNL Adobe Creative Cloud for en
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
-Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview?lang=pt-BR) para obter os tutoriais mais recentes.
+Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview?lang=pt-BR) para obter os tutoriais mais recentes.
 
 +++
 
 ## Gerenciamento de dados do cliente - Vozes {#voices}
 
-[Gerenciamento de dados do cliente - Vozes](https://experienceleague.adobe.com/pt-br/docs/events/customer-data-management-voices-recordings/overview?lang=pt-BR) é o seu destino como técnico de gerenciamento de dados e líder e especialista de práticas de marketing. Essa coleção de tutoriais é o seu balcão central para ouvir outros usuários, inspirar-se e conhecer os desenvolvimentos na MarTech. Não é necessário fazer um registro. Clique e assista.
+[Gerenciamento de dados do cliente - Vozes](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview?lang=pt-BR) é o seu destino como técnico de gerenciamento de dados e líder e especialista de práticas de marketing. Essa coleção de tutoriais é o seu balcão central para ouvir outros usuários, inspirar-se e conhecer os desenvolvimentos na MarTech. Não é necessário fazer um registro. Clique e assista.
 
 ## Blueprints de experiência digital {#blueprints}
 
-Os [Blueprints de experiência digital](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/overview?lang=pt-BR) são implementações replicáveis que permitem abordar estratégias e solucionar problemas comerciais estabelecidos de maneira rápida. Cada blueprint oferece uma série de artefatos que explicam o problema comercial de alto valor e fornecem arquiteturas, etapas de implementação, considerações técnicas e links para a documentação relevante.
+Os [Blueprints de experiência digital](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview?lang=pt-BR) são implementações replicáveis que permitem abordar estratégias e solucionar problemas comerciais estabelecidos de maneira rápida. Cada blueprint oferece uma série de artefatos que explicam o problema comercial de alto valor e fornecem arquiteturas, etapas de implementação, considerações técnicas e links para a documentação relevante.
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
