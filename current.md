@@ -6,10 +6,10 @@ last-update: August 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a6683a1be9b0bd6e86a5f5a1032c07732ed69b2a
+source-git-commit: 4d4f1d9322bac16fbea52510cbeb34aa6fb6aac9
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 98%
+source-wordcount: '6218'
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Atualizado em: **4 de setembro de 2025**
+Atualizado em: **11 de setembro de 2025**
 
 Esta página ajuda a:
 
@@ -36,8 +36,8 @@ Para receber uma notificação mensal por email sobre atualizações desta pági
 * [[!DNL Adobe Experience Cloud] : interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (Lançamento em **17 de setembro**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Lançamento em **17 de setembro**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -84,7 +84,7 @@ Encontre os recursos de aprendizado mais recentes publicados para IA generativa 
 
 | Produto | Recurso | Descrição | Publicado |
 | ------- | ------- | ------- | ------- |
-| [!DNL AI Assistant in Marketo Email Designer] | [Designer de email](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo. | Agosto de 2025 |
+| [!DNL AI Assistant in Marketo Email Designer] | [Designer de email](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en) | O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo. | Agosto de 2025 |
 | [!DNL Experience Cloud] | [IA generativa na  [!DNL Experience Cloud]](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/generative-ai) | Obtenha ajuda sobre a IA generativa (GenAI) e o Assistente de IA nos aplicativos da Experience Cloud. | Atualizado em agosto de 2025 |
 | [!DNL Experience Cloud] | [IA agêntica](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/agentic-ai) | Saiba mais sobre o Agente de suporte do produto e o Data Insights Agent (IA agêntica). | Junho de 2025 |
 
@@ -231,14 +231,19 @@ Encontre as informações da versão mais recente do [!DNL Adobe Analytics] e [!
 
 As versões do Adobe Analytics operam em um modelo de entrega contínua que permite uma abordagem mais escalável e em fases para a implantação de recursos. As notas de versão são atualizadas várias vezes por mês. 
 
-**Agosto de 2025**
+Lançamento planejado para: **quinta-feira, 17 de setembro de 2025**
 
-As atualizações incluem:
+* Melhorias na migração de projetos e componentes para o Customer Journey Analytics:
+   * Migrar vários projetos de uma vez.
+   * Atualize mapeamentos para dimensões e métricas que já foram mapeadas com uma migração de projeto anterior.
+   * Desempenho aprimorado para organizações com um grande número de projetos.
 
-* Analisar o tráfego de IA com um novo item de dimensão Tipo de Referenciador
-* Os projetos baixados como PDFs são baixados na estação de trabalho
-* Os projetos excluídos ficam imediatamente indisponíveis por URL e são excluídos das entregas agendadas
-* Mídia de streaming: campos XDM atualizados para coletar dados de mídia de streaming na Adobe Experience Platform
+<!-- Updates include:
+
+* Analyze AI traffic with a new Referrer Type dimension item
+* Projects downloaded as PDFs are downloaded to your workstation
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform -->
 
 Consulte as [[!DNL Analytics] notas de versão](https://experienceleague.adobe.com/pt-br/docs/analytics/release-notes/latest) para obter mais detalhes.
 
@@ -252,7 +257,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/pt-br/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 <!-- 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -261,9 +266,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
-|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
-|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
+|June 2025|[Analytics shared audience keeps showing collecting data on **[!UICONTROL Audience Library]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26635)|New article| Learn about the solutions to the issue when data isn't collected for a custom variable (For example: `eVar1`), the value will be shown as "`未指定`" in the **[!UICONTROL Analysis Workspace]** freeform table.|
+|June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
+|June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
 -->
 +++
 
@@ -275,20 +280,27 @@ Encontre as informações da versão mais recente do [!DNL Customer Journey Anal
 
 Os lançamentos de versões do [!DNL Customer Journey Analytics] ocorrem de forma contínua. Por isso, as notas de versão são atualizadas várias vezes por mês. Verifique-as regularmente.
 
-Atualizações de agosto:
+Lançamento planejado para: **quinta-feira, 17 de setembro de 2025**
 
-* Visualização de mapa
-* Relatórios em tempo real
-* Modelos B2B
-* Os projetos baixados como PDFs são baixados na estação de trabalho
+* Atualizações na interface de uso do
+* Melhorias na migração de projetos e componentes para o Customer Journey Analytics
+* O limite de chaves de pesquisa aumentou em até 1 bilhão
 * Suporte para esquemas ad hoc
-* Integração em conexões
-* Estender limite de chaves de pesquisa
-* Criar métricas e dimensões com base em campos de mapa definidos pelo usuário no
-* esquema da Platform
-* Os projetos excluídos ficam imediatamente indisponíveis por URL e são excluídos das entregas agendadas
 
-Consulte as [notas de versão do Customer Journey Analytics (CJA)](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/releases/latest#releases)
+<!-- August updates:
+
+* Map visualization
+* Real-time reporting
+* B2B templates
+* Projects downloaded as PDFs are downloaded to your workstation
+* Support for ad-hoc schemas
+* Stitching in connections
+* Extending lookup keys limit
+* Create metrics and dimensions based on user-defined map fields from the
+* Platform schema
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries  -->
+
+Consulte as [notas de versão do Customer Journey Analytics (CJA)](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=pt-BR) para obter detalhes.
 
 ### Novos tutoriais do [!DNL Customer Journey Analytics] {#tutorials-cja}
 
@@ -446,7 +458,7 @@ Novos artigos e atualizações de artigos já existentes do Adobe Commerce.
 | Julho de 2025 | [O administrador não pode criar/refazer um pedido quando o pagamento da Braintree está habilitado](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27169) | Novos artigos | Saiba mais sobre uma correção para o problema do Adobe Commerce 2.4.5 em que um usuário administrador não pode criar/refazer pedidos de clientes quando a forma de pagamento da Braintree está ativada. |
 | Julho de 2025 | Correção CVE-2022-31160 de vulnerabilidade de segurança da interface do [[!DNL JQuery]  para as versões 2.4.4, 2.4.5 e 2.4.6](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27176) | Novos artigos | Saiba mais sobre o patch para a correção CVE-2022-31160 de vulnerabilidade de segurança da interface do [!DNL JQuery] para as versões 2.4.4, 2.4.5 e 2.4.6. |
 | Julho de 2025 | [Atualização de segurança disponível para o Adobe Commerce – APSB25-50](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27181) | Novos artigos | Saiba mais sobre o patch que aborda o boletim de segurança APSB25-50. |
-| Julho de 2025 | [**[!UICONTROL salesRule &#x200B;]**&#x200B;rotula problemas ao atualizar de versões anteriores à 2.4.5](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27186) | Novos artigos | Saiba mais sobre o patch que aborda rótulos **[!UICONTROL salesRule]** incompatíveis após a atualização para uma versão mais recente do Adobe Commerce que seja anterior à versão 2.4.5. |
+| Julho de 2025 | [**[!UICONTROL salesRule ]**rotula problemas ao atualizar de versões anteriores à 2.4.5](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27186) | Novos artigos | Saiba mais sobre o patch que aborda rótulos **[!UICONTROL salesRule]** incompatíveis após a atualização para uma versão mais recente do Adobe Commerce que seja anterior à versão 2.4.5. |
 | Julho de 2025 | [Erro de inserção de pedido a partir do painel do administrador no Adobe Commerce 2.4.6](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27187) | Novos artigos | Saiba mais sobre a correção para o problema conhecido do Adobe Commerce na infraestrutura em nuvem 2.4.6 em que o usuário fica travado na seleção de loja após fazer um pedido no painel de administrador do Commerce. |
 | Julho de 2025 | [Solicitação de aprimoramento do ambiente de integração – Pro e Starter](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27242) | Novos artigos | Saiba como os comerciantes dos planos Pro e Starter podem atualizar reduzindo as ramificações de integração, enviando um tíquete de suporte e reimplantando ambientes para resolver problemas de implantação lenta e desempenho. |
 | Julho de 2025 | [Integração do App Builder com serviços externos usando IPs dinâmicos](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27043) | Novos artigos | Saiba mais sobre a integração do App Builder com serviços externos usando IPs dinâmicos. |
@@ -465,7 +477,7 @@ Lançamento: **1 de agosto de 2025**
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes)
@@ -586,15 +598,15 @@ Consulte as [notas de versão do AJO B2B Edition](https://experienceleague.adobe
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b) (100% em autoatendimento)
 * [Documentação de produto](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/guide-overview) do [!DNL Journey Optimizer B2B Edition]
 * [Vídeos de visão geral e tutoriais](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b-learn/tutorials/overview) do [!DNL Journey Optimizer B2B Edition]
-* [Descrição e licenciamento de produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) do [!DNL Journey Optimizer B2B Edition]
+* [Descrição e licenciamento de produto](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) do [!DNL Journey Optimizer B2B Edition]
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 +++
 
@@ -618,7 +630,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 Para obter a documentação mais recente do produto, consulte a página inicial da [Documentação de produto do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home)
 
@@ -628,7 +640,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
 -->
 
 +++
@@ -641,7 +653,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 ### Atualizações do [!DNL Adobe Workfront]
 
-* [Visão geral da versão do quarto trimestre de 2025](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
+* [Visão geral da versão do quarto trimestre de 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 Para todas as informações sobre a versão:
 
@@ -774,8 +786,8 @@ Novos tutoriais publicados para aplicativos na [!DNL Adobe Creative Cloud for en
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 Consulte [Tutoriais da Creative Cloud para corporações](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) para obter os tutoriais mais recentes.
 
@@ -791,16 +803,16 @@ Os [Blueprints de experiência digital](https://experienceleague.adobe.com/pt-br
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
