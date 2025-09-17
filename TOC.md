@@ -2,13 +2,13 @@
 cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Notas de versão da Adobe Experience Cloud
-breadcrumb-title: Notas de versão
+breadcrumb-title: Notas de versão centrais
 user-guide-description: Saiba mais sobre novos recursos, correções e avisos importantes sobre a Adobe Experience Cloud e a Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 1394b4e413867e8170a5ae1d6cd3f45fb854e1c8
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: ead4489c7199749dbf8fec8bd596c4968005627c
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 97%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [Notas de versão atuais](current.md)
 + Notas de versão anteriores {#previous}
    + 2025 {#2025}
+      + [Agosto de 2025](c-legacy-releases/2025/08132025.md)
       + [Julho de 2025](c-legacy-releases/2025/07162025.md)
       + [Junho de 2025](c-legacy-releases/2025/06182025.md)
       + [Maio de 2025](c-legacy-releases/2025/05142025.md)
@@ -28,7 +29,7 @@ ht-degree: 100%
    + 2024 {#2024}
       + [Novembro de 2024](c-legacy-releases/2024/10232024.md)
       + [Setembro de 2024](c-legacy-releases/2024/09122024.md)
-      + [Agosto de 2024](c-legacy-releases/2024/09142023.md)
+      + [Agosto de 2024](c-legacy-releases/2024/08142024.md)
       + [Julho de 2024](c-legacy-releases/2024/07172024.md)
       + [Junho de 2024](c-legacy-releases/2024/06122024.md)
       + [Maio de 2024](c-legacy-releases/2024/05152024.md)

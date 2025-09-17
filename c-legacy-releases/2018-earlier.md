@@ -1,19 +1,19 @@
 ---
 description: Notas de versão anteriores para produtos e serviços da Experience Cloud. Encontre novos tutoriais e ajuda sobre a Creative Cloud para corporações e a Document Cloud.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: Notas de versão de 2019 e anterior
+title: Notas de versão centrais para 2019 e anterior
 solution: Experience Cloud,Analytics,Target,Advertising
-seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
+seo-title: Central Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
-source-git-commit: eef9efd5591a9bdf3bdd0d89237b75304c49bc55
+source-git-commit: 6fb2d115be0b2d8dacd5b24218b0c647fad782b2
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 89%
 
 ---
 
-# Notas de versão de 2019 e anterior
+# Notas de versão de 2019 e anteriores
 
 * [PDF das Notas de versão de 2019](2019-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [PDF das Notas de versão de 2018](2018-Adobe-Experience-Cloud-Release-Notes.pdf)
