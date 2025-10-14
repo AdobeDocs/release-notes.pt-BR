@@ -4,9 +4,9 @@ description: Notas de versão da Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,9 +52,9 @@ Recursos e correções.
 
 Consulte [Status de sistema da Adobe](https://status.adobe.com/pt-BR).
 
-## ![Ícone](/assets/ec_appicon_24.png) Componentes da interface central da Experience Cloud {#ecloud}
+## Componentes da interface central da Experience Cloud {#ecloud}
 
-Os componentes da interface central da Experience Cloud incluem atualizações a serem acessadas do cabeçalho unificado do produto, como autoajuda, pesquisa e preferências da conta do usuário. As atualizações para Pessoas, Places (Localização) e gerenciamento de produtos são encontradas aqui.
+Os componentes da interface central da Experience Cloud incluem atualizações a serem acessadas do cabeçalho unificado do produto, como autoajuda, pesquisa e preferências da conta de usuário. As atualizações para Pessoas, Places (Localização) e gerenciamento de produtos são encontradas aqui.
 
 ### [!UICONTROL Serviços principais] {#core-services}
 
@@ -64,7 +64,7 @@ Recursos e correções.
 
 Recursos e correções.
 
-## ![Ícone](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Notas de versão da [!DNL Experience Platform,], incluindo [!DNL Experience Platform Launch,], [!UICONTROL Journey Orchestration], os serviços [!UICONTROL Ofertas], [!UICONTROL Pessoas] e [!UICONTROL Places], o [!UICONTROL Mobile Services] e boletins de segurança.
 
@@ -84,7 +84,7 @@ Consulte
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Usando a Adobe [!UICONTROL Experience Platform,] orquestre jornaldas individuais de clientes em escala nos canais de experiência, antecipando, de maneira inteligente, as necessidades de cada indivíduo em tempo real, onde quer que a jornada o leve.
+Usando a Adobe [!UICONTROL Experience Platform,] orquestre jornadas individuais de clientes em escala nos canais de experiência, antecipando, de maneira inteligente, as necessidades de cada pessoa em tempo real, onde quer que a jornada o leve.
 
 #### Recursos adicionais para a [!UICONTROL Journey Orchestration]
 
@@ -224,7 +224,7 @@ Texto
 
 ## Campaign {#ac}
 
-O Adobe Campaign oferece uma maneira intuitiva e automatizada de enviar mensagens individuais por canais de marketing online e offline. Agora, é possível prever o que seus clientes desejam usando as experiências determinadas por seus hábitos e preferências.
+O Adobe Campaign oferece uma maneira intuitiva e automatizada de entregar mensagens individuais por canais de marketing online e offline. Agora, é possível prever o que seus clientes desejam usando as experiências determinadas por seus hábitos e preferências.
 
 ### Recursos adicionais
 
@@ -261,8 +261,8 @@ Data de lançamento: 21 de fevereiro de 2020
 * **Melhorias nas chamadas de API:**
    * APIs de gerenciamento de usuários
    * APIs de esquema de objeto personalizadas
-   * APIs de regras de redirecionamento de página de aterrissagem
-* **Cache do descritor de formulário:** melhorias nas páginas de aterrissagem e formulários.
+   * APIs de regras de redirecionamento de página de destino
+* **Cache do descritor de formulário:** melhorias nas páginas de destino e formulários.
 
 ### Recursos futuros
 
