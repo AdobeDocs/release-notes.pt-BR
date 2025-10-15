@@ -646,7 +646,7 @@ Tutoriais em vídeo para o GenStudio for Performance Marketing.
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/browse/genstudio-for-performance-marketing) (disponível 100% em autoatendimento)
 * [Documentação de produto](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home) do GenStudio for Performance Marketing
-* Informações sobre o produto [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html)
+* Informações sobre o produto [GenStudio for Performance Marketing](https://business.adobe.com/br/products/genstudio-for-performance-marketing.html)
 
 +++
 
