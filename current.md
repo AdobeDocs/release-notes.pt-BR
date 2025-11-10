@@ -312,7 +312,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Experience Man
 | Outubro de 2025 | [Perguntas e respostas sobre desempenho com o Dynamic Media com APIs abertas](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | Novo artigo | Saiba mais sobre as soluções para o problema quando as imagens DMwOA são fornecidas com um tempo de atraso maior do que o esperado. |
 | Outubro de 2025 | [Problema no DM com OpenAPI - API do contêiner do reprodutor de vídeo](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | Novo artigo | Saiba mais sobre as soluções para o problema ao usar o Dynamic Media com a função de APIs abertas e use o código retornado para exibir o visualizador de um site externo inalterado, o código gera URLs malformados para buscar detalhes do vídeo e não funcionará conforme esperado. |
 | Outubro de 2025 | Erro [401 ao usar o token de desenvolvimento local no AEM Forms as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | Novo artigo | Saiba mais sobre as soluções para o problema ao usar um token de desenvolvimento local do Adobe Developer Console (ADC) no AEM Forms as a Cloud Service; ocorre um erro 401. |
-| Outubro de 2025 | O fluxo de trabalho [**[!UICONTROL Solicitação de exclusão ]**não está funcionando no AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Novo artigo | Saiba mais sobre as soluções para o problema no AEM Sites quando você exclui páginas de conteúdo sem a permissão **[!UICONTROL Replicar]**, o sistema aciona o fluxo de trabalho **[!UICONTROL Solicitação de exclusão]**. |
+| Outubro de 2025 | O fluxo de trabalho [**[!UICONTROL Solicitação de exclusão &#x200B;]**&#x200B;não está funcionando no AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Novo artigo | Saiba mais sobre as soluções para o problema no AEM Sites quando você exclui páginas de conteúdo sem a permissão **[!UICONTROL Replicar]**, o sistema aciona o fluxo de trabalho **[!UICONTROL Solicitação de exclusão]**. |
 | Outubro de 2025 | [AEMaaCS: dispositivos móveis exibem dois botões de reprodução em vídeos do Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | Novo artigo | Saiba mais sobre as soluções para o problema que ocorre quando vídeos do Dynamic Media no Adobe Experience Manager (AEM) as a Cloud Service mostram dois botões de reprodução sobrepostos quando visualizados em dispositivos móveis. |
 | Outubro de 2025 | [O painel do New Relic mostra somente máquinas virtuais (VMs) AMS em vez de VMs AEMaaCS no AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | Novo artigo | Saiba mais sobre as soluções para o problema no AEMaaCS quando o painel do New Relic mostra somente as máquinas virtuais (VMs) do AMS em vez das VMs do AEMaaCS. |
 | Outubro de 2025 | [A API do Querybuilder ignora filtros do dispatcher e expõe informações confidenciais](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | Novo artigo | Saiba mais sobre as soluções para o problema de controle de acesso no Adobe Experience Manager as a Cloud Service (AEMaaCS), em que a API do Querybuilder pode ignorar os filtros do dispatcher, expondo potencialmente informações confidenciais. |
@@ -342,7 +342,7 @@ Obtenha acesso às notas de versão, novos tutoriais e artigos de suporte da kno
 +++Notas de versão, novos tutoriais e artigos de suporte
 
 * Consulte as [Notas de versão do [!DNL Adobe Commerce] e do  [!DNL Magento Open Source]](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview) para manter-se atualizado.
-* Consulte os [guias de serviços do Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home) para ver informações e a documentação de lançamento do Commerce Services.
+* Consulte os [guias de serviços do Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home) para ver informações e a documentação de lançamento do Commerce Services.
 * Consulte a [disponibilidade do produto](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/product-availability) para acessar as notas de versões de produtos individuais e verificar a disponibilidade.
 
 ### Novos tutoriais para o [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -389,8 +389,8 @@ Lançamento: **quinta-feira, 22 de outubro de 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes)
-* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes)
+* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes)
+* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -466,7 +466,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview)
+* Documentação do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview)
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -547,7 +547,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 Para todas as informações sobre a versão:
 
-* Consulte a página de [versões do produto do Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases) para informações sobre o cronograma de lançamentos e as notas de versão do [!DNL Workfront].
+* Consulte a página de [versões do produto do Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases) para informações sobre o cronograma de lançamentos e as notas de versão do [!DNL Workfront].
 
 * Confira a [Visão geral das atividades de lançamento do Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) para obter as informações mais recentes sobre o Fusion.
 
