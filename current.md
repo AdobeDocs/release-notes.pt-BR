@@ -404,7 +404,7 @@ Obtenha acesso às notas de versão, novos tutoriais e artigos de suporte da kno
 +++Notas de versão, novos tutoriais e artigos de suporte
 
 * Consulte as [Notas de versão do [!DNL Adobe Commerce] e do  [!DNL Magento Open Source]](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview) para manter-se atualizado.
-* Consulte os [guias de serviços do Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home) para ver informações e a documentação de lançamento do Commerce Services.
+* Consulte os [guias de serviços do Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home) para ver informações e a documentação de lançamento do Commerce Services.
 * Consulte a [disponibilidade do produto](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/product-availability) para acessar as notas de versões de produtos individuais e verificar a disponibilidade.
 
 ### Novos tutoriais para o [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -457,8 +457,8 @@ Lançamento: **14 de novembro de 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes)
-* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] ](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes)
+* Para obter informações de pré-lançamento, consulte Pré-lançamento do [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/target-release-notes)
+* Para obter informações atuais, consulte as notas de versão do [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -532,7 +532,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Journey Optimi
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview)
+* Documentação do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview)
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -613,7 +613,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 Para todas as informações sobre a versão:
 
-* Consulte a página de [versões do produto do Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases) para informações sobre o cronograma de lançamentos e as notas de versão do [!DNL Workfront].
+* Consulte a página de [versões do produto do Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases) para informações sobre o cronograma de lançamentos e as notas de versão do [!DNL Workfront].
 
 * Confira a [Visão geral das atividades de lançamento do Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) para obter as informações mais recentes sobre o Fusion.
 
