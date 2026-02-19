@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Este repositório foi migrado para a GitHub Enterprise Cloud
 
-<https://github.com/Adobe-Enterprise-Docs/release-notes.en>
+<https://github.com/Adobe-Enterprise-Docs/release-notes.pt-BR>
