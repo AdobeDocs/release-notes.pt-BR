@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40afb853a97a270e594a1b84562ed53c8ba66b9a
+source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
 workflow-type: tm+mt
-source-wordcount: '3966'
-ht-degree: 51%
+source-wordcount: '4063'
+ht-degree: 50%
 
 ---
 
@@ -24,7 +24,7 @@ Esta página ajuda a:
 * Visualize novos tutoriais em vídeo por aplicativo
 * Conferir os artigos de suporte mais recentes
 
-Última atualização: **quinta-feira, 11 de fevereiro de 2026**
+Última atualização: **sábado, 20 de fevereiro de 2026**
 
 ## Cursos na Experience League
 
@@ -44,28 +44,28 @@ Cada curso termina com um certificado de conclusão compartilhável, sendo uma f
 
 +++Visualizar links de seção
 
-* [Cronograma do evento](#events)
-* [Recursos de IA na  [!DNL Experience Cloud]](#ai)
+* [Agendamento de eventos](#events) (Atualizado: **20 de fevereiro**)
+* [Recursos de IA em [!DNL Experience Cloud]](#ai) (Atualizado: **20 de fevereiro**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] : interface central e administração](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (**fevereiro**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (**fevereiro**)
+* [[!DNL Adobe Analytics]](#analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) (**Janeiro**)
+* [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
-* [[!DNL Adobe Target]](#target) (**Janeiro**)
-* [[!DNL Adobe Campaign]](#ac) (**Janeiro**)
-* [[!DNL Adobe Journey Optimizer]](#journey-opt) (**fevereiro**)
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b) (**fevereiro**)
-* [[!DNL Adobe Marketo Engage]](#marketo) (**Janeiro**)
-* [[!DNL Adobe Workfront]](#workfront) (**Janeiro**)
-* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) (**Janeiro**)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#marketo)
+* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising) (**Janeiro**)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -82,9 +82,15 @@ Localize [eventos](https://experienceleague.adobe.com/pt-br/events) e inscreva-s
 
 +++Visualizar os próximos eventos
 
+* **[!DNL Workfront]** | _Webinar_ | Capacitação dimensionável: transformar blueprints do Workfront em programas de treinamento do mundo real. | **26 de fevereiro** | [Registrar](https://events.teams.microsoft.com/event/3ebe62c9-48da-4f99-a504-db4d4a05257d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Adobe Insider Tour]** | _Junte-se a nós no Tour do Adobe Insider_ | Estamos animados em trazer a Adobe Insider Tour para Seattle em 26 de fevereiro - e adoraríamos que você se juntasse a nós. | **26 de fevereiro** | [Registrar](https://event.adobe.com/adobe-insider-tour-seattle)
+
+* **[!DNL Workfront]** | _Conectar: Chat do Administrador para Marketing e Creative_ | Estamos animados em trazer a Adobe Insider Tour para Seattle em 26 de fevereiro - e adoraríamos que você se juntasse a nós. | **Março de 6** | [Registrar](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Adobe Summit]** | _Veja o futuro do marketing, da criatividade e da IA_ | Descubra as novidades em marketing, criatividade e IA. | **Las Vegas, 19 a 22 de abril** | [Inscrever-se](https://summit.adobe.com/na/)
 
-Veja a lista completa de eventos [futuros](https://experienceleague.adobe.com/pt-br/events) e [sob demanda](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-recorded-events/overview) na Experience League.
+E muito mais. Veja a lista completa de eventos [futuros](https://experienceleague.adobe.com/pt-br/events) e [sob demanda](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-recorded-events/overview) na Experience League.
 
 +++
 
@@ -96,6 +102,7 @@ Encontre os recursos de aprendizado mais recentes publicados para a IA generativ
 
 | Produto | Recurso | Descrição | Atualizado |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Consumo de créditos de AI e trabalhos do agente](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Saiba mais sobre tarefas de agente e taxas de consumo de crédito de IA em aplicativos do Experience Cloud. | **sábado, 20 de fevereiro de 2026** |
 | [!DNL Experience Cloud] | [IA agêntica em aplicativos da Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/agentic-ai) | Saiba mais sobre como habilitar a IA agêntica no Experience Cloud. Saiba como funcionam os trabalhos de agente e o consumo de crédito de IA. | **sexta-feira, 29 de janeiro de 2026** |
 | [!DNL Experience Manager as a Cloud Service] | [IA agêntica no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem) | Saiba mais sobre os novos agentes de IA no AEM CS. | 21 de novembro de 2025 |
 | [!DNL Experience Cloud] | [IA generativa em aplicativos da Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/generative-ai) | Saiba onde os recursos viabilizados por IA estão disponíveis na Experience Cloud. | Novembro de 2025 |
