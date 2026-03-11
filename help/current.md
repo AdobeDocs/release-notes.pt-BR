@@ -6,7 +6,7 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1554fc412f68ac6f8e1b7cf34af86d9a62de87ca
+source-git-commit: db9d2104abf27dc3faa73381ea7c3375cc9a4ce5
 workflow-type: tm+mt
 source-wordcount: '7201'
 ht-degree: 35%
@@ -114,9 +114,11 @@ Saiba mais sobre as atualizações dos componentes da interface central e de adm
 
 Consulte o guia de [administração e interface da Experience Cloud](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud) para obter ajuda sobre:
 
-<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/generative-ai)
+<!-- 
+* [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/generative-ai)
 * [User management and product licenses](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/overview), and more -->
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/services/overview), and more 
+-->
 
 +++
 
@@ -195,9 +197,11 @@ Encontre os tutoriais mais recentes da [!DNL Real-Time CDP].
 
 +++Assistir a novos tutoriais
 
-<!-- | Published | Name | Type | Description |
+<!-- 
+| Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/pt-br/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| 
+-->
 
 Para obter ajuda, consulte:
 
@@ -404,7 +408,8 @@ Obtenha acesso às notas de versão, novos tutoriais e artigos de suporte da kno
 * Consulte os [guias de serviços do Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home) para ver informações e a documentação de lançamento do Commerce Services.
 * Consulte a [disponibilidade do produto](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/product-availability) para acessar as notas de versões de produtos individuais e verificar a disponibilidade.
 
-<!-- ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
+<!-- 
+### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
@@ -413,7 +418,8 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 | January 2026 | [Observability overview](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/observability/overview) | Video | Learn why centralized observability is essential for modern Adobe Commerce architectures. |
 | January 2026 | [Open telemetry](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/observability/open-telemetry)| Video | Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
 | January 2026 | [Setup and Configuration](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/observability/demo-setup-configuration) | Video | Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. |
-| January 2026 |[Observability demo](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | -->
+| January 2026 |[Observability demo](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | 
+-->
 
 ### Nova knowledge base de suporte do [!DNL Commerce]{#kb-commerce}
 
@@ -446,7 +452,8 @@ Obtenha acesso às notas de pré-lançamento, notas da versão atual e novos tut
 
 Lançamento: **26.1.2 - 30 de janeiro de 2026**
 
-<!-- ### New [!DNL Target] support knowledge base{#kb-target}
+<!-- 
+### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
@@ -473,7 +480,8 @@ Obtenha as atualizações mais recentes do [!DNL Adobe Campaign]. Encontre novos
 
 * [!DNL Campaign Classic] 7.4.2: 12 de maio de 2025 - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentação do produto](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/campaign-classic-home)
 
-<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
+<!-- 
+### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -481,7 +489,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
 |August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
- -->
+-->
 
 ### Nova knowledge base de suporte do [!DNL Campaign]{#kb-campaign}
 
@@ -577,13 +585,15 @@ Versão mais recente: **fevereiro de 2026**
 * [Cronograma de lançamentos](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/release-schedule) do [!DNL Marketo Engage]
 * [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/dynamic-chat) do Dynamic Chat (30 de junho de 2025)
 
-<!-- ### New Marketo tutorials {#tutorials-marketo}
+<!-- 
+### New Marketo tutorials {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| 
+-->
 
 Para obter a documentação mais recente do produto, consulte a página inicial da [Documentação de produto do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home)
 
@@ -701,10 +711,12 @@ Veja os novos tutoriais publicados para os aplicativos da [!DNL Adobe Creative C
 
 +++Tutoriais mais recentes
 
-<!-- |Published|Application|Name|Type|Description |
+<!-- 
+|Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | 
+-->
 
 Consulte nossa biblioteca de tutoriais da [Creative Cloud para corporações](https://experienceleague.adobe.com/pt-br/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) para obter mais informações.
 
@@ -718,7 +730,8 @@ Consulte nossa biblioteca de tutoriais da [Creative Cloud para corporações](ht
 
 [Os blueprints da orquestração da experiência do cliente](https://experienceleague.adobe.com/pt-br/docs/blueprints-learn/architecture/overview) são implementações repetíveis que permitem abordar estratégias e solucionar problemas comerciais estabelecidos de maneira rápida. Cada blueprint oferece uma série de artefatos que explicam o problema comercial de alto valor e fornecem arquiteturas, etapas de implementação, considerações técnicas e links para a documentação relevante.
 
-<!-- ## ![Icon](assets/certification-badge.png) Certification{#certification}
+<!-- 
+## ![Icon](assets/certification-badge.png) Certification{#certification}
 
 Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) site on Experience League. 
 
@@ -732,4 +745,5 @@ The [Experience Cloud Certification](https://experienceleague.adobe.com/pt-br/do
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/pt-br/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++ -->
++++ 
+-->
