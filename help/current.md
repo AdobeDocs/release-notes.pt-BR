@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: c26c54047c0399effc03e12a7ced1b1c4d3ac4ba
+source-git-commit: bd15330698bc1312e14730da803d000aec5f2fd2
 workflow-type: tm+mt
-source-wordcount: 6872
-ht-degree: 100%
+source-wordcount: 6716
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ Esta página ajuda a:
 * Visualize novos tutoriais em vídeo por aplicativo
 * Conferir os artigos de suporte mais recentes
 
-Última atualização: **19 de março de 2026**
+Última atualização: **31 de março de 2026**
 
 Nesta página:
 
@@ -61,12 +61,6 @@ Nesta página:
 * [Vulnerabilidades de segurança de produtos do Adobe](https://helpx.adobe.com/br/security.html){target="_blank"}
 
 ## Webinários e eventos de aprendizado {#events}
-
-* **[!DNL Experience Cloud]** | _Horário comercial do Adobe Experience Platform Champion_ | Vamos falar de desafios, bloqueadores e listas de desejos. O que você precisa para fazer seu sistema zuntar? | **24 de março de 2026** | [Registrar](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
-
-* **[!DNL Workfront]** | _Administrador 101: Faça Suas Perguntas Sobre O Workfront_ | Junte-se a nós para um workshop de acompanhamento de uma hora de duração, no qual compartilharemos rapidamente um resumo de cada sessão e, em seguida, o abriremos para perguntas e respostas. | **24 de março de 2026** | [Registrar](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Fusão Decodificada: Parte 2 - Vamos Começar a Compilação_ | Na Parte 2 da nossa série Fusion, mergulharemos em modelos prontos para uso e mostraremos como usá-los para iniciar rapidamente a sua jornada de automação. | **25 de março de 2026** | [Registrar](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Exiba a programação completa dos eventos [Próximos](https://experienceleague.adobe.com/pt-br/events){target="_blank"} e [sob demanda](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
@@ -415,7 +409,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Campaign].
 | Fevereiro de 2026 | O relatório [Taxa de Transferência de Entrega[!UICONTROL do Adobe Campaign] mostra uma contagem processada mais alta](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de quando o [!UICONTROL relatório de Taxa de Transferência de Entrega] exibe valores processados ou enviados por hora mais altos que não se alinham com as métricas de sucesso mostradas no resumo da entrega. |
 | Fevereiro de 2026 | [[!UICONTROL Broadlog ID] não enviada para a Adobe Analytics através da integração do Campaign Managed Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema que ocorre quando o Adobe Campaign Managed Cloud não envia [!UICONTROL Broadlog IDs] para a Adobe Analytics ao usar o fluxo de trabalho padrão `webAnalyticsSendMetrics`. |
 | Fevereiro de 2026 | [Dados de versão do sistema operacional e do dispositivo ausentes nos logs de rastreamento da Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema ao rastrear logs na Adobe Campaign Managed Cloud para mostrar apenas o dispositivo e a família de sistemas operacionais, e o produto não inclui campos para a versão do sistema operacional ou o modelo ou a versão do dispositivo. |
-| Fevereiro de 2026 | O botão [**[!UICONTROL Adicionar idioma ]**não aparece no construtor de emails da interface do usuário da Web do Campaign](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falta do botão **[!UICONTROL Adicionar idioma]** no construtor de email da interface do usuário da Web do Adobe Campaign v8 ao editar uma entrega de email. |
+| Fevereiro de 2026 | O botão [**[!UICONTROL Adicionar idioma &#x200B;]**&#x200B;não aparece no construtor de emails da interface do usuário da Web do Campaign](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falta do botão **[!UICONTROL Adicionar idioma]** no construtor de email da interface do usuário da Web do Adobe Campaign v8 ao editar uma entrega de email. |
 | Fevereiro de 2026 | [Limite de entrega para variantes de idioma no Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de uma entrega configurada com mais de 40 variantes de idioma no Adobe Campaign v8, para a qual não há suporte. |
 | Fevereiro de 2026 | [Falha na entrega por push durante a execução do fluxo de trabalho no Adobe Campaign Classic v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falha na entrega por push durante a execução do fluxo de trabalho no estágio de preparação de destino, pois tabelas temporárias de fluxo de trabalho são criadas no Postgres enquanto a preparação da entrega é executada em [!DNL Snowflake]. |
 | Fevereiro de 2026 | [Erros de autorização ao enviar entregas no Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema quando usuários não administradores recebem erros de autorização ao tentar enviar ou confirmar deliveries vinculados a uma campanha no Adobe Campaign v8, mesmo quando as permissões de pasta são atribuídas corretamente. |
@@ -454,7 +448,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* Documentação do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
@@ -520,7 +514,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 Para todas as informações sobre a versão:
 
-* [Versões de produto do Adobe [!DNL Workfront] ](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versões de produto do Adobe [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Visão geral da atividade de versão do Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
@@ -583,7 +577,7 @@ Veja os novos tutoriais publicados para a [!DNL Document Cloud], os quais inclue
 | Publicado | Aplicativo | Nome | Tipo | Descrição |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
 | Fevereiro de 2026 | Acrobat | [Acrobat Sign 101 - Introdução](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-sign-webinars/getstartedusers/getting-started){target="_blank"} | Vídeo | Aprenda os conceitos básicos do Acrobat Sign para começar a assinar documentos rapidamente. Vamos mostrar como: preparar e enviar seus documentos para assinatura eletrônica Exibir o que seus signatários veem Gerenciar e acompanhar o progresso dos contratos Criar sua própria assinatura e muito mais. |
-| Fevereiro de 2026 | Acrobat | [Usar a função de delegador](https://docs.adobe.com/content/help/pt-BR/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html) | Vídeo | Saiba como usar a função de delegador para enviar um documento a um intermediário que pode encaminhar o documento para assinatura. |
+| Fevereiro de 2026 | Acrobat | [Usar a função de delegador](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=pt-BR) | Vídeo | Saiba como usar a função de delegador para enviar um documento a um intermediário que pode encaminhar o documento para assinatura. |
 
 Para procurar tutoriais da [!DNL Document Cloud], consulte:
 
