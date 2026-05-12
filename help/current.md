@@ -1,6 +1,6 @@
 ---
 title: Notas de versão centrais
-description: Encontre links de notas de versão para todos os aplicativos da Adobe CX Enterprise (antigo Experience Cloud). Saiba mais sobre novos vídeos, eventos e localize recursos de autoajuda.
+description: Encontre links de notas de versão para todos os aplicativos da Adobe CX Enterprise (antiga Experience Cloud). Saiba mais sobre os novos vídeos e eventos, e encontre recursos de autoatendimento.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -9,32 +9,32 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 6909
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Notas de versão da Adobe CX Enterprise central
+# Notas de versão principais da Adobe CX Enterprise
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 Esta página ajuda a:
 
-* Localizar todos os links para as notas de versão específicas do aplicativo
-* Encontre as oportunidades de aprendizado mais recentes disponíveis no Experience League (site de ajuda CX Enterprise da Adobe)
+* Encontre todos os links para notas de versão específicas do aplicativo
+* Encontre as oportunidades de aprendizado mais recentes disponíveis na Experience League (site de ajuda da Adobe CX Enterprise)
 * Receber informações sobre novos eventos
 * Conferir os artigos de suporte mais recentes
 
-Última atualização: **23 de abril, 2026**
+Última atualização: **23 de abril de 2026**
 
-**Anúncio do Adobe CX Enterprise:** O Experience Cloud agora é o [Adobe CX Enterprise](https://business.adobe.com/br/). Você continuará a ver o _Experience Cloud_ na documentação do produto, cursos e vídeos até concluirmos as atualizações em todo o Experience League.
+**Anúncio da Adobe CX Enterprise:** a Experience Cloud se tornou a [Adobe CX Enterprise](https://business.adobe.com/pt/). O termo _Experience Cloud_ continuará sendo usado na documentação do produto, cursos e vídeos até concluirmos as atualizações em toda a Experience League.
 
 Nesta página:
 
 * [Webinários e eventos de aprendizado](#events)
-* [Interface e administração central do [!DNL Adobe CX Enterprise]](#ecloud)
-* [IA no CX Enterprise](#ai)
+* [Interface e administração central da [!DNL Adobe CX Enterprise]](#ecloud)
+* [IA na CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -66,26 +66,26 @@ Nesta página:
 
 Exiba a programação completa dos eventos [Próximos](https://experienceleague.adobe.com/pt-br/events){target="_blank"} e [sob demanda](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
-## Interface e administração central do [!DNL Adobe CX Enterprise] {#ecloud}
+## Interface e administração central da [!DNL Adobe CX Enterprise] {#ecloud}
 
 | Recurso | Data de lançamento | Descrição |
 | ------- | ------- | ------- |
-| Página inicial atualizada | 20 de abril de 2026 | Uma aparência atualizada da página inicial em `https://experience.adobe.com/home`. Com esta versão, toda a funcionalidade permanece a mesma, com a interface do usuário atualizada, suporte para o _modo escuro_ completo e acessibilidade aprimorada. |
+| Página inicial atualizada | 20 de abril de 2026 | Uma aparência atualizada da página inicial em `https://experience.adobe.com/home`. Nesta versão, todas as funcionalidades permanecem as mesmas, mas com uma interface atualizada, suporte para o _modo escuro_ completo e acessibilidade aprimorada. |
 
-Consulte [interface e administração do CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud){target="_blank"} para obter a documentação.
+Consulte [Interface e administração da CX Enterprise](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud){target="_blank"} para ver a documentação.
 
-## IA no CX Enterprise {#ai}
+## IA na CX Enterprise {#ai}
 
-Recursos de aprendizado novos e recentes publicados para IA no CX Enterprise.
+Encontre recursos de aprendizagem novos e recentes publicados sobre IA na CX Enterprise.
 
 | Produto | Recurso | Descrição | Atualizado |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise] | [Hub da IA](https://experienceleague.adobe.com/pt-br/ai-training){target="_blank"} | O hub de IA da Experience League ajuda os profissionais de marketing a desenvolver habilidades práticas de IA para o trabalho diário de marketing. Aprenda com colegas que estão enfrentando os mesmos desafios e descubra o que realmente está funcionando. | **15 de abril, 2026** |
+| [!DNL CX Enterprise] | [Hub de IA](https://experienceleague.adobe.com/pt-br/ai-training){target="_blank"} | O hub de IA da Experience League ajuda profissionais de marketing a desenvolver habilidades práticas de uso de IA para o trabalho diário de marketing. Aprenda com colegas que estão enfrentando os mesmos desafios e descubra o que realmente está funcionando. | **15 de abril de 2026** |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Saiba como o Adobe Marketing Agent para Microsoft 365 Copilot conecta a Experience Platform diretamente ao Microsoft 365 Copilot. | 6 de abril de 2026 |
 | [!DNL AEM CS] | [Servidor MCP do Cloud Manager](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Saiba como o servidor MCP do Cloud Manager permite que as ferramentas de IA interajam com o AEM as a Cloud Service para gerenciar programas, ambientes, repositórios e pipelines. | 6 de abril de 2026 |
 | [!DNL Acrobat Services] | [Analisador do Acrobat](https://experienceleague.adobe.com/pt-br/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore os webinários do Adobe Acrobat Analyzer para ver como a IA gerativa extrai insights estruturados e auditáveis de documentos para automatizar fluxos de trabalho, reduzir riscos e acelerar a tomada de decisões empresariais em escala. | 10 de março de 2026 |
-| [!DNL CX Enterprise] | [Agentes da Adobe Experience Platform para maior eficiência no marketing e melhores resultados comerciais](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Esta sessão exclusiva apresenta uma sessão de perguntas e respostas com Anjul Bhambhri, vice-presidente sênior do Adobe CX Enterprise. Descubra a jornada e a visão arrojada da Adobe para fornecer recursos inovadores de IA corporativa que capacitam profissionais de marketing e criação a automatizar etapas complexas, acelerar a tomada de decisões e expandir a capacidade de suas equipes sem comprometer o controle ou a supervisão. | 3 de março de 2026 |
-| [!DNL CX Enterprise] | [Consumo de créditos de AI e trabalhos do agente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Saiba mais sobre tarefas de agente e taxas de consumo de crédito de IA em aplicativos do CX Enterprise. | 3 de março de 2026 |
+| [!DNL CX Enterprise] | [Agentes da Adobe Experience Platform para maior eficiência no marketing e melhores resultados comerciais](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Esta reunião exclusiva apresenta uma sessão de perguntas e respostas com Anjul Bhambhri, vice-presidente sênior da Adobe CX Enterprise. Descubra a jornada e a visão arrojada da Adobe para fornecer recursos inovadores de IA corporativa que capacitam profissionais de marketing e criação a automatizar etapas complexas, acelerar a tomada de decisões e expandir a capacidade de suas equipes sem comprometer o controle ou a supervisão. | 3 de março de 2026 |
+| [!DNL CX Enterprise] | [Consumo de créditos de AI e trabalhos do agente](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Saiba mais sobre as tarefas do agente e taxas de consumo de crédito de IA em aplicativos da CX Enterprise. | 3 de março de 2026 |
 
 ## [!DNL Adobe System Status] {#status}
 
@@ -99,7 +99,7 @@ O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de s
 | **Assistente virtual de IA Beta** | <ul><li>O Assistente virtual ajuda os clientes do Status na web e em dispositivos móveis a realizar ações rápidas e a fornecer feedback. Ele funciona como um ponto único de contato para resolver todas as consultas.</li><li>Estamos adicionando recursos de IA ao Assistente virtual, permitindo um acesso conversacional mais rápido a informações de eventos e assinaturas.</li><li>O Beta com clientes está em andamento. Se você deseja participar, envie um email para [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
 | **Correções de erros e aprimoramentos** | <ul><li>Habilitar datas no nível de histórico para a API de eventos.</li><li>Correções de erros de acessibilidade.</li><li>Assinaturas do Marketo: os ambientes não estavam sendo agregados nos data centers, resultando em notificações perdidas.</li><li>O cabeçalho e o rodapé estavam fora do lugar na página do Status.</li><li>A manutenção agendada não exibia a manutenção mais próxima.</li><li>A API do Status não retornava as mesmas informações que a página web do Status para eventos descartados.</li><li>Quando a manutenção era encerrada após a data real de término, ela não era exibida corretamente na interface do Status.</li></ul> |
 
-Histórico das notas de versão:
+Histórico de notas de versão:
 
 * [dezembro de 2025](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
 * [Agosto de 2025](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
@@ -130,7 +130,7 @@ Veja as informações da versão mais recente, a nova documentação e os artigo
 
 **Mobile SDK – 3 de abril de 2026**
 
-* [Notas de versão do [!DNL Experience Platform] Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
+* [Notas de versão do SDK móvel da [!DNL Experience Platform]](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### Novos tutoriais do [!DNL Experience Platform]{#tutorials-aep}
 
@@ -244,7 +244,7 @@ Atualizado em: **outubro de 2025**
 
 25 de março de 2026
 
-* [Novidades no  [!DNL Advertising DSP]](https://experienceleague.adobe.com/pt-br/docs/advertising/dsp/home){target="_blank"}
+* [Novidades na  [!DNL Advertising DSP]](https://experienceleague.adobe.com/pt-br/docs/advertising/dsp/home){target="_blank"}
 
 ### Novos recursos no [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
@@ -326,7 +326,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Experience Man
 Obtenha acesso às notas de versão, novos tutoriais e artigos de suporte da knowledge base do [!DNL Adobe Commerce].
 
 * [Notas de versão para o  [!DNL Adobe Commerce]  e o  [!DNL Magento Open Source]](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Guias de serviços do Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home){target="_blank"}
+* [Guias de serviços do Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilidade do produto](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### Novos tutoriais para o [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -408,7 +408,7 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Campaign].
 | Fevereiro de 2026 | O relatório [Taxa de Transferência de Entrega[!UICONTROL do Adobe Campaign] mostra uma contagem processada mais alta](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de quando o [!UICONTROL relatório de Taxa de Transferência de Entrega] exibe valores processados ou enviados por hora mais altos que não se alinham com as métricas de sucesso mostradas no resumo da entrega. |
 | Fevereiro de 2026 | [[!UICONTROL Broadlog ID] não enviada para a Adobe Analytics através da integração do Campaign Managed Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema que ocorre quando o Adobe Campaign Managed Cloud não envia [!UICONTROL Broadlog IDs] para a Adobe Analytics ao usar o fluxo de trabalho padrão `webAnalyticsSendMetrics`. |
 | Fevereiro de 2026 | [Dados de versão do sistema operacional e do dispositivo ausentes nos logs de rastreamento da Adobe Campaign Managed Cloud](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema ao rastrear logs na Adobe Campaign Managed Cloud para mostrar apenas o dispositivo e a família de sistemas operacionais, e o produto não inclui campos para a versão do sistema operacional ou o modelo ou a versão do dispositivo. |
-| Fevereiro de 2026 | O botão [**[!UICONTROL Adicionar idioma &#x200B;]**&#x200B;não aparece no construtor de emails da interface do usuário da Web do Campaign](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falta do botão **[!UICONTROL Adicionar idioma]** no construtor de email da interface do usuário da Web do Adobe Campaign v8 ao editar uma entrega de email. |
+| Fevereiro de 2026 | O botão [**[!UICONTROL Adicionar idioma ]**não aparece no construtor de emails da interface do usuário da Web do Campaign](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falta do botão **[!UICONTROL Adicionar idioma]** no construtor de email da interface do usuário da Web do Adobe Campaign v8 ao editar uma entrega de email. |
 | Fevereiro de 2026 | [Limite de entrega para variantes de idioma no Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de uma entrega configurada com mais de 40 variantes de idioma no Adobe Campaign v8, para a qual não há suporte. |
 | Fevereiro de 2026 | [Falha na entrega por push durante a execução do fluxo de trabalho no Adobe Campaign Classic v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema de falha na entrega por push durante a execução do fluxo de trabalho no estágio de preparação de destino, pois tabelas temporárias de fluxo de trabalho são criadas no Postgres enquanto a preparação da entrega é executada em [!DNL Snowflake]. |
 | Fevereiro de 2026 | [Erros de autorização ao enviar entregas no Adobe Campaign v8](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Novo artigo | Saiba mais sobre as soluções para o problema quando usuários não administradores recebem erros de autorização ao tentar enviar ou confirmar deliveries vinculados a uma campanha no Adobe Campaign v8, mesmo quando as permissões de pasta são atribuídas corretamente. |
@@ -447,7 +447,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
@@ -456,7 +456,7 @@ Obtenha as informações da versão mais recente do [!DNL Journey Optimizer B2B 
 
 Versão mais recente: **2026.3 – 27 de março de 2026**
 
-* [Notas de versão do AJO B2B edition](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
+* [Notas de versão do AJO B2B Edition](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
 **Recursos B2B do AJO**
 
@@ -513,7 +513,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 Para todas as informações sobre a versão:
 
-* [Versões do Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versões do Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Visão geral da atividade de lançamento do Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
