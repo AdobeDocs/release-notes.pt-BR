@@ -6,7 +6,8 @@ last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 9c9be826f969072c37a2721d0a671e3bae033d16
 workflow-type: tm+mt
 source-wordcount: 5645
@@ -296,21 +297,21 @@ Novos artigos e atualizações de artigos já existentes do [!DNL Experience Man
 | Abril de 2026 | [Resolvendo longos tempos de fila e erros para **[!UICONTROL Criar Live Copy para trabalhos do Assets]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30207) | Novo artigo | Saiba mais sobre as soluções para o problema quando as operações **[!UICONTROL Criar Live Copy para Assets]** em Fragmentos de conteúdo no Adobe Experience Manager as a Cloud Service permanecem na fila mais tempo do que o esperado ou falham com erros, indicando que o fragmento de destino já existe. |
 | Abril de 2026 | [Diferenças nas permissões de publicação nos editores de Fragmento de conteúdo do AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30216) | Novo artigo | Saiba mais sobre as soluções para o problema ao remover a permissão `crx:replicate` remove a Publicação rápida para páginas, mas ainda mostra a ação Publicar para Fragmentos de conteúdo no novo Editor de fragmento de conteúdo. |
 | Abril de 2026 | [O vídeo do DAM não é reproduzido em dispositivos iOS devido a um perfil de codificação sem suporte](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30313) | Novo artigo | Saiba mais sobre as soluções para o problema que ocorre quando vídeos armazenados no DAM não são carregados ou reproduzidos em dispositivos iOS, pois o vídeo é codificado usando um nível de perfil [!DNL H.264] não compatível com o iOS. |
-| Abril de 2026 | O [**[!UICONTROL Siteadmin ]**da interface clássica está lento quando a fila de replicação cresce no AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | Novo artigo | Saiba mais sobre as soluções para o problema de quando o **[!UICONTROL Siteadmin da interface clássica]** fica lento quando uma instância de publicação está inacessível e sua fila de replicação cresce na instância de autor. |
+| Abril de 2026 | O [**[!UICONTROL Siteadmin &#x200B;]**&#x200B;da interface clássica está lento quando a fila de replicação cresce no AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | Novo artigo | Saiba mais sobre as soluções para o problema de quando o **[!UICONTROL Siteadmin da interface clássica]** fica lento quando uma instância de publicação está inacessível e sua fila de replicação cresce na instância de autor. |
 | Abril de 2026 | [Adobe Experience Manager: o Configuration Manager para no AEM Forms 6.5 LTS se o repositório de credenciais não estiver configurado](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30419) | Novo artigo | Saiba mais sobre as soluções para o problema ao instalar o AEM Forms 6.5 LTS Configuration Manager para na tela **[!UICONTROL Implantar arquivos AEM Forms EAR]** e exibir o erro *[!DNL JBOSS]que não ficou online.* |
 | Abril de 2026 | [O download de pacotes grandes do CRX expira no Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30325) | Novo artigo | Saiba mais sobre as soluções para o problema ao baixar pacotes grandes do CRX usando o **[!UICONTROL Gerenciador de Pacotes]**. Ele é executado em tempos limite de HTTP impostos pela plataforma e CDN que não podem ser aumentados. |
 | Abril de 2026 | [*501 Erro Não Implementado* com `projectedFields` no Dynamic Media [!DNL OpenAPI] search](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304) | Novo artigo | Saiba mais sobre as soluções para o problema ao usar a API de pesquisa de camada de entrega do Dynamic Media [!DNL OpenAPI] com `projectedFields` ou `facets` no corpo da solicitação retorna um *501 erro Não implementado*, pois o suporte do lado do servidor para esses recursos não está disponível. |
 | Abril de 2026 | [Falha na validação do pipeline devido à versão do AEM expirada no Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30301) | Novo artigo | Saiba mais sobre as soluções para o problema de falha na validação de pipeline no Adobe Experience Manager as a Cloud Service porque o pipeline está configurado com uma versão do AEM expirada. |
 | Abril de 2026 | [Parâmetros de consulta de marketing ausentes nas solicitações de back-end no AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333) | Novo artigo | Saiba mais sobre as soluções para o problema quando parâmetros de consulta de marketing como `utm_*`, `cid` e `bid` não estão disponíveis para servlets ou serviços de back-end porque o CDN remove esses parâmetros antes que as solicitações atinjam o dispatcher ou o AEM. |
 | Abril de 2026 | [Aplicando [!DNL Subresource Integrity] e restringindo o acesso direto aos scripts do Adobe RUM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30336) | Novo artigo | Saiba mais sobre as soluções para o problema que ocorre quando o script do Adobe [!DNL Real User Monitoring] (RUM) no Adobe Experience Manager as a Cloud Service expõe os detalhes do ambiente interno e permanece diretamente acessível do domínio do publicador, mesmo após habilitar uma configuração de domínio externo. |
-| Abril de 2026 | [**[!UICONTROL Exibir como Publicado ]**retorna 404 para páginas não publicadas no AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | Novo artigo | Saiba mais sobre as soluções para o problema ao usar o recurso **[!UICONTROL Exibir como Publicado]** para páginas que não estão publicadas no momento mostra um erro 404 quando a página tem um `offTime` definido no passado. |
+| Abril de 2026 | [**[!UICONTROL Exibir como Publicado &#x200B;]**&#x200B;retorna 404 para páginas não publicadas no AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | Novo artigo | Saiba mais sobre as soluções para o problema ao usar o recurso **[!UICONTROL Exibir como Publicado]** para páginas que não estão publicadas no momento mostra um erro 404 quando a página tem um `offTime` definido no passado. |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 Obtenha acesso às notas de versão, novos tutoriais e artigos de suporte da knowledge base do [!DNL Adobe Commerce].
 
 * [Notas de versão para o  [!DNL Adobe Commerce]  e o  [!DNL Magento Open Source]](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Guias de serviços do Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home){target="_blank"}
+* [Guias de serviços do Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilidade do produto](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### Novos tutoriais para o [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -422,7 +423,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Mais recursos para o [!DNL Journey Optimizer]
 
-* Documentação do [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* Documentação do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vídeos explicativos](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Documentação do gerenciamento de decisões](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Tutoriais em vídeo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Atualizações mais recentes da documentação](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
@@ -490,7 +491,7 @@ Saiba mais sobre as notas de versão mais recentes do [!DNL Adobe Workfront]. En
 
 Para todas as informações sobre a versão:
 
-* [Versões do Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versões do Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Visão geral da atividade de lançamento do Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/pt-br/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
