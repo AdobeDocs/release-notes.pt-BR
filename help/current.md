@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b50bb01766d8cfadeeed250b7fc0d5a6e5b084ed
+source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
 workflow-type: tm+mt
-source-wordcount: '6063'
+source-wordcount: '6066'
 ht-degree: 52%
 
 ---
@@ -19,7 +19,7 @@ Esta página ajuda a:
 * Saiba mais sobre os novos recursos de IA gerativa e IA agêntica no CX Enterprise
 * Encontre todos os links para notas de versão específicas do aplicativo
 * Encontre as oportunidades de aprendizado mais recentes disponíveis na Experience League (site de ajuda da Adobe CX Enterprise)
-* Receber informações sobre novos eventos
+* Receba informações sobre novos eventos no Experience League
 * Conferir os artigos de suporte mais recentes
 
 <!--
@@ -28,7 +28,7 @@ Esta página ajuda a:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Última atualização: **9 de junho de 2026**
+Última atualização: **10 de junho de 2026**
 
 ## Novidades
 
