@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
+source-git-commit: c2c033d86d985c059d1266f70568087b756605d5
 workflow-type: tm+mt
-source-wordcount: '6331'
+source-wordcount: '6383'
 ht-degree: 48%
 
 ---
@@ -28,7 +28,7 @@ Esta página ajuda a:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Última atualização: **10 de junho de 2026**
+Última atualização: **11 de junho de 2026**
 
 ## Novidades
 
@@ -84,6 +84,7 @@ Encontre recursos de aprendizado novos e recentes publicados para IA gerativa e 
 
 | Produto | Recurso | Descrição | Atualizado |
 | ------- | ------- | ------- | ------- |
+| CX Enterprise | [Catálogo de recursos do CX Enterprise Agentic AI](https://agentic-capability-explorer.entapp.adproto.com/) | Descubra quais trabalhos de IA de agente estão disponíveis nos aplicativos licenciados do CX Enterprise. Consulte [Consumo de créditos de AI e trabalhos do agente do Adobe Experience Platform](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/ai-credit-consumption) para obter mais informações. | **11 de junho de 2026** |
 | [!DNL CX Enterprise] | [Painéis de monitoramento de IA](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/monitoring){target="_blank"} | O CX Enterprise agora fornece painéis de controle para monitorar o uso de IA artificial em aplicativos existentes. Acompanhe a adoção, analise conversas e comentários e gerencie o consumo de crédito de IA para Agentes do Experience Platform acessados pelo Assistente de IA e outras superfícies de conversação. Visão geral, Usuários, Feedback e visualizações de Créditos de IA ajudam as partes interessadas do controle a orientar a adoção de dados. | **2 de junho de 2026** |
 | [!DNL CX Enterprise] - Experience League | [Hub de IA](https://experienceleague.adobe.com/pt-br/ai-training){target="_blank"} | O hub de IA da Experience League ajuda profissionais de marketing a desenvolver habilidades práticas de uso de IA para o trabalho diário de marketing. Aprenda com colegas que estão enfrentando os mesmos desafios e descubra o que realmente está funcionando. | 15 de abril de 2026 |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent para Microsoft 365 Copilot](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Saiba como o Adobe Marketing Agent para Microsoft 365 Copilot conecta a Experience Platform diretamente ao Microsoft 365 Copilot. | 6 de abril de 2026 |
