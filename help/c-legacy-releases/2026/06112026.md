@@ -89,9 +89,9 @@ Use esta tabela para saber mais sobre as atualizações destacadas dos aplicativ
 | [!DNL Adobe Commerce] | Em andamento | [Notas de versão do Adobe Commerce e Magento Open Source](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>Controle de herança da galeria de produtos da API REST no nível de visualização da loja</li><li>Mutação no clearCart do GraphQL</li><li>Mensagens de erro do GraphQL no applyGiftCardToCart aprimoradas</li><li>Mutação no clearWishlist do GraphQL</li><li>Mutação no exchangeExternalCustomerToken do GraphQL</li></ul> |
 | [!DNL Adobe Target] | 21 de maio de 2026 | Notas de versão da [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>URL de atividade incompleta na Visão geral da atividade</li><li>Formato de data não localizado nos relatórios de atividade</li><li>Não é possível salvar a atividade baseada em formulário com determinados caracteres GB18030 na localização</li><li>Calendário não localizado no fluxo Criar público-alvo</li></ul> |
 | Interface do usuário do [!DNL Adobe Campaign] Web | 29 de abril de 2026 | [Notas de versão da interface do Campaign Web](https://experienceleague.adobe.com/pt-br/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>Enriquecimento de dados na atividade de fluxo de trabalho Criar público-alvo</li><li>Criação de esquema</li><li>Temas no designer de email</li><li>Integração de modelos personalizados do Firefly e modelos de geração de imagens de terceiros</li><li>Atividade de entrega automatizada</li></ul> |
-| [!DNL Adobe Campaign] v8 | 11 de março de 2026 | Notas de versão do [[!DNL Campaign]  v8](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes?lang=pt-BR){target="_blank"} | <ul><li>Atualizações do Debian 13 e PostgreSQL 17</li><li>Correções de segurança e estabilidade</li></ul> |
+| [!DNL Adobe Campaign] v8 | 11 de março de 2026 | Notas de versão do [[!DNL Campaign]  v8](https://experienceleague.adobe.com/pt-br/docs/campaign/campaign-v8/releases/release-notes?lang=pt-BR){target="_blank"} | <ul><li>Atualizações do Debian 13 e PostgreSQL 17</li><li>Correções de segurança e estabilidade</li></ul> |
 | [!DNL Adobe Campaign Standard] | Fevereiro de 2026 (26.2) | Notas de versão da [[!DNL Campaign Standard] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Correções de segurança</li><li>Outras correções</li></ul> |
-| [!DNL Adobe Campaign Classic] v7 | Junho de 2026 | Notas de versão do [[!DNL Campaign Classic] &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release?lang=pt-BR){target="_blank"} | <ul><li>Atualizações de segurança (v7.4.3 build de junho)</li><li>Atualizações do Debian 13 e PostgreSQL 17</li></ul> |
+| [!DNL Adobe Campaign Classic] v7 | Junho de 2026 | Notas de versão do [[!DNL Campaign Classic] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/campaign-classic/using/release-notes/latest-release?lang=pt-BR){target="_blank"} | <ul><li>Atualizações de segurança (v7.4.3 build de junho)</li><li>Atualizações do Debian 13 e PostgreSQL 17</li></ul> |
 | [!DNL Adobe Journey Optimizer] | Junho de 2026 | Notas de versão do [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Assistente de IA para expressões de jornada (Beta público)</li><li>Conclusão automática para jornadas de Leitura de público-alvo não recorrentes</li><li>Autenticação personalizada com base em certificado em ações personalizadas</li><li>Simulação de jornada (disponibilidade limitada)</li><li>Fragmentos de jornada (disponibilidade limitada)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 22 de maio de 2026 | [Notas de versão do Journey Optimizer Edição B2B](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Páginas de destino</li><li>Formulários</li><li>Filtro Membro da lista de contas</li><li>Filtragem do histórico de eventos de experiência</li><li>Próximos nós de jornada de melhor caminho</li></ul> |
 | [!DNL Adobe Marketo Engage] | Maio de 2026 | [Notas de versão do Marketo Engage atual](https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo AI</li><li>Servidor MCP do Marketo Engage</li><li>Conteúdo condicional de designer de email para fragmentos de email</li><li>Gerenciamento de lista de seleção</li></ul> |
@@ -142,7 +142,7 @@ O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de s
 
 Histórico de notas de versão:
 
-* [dezembro de 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [dezembro de 2025](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
 * [Agosto de 2025](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
 * [Abril de 2025](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
 * [Agosto de 2024](https://experienceleague.adobe.com/pt-br/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
@@ -202,7 +202,7 @@ Publicação de tutoriais em vídeo novos ou atualizados para o Adobe Analytics.
 | Publicado | Nome | Tipo | Descrição |
 | ----------- | ---------- | ---------- | ---------- |
 | Março de 2026 | [Criar e gerenciar feeds de dados](https://experienceleague.adobe.com/pt-br/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui){target="_blank"} | Vídeo atualizado | Saiba como exportar dados de sequência de cliques brutos para serem importados e mesclados com outras fontes de dados em um EDW ou no data lake. Você pode criar e gerenciar os seus próprios feeds de dados no Adobe Analytics. |
-| Março de 2026 | [Encontrar a ID do feed de dados](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id#find-your-data-feed-id=open-the-data-feeds-interface){target="_blank"} | Slides | Às vezes, você pode precisar entrar em contato com a Adobe para obter informações sobre um arquivo de feed de dados. Pode ser conveniente que a equipe de suporte ao cliente lide com qualquer solicitação se a ID do feed de dados for fornecida pelo cliente. |
+| Março de 2026 | [Encontrar a ID do feed de dados](https://experienceleague.adobe.com/pt-br/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id#find-your-data-feed-id=open-the-data-feeds-interface){target="_blank"} | Slides | Às vezes, você pode precisar entrar em contato com a Adobe para obter informações sobre um arquivo de feed de dados. Pode ser conveniente que a equipe de suporte ao cliente lide com qualquer solicitação se a ID do feed de dados for fornecida pelo cliente. |
 
 <!--
 #### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -211,7 +211,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 | Published | Name | Type | Description |
 | --------- | -------- | --------- | --------- |
-| February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
+| February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
 -->
 
 ### [!DNL Adobe Customer Journey Analytics] {#cja}
@@ -237,8 +237,8 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 | Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| April 2026 | [Invalid `dataId` errors when creating segments using the CJA Segments API](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30373) | New article | Learn about the solutions to the issue when creating a segment using the Customer Journey Analytics Segments API fails when the request includes an invalid `dataId` or the `dataId` value is incorrect or inaccessible. |
-| April 2026 | [CJA **[!UICONTROL Alert Manager]** doesn't show all alerts](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30380) | New article | Learn about the solutions to the issue when only a subset of alerts appears in the CJA **[!UICONTROL Alert Manager]** because alert visibility depends on whether the user is a product admin. |
+| April 2026 | [Invalid `dataId` errors when creating segments using the CJA Segments API](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-30373) | New article | Learn about the solutions to the issue when creating a segment using the Customer Journey Analytics Segments API fails when the request includes an invalid `dataId` or the `dataId` value is incorrect or inaccessible. |
+| April 2026 | [CJA **[!UICONTROL Alert Manager]** doesn't show all alerts](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-30380) | New article | Learn about the solutions to the issue when only a subset of alerts appears in the CJA **[!UICONTROL Alert Manager]** because alert visibility depends on whether the user is a product admin. |
 -->
 
 ### [!DNL Adobe Experience Manager] {#aem}
@@ -339,8 +339,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| August 2025 | Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content){target="_blank"} | Video tutorial | Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience. |
-| August 2025 | Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity){target="_blank"} | Video tutorial | Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+| August 2025 | Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content){target="_blank"} | Video tutorial | Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience. |
+| August 2025 | Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/pt-br/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity){target="_blank"} | Video tutorial | Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
 -->
 
 #### Nova knowledge base de suporte do [!DNL Campaign]{#kb-campaign}
@@ -382,7 +382,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 | Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| January 2026 | [Audience qualification fails due to event timing and batch ingestion in AJO](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29796){target="_blank"} | New article | Learn about the solutions to the issue when audience qualification fails because events fall outside the evaluation window defined in the audience criteria in Adobe Journey Optimizer. |
+| January 2026 | [Audience qualification fails due to event timing and batch ingestion in AJO](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29796){target="_blank"} | New article | Learn about the solutions to the issue when audience qualification fails because events fall outside the evaluation window defined in the audience criteria in Adobe Journey Optimizer. |
 -->
 
 #### Mais recursos para o [!DNL Journey Optimizer]
@@ -424,7 +424,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
+| February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
 -->
 
 ### [!DNL Adobe Workfront] {#workfront}
@@ -444,12 +444,12 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| August 2025 | [Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27192){target="_blank"} | New article | Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible. |
-| August 2025 | [Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27251){target="_blank"} | New article | Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type. |
-| August 2025 | [Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27261){target="_blank"} | New article | Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project. |
-| August 2025 | [Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287){target="_blank"} | New article | Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections. |
-| August 2025 | [Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298){target="_blank"} | New article | Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows. |
-| August 2025 | [Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"} | New article | Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings. |
+| August 2025 | [Calendar appears blank when owner is deactivated in Workfront](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27192){target="_blank"} | New article | Learn about the solutions to the issue when the owner of a calendar is deactivated, the calendar becomes blank, and no tasks or events are visible. |
+| August 2025 | [Error appears when assigning resource managers in Workfront](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27251){target="_blank"} | New article | Learn about the solutions to the issue when the error *Only users with a plan license can be added as resource managers* occurs when attaching a project template that includes resource managers without the required license type. |
+| August 2025 | [Issue to project conversion grants home group "view" access by default in Workfront](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27261){target="_blank"} | New article | Learn about the solutions to the issue when converting an issue into a project using a template in Adobe Workfront, the creator's home group automatically receives view access to the resulting project. |
+| August 2025 | [Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27287){target="_blank"} | New article | Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections. |
+| August 2025 | [Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27298){target="_blank"} | New article | Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows. |
+| August 2025 | [Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/pt-br/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"} | New article | Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings. |
 -->
 
 Para obter a documentação mais recente do produto, consulte a página inicial da documentação da [Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/pt-br/docs/workfront/using/home){target="_blank"}.
@@ -466,7 +466,7 @@ Tutoriais em vídeo do GenStudio for Performance Marketing.
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/pt-br/browse/genstudio-for-performance-marketing){target="_blank"} (disponível 100% em autoatendimento)
 * [Documentação de produto](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} do GenStudio for Performance Marketing
-* Informações sobre o produto [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html)
+* Informações sobre o produto [GenStudio for Performance Marketing](https://business.adobe.com/br/products/genstudio-for-performance-marketing.html)
 
 ### [!DNL Adobe Pass] {#pass}
 
