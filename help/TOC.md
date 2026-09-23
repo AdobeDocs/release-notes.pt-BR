@@ -6,10 +6,10 @@ breadcrumb-title: Notas de versão centrais
 user-guide-description: Saiba mais sobre novos recursos, correções e avisos importantes sobre a Adobe Experience Cloud e a Experience Platform.
 user-guide-url: https://www.adobe.com
 color: red
-source-git-commit: 37d60912fd1ea9adb3c77bc9c7406f7236300c93
+source-git-commit: ad2cdb4ea1c447429bc2c4371233b79d4fc53a5e
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 94%
+ht-degree: 92%
 ---
 
 # Novidades da Adobe Experience Cloud {#experience-cloud}
@@ -18,7 +18,7 @@ ht-degree: 94%
 + {hide-from-toc}[Notas de versão do Adobe System Status](system-status-release-notes.md)
 + Notas de versão anteriores {#previous}
   + 2026 {#2026}
-    + [Agosto de 2025](c-legacy-releases/2026/08142026.md)
+    + [agosto de 2026](c-legacy-releases/2026/08142026.md)
     + [julho de 2026](c-legacy-releases/2026/07152026.md)
     + [Junho de 2026](c-legacy-releases/2026/06112026.md)
     + [Abril de 2026](c-legacy-releases/2026/04152026.md)
