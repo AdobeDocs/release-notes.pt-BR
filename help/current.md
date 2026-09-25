@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1922760b879f0c0ec86c42b4a938b23dba1c3341
+source-git-commit: cc67c372d836fad4f84ddc1516ab39ff2f340a04
 workflow-type: tm+mt
-source-wordcount: '21662'
+source-wordcount: '21482'
 ht-degree: 13%
 ---
 # Notas de versão centrais do [!DNL CX Enterprise] — setembro de 2026 {#top}
@@ -15,7 +15,7 @@ ht-degree: 13%
 Esta página ajuda a encontrar os mais recentes:
 
 * [Notas de versão](#application-release-notes) para todos os aplicativos [!DNL CX Enterprise] (atualizado em **21 de setembro**)
-* [Eventos e novidades](#events) no Experience League (atualizado em **8 de setembro**)
+* [Eventos e novidades](#events) no Experience League (atualizado em **23 de setembro**)
 * [[!DNL CX Enterprise Coworker] e recursos de aprendizado de IA](#ai)
 * [Tutoriais e artigos de suporte](#articles) disponíveis em [!DNL Experience League]
 
@@ -81,11 +81,7 @@ Saiba mais sobre as novas atualizações (e planejadas) para todos os aplicativo
 
 | Aplicativo | Data | Descrição | Detalhes |
 | ------- | ------- | ------- | ------- |
-| [!DNL Adobe Workfront] | 15 de setembro de 2026 | **Fazendo a mudança: Preparando-se para migrar para a Revisão e Aprovações Unificadas** — Saiba o que está mudando, onde as equipes geralmente encontram atrito e dicas práticas para ajudá-lo a se preparar para uma migração bem-sucedida. | [Registrar](https://events.teams.microsoft.com/event/58e114db-6cad-4d9e-811c-0891a521b1cd@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 16 de setembro de 2026 | **Adobe Insider Tour em Mineápolis** — Os participantes conhecerão as últimas inovações em [!DNL Analytics], [!DNL Marketo Measure] e [!DNL Workfront]. | [Registrar](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
-| [!DNL Experience Manager Assets], [!DNL Adobe Experience Manager] | 16 de setembro de 2026 | **O acesso certo para as equipes certas: criação de funções e fluxos de trabalho mais inteligentes no AEM Assets** — Parte 3 da série AEM: saiba como as permissões e os níveis de acesso melhoram a colaboração, fortalecem a governança, protegem os padrões da marca e criam um modelo operacional [!DNL AEM Assets] mais escalável. | [Registrar](https://events.teams.microsoft.com/event/41d4fa3f-672b-451a-8e85-8c9b5d22866f@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Workfront] | 23 de setembro de 2026 | **[!DNL Workfront]Fórum da quarta-feira do Fusion** — Elabore soluções do [!DNL Fusion] com seus colegas durante esta mesa redonda sem pauta. | [Registrar](https://events.teams.microsoft.com/event/6da30228-2bfc-4368-a81d-06398f9f2b40@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL CX Enterprise] | 23 de setembro de 2026 | **Adobe Digital Insights Presents: Índice de Pressão de Preços** — O Índice de Pressão de Preços fornece uma medida única de como os consumidores respondem à mudança de preços na economia digital. | [Registrar](https://events.teams.microsoft.com/event/9e9708a0-fa3b-4771-a16b-33f82da95062@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Coworker] | 24 de setembro de 2026 | **Experience League LIVE: [!DNL Coworker] Desbloqueado:** Transformando Fluxos de Trabalho com o Adobe CX Enterprise [!DNL Coworker] | [YouTube](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"} |
 | Geral | 29 de setembro de 2026 | **Comunidade dos Experience Maker Awards AMA \| Conselhos dos vencedores de prêmios** — Saiba por que a Adobe celebra os Experience Makers, o trabalho e o impacto que queremos reconhecer e como contar uma história que se destaque. | [Registrar](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 | [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | 30 de setembro de 2026 | **De Aprovado a Ativado: Potencializando o Marketing Omnichannel com o AEM Assets** — Parte 4 da série AEM: saiba como o [!DNL AEM Assets] ajuda a fornecer conteúdo aprovado em canais mais rapidamente, mantendo a consistência, a governança e o controle. | [Registrar](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 
@@ -95,8 +91,9 @@ Encontre os recursos de aprendizado mais recentes publicados para [!DNL Coworker
 
 | Aplicativo | Atualização | Descrição | Atualizado |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise Coworker] | **Supervisor de Conteúdo** | [Gerar ativos de marketing usando linguagem natural](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — saiba como o [!DNL Coworker] cria ativos de marca para seus canais em minutos. | 11 de setembro de 2026 |
-| [!DNL CX Enterprise Coworker] | **Supervisor de Conteúdo** | [Governança de marca em ação](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — veja como o [!DNL Coworker] integra as verificações de marca diretamente nos seus fluxos de trabalho de marketing. | 11 de setembro de 2026 |
+| [!DNL Coworker] | **Experience League LIVE** | [Colaborador Desbloqueado](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Transformando Fluxos de Trabalho com o Adobe CX Enterprise [!DNL Coworker] | 24 de setembro de 2026 |
+| [!DNL Coworker] | **Supervisor de Conteúdo** | [Gerar ativos de marketing usando linguagem natural](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — saiba como o [!DNL Coworker] cria ativos de marca para seus canais em minutos. | 11 de setembro de 2026 |
+| [!DNL Coworker] | **Supervisor de Conteúdo** | [Governança de marca em ação](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — veja como o [!DNL Coworker] integra as verificações de marca diretamente nos seus fluxos de trabalho de marketing. | 11 de setembro de 2026 |
 | [!DNL Adobe Target] | **Otimização** | [Experimentação com [!DNL Coworker]](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/optimization/target){target="_blank"} — saiba como o [!DNL Coworker] lê resultados, diagnostica variações perdedoras e testa durações em seus aplicativos Adobe. | 10 de setembro de 2026 |
 | [!DNL CX Enterprise Coworker] | **Habilidades** | [Execute uma habilidade do quality gate (portal de qualidade)](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/run-a-quality-gate-skill){target="_blank"} — saiba como uma habilidade personalizada valida ativações de público em relação a listas de supressão, limites de frequência e padrões de nomenclatura antes da implantação. | 9 de setembro de 2026 |
 | [!DNL CX Enterprise Coworker] | **Habilidades** | [Quais são as habilidades?](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills){target="_blank"} — saiba como os manuais reutilizáveis ajudam o [!DNL Coworker] a executar tarefas de orquestração de experiência do cliente de maneira consistente. | 26 de agosto de 2026 |
