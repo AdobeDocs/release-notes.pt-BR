@@ -12,7 +12,7 @@ ht-degree: 30%
 
 # Notas de versão do [!DNL Adobe System Status] {#status-release-notes}
 
-O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de status e notificações por email sobre produtos e serviços da Adobe. Receba notificações sobre interrupções, paralisações e eventos de manutenção. Confira em [status.adobe.com/br](https://status.adobe.com/){target="_blank"}.
+O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de status e notificações por email sobre produtos e serviços da Adobe. Receba notificações sobre interrupções, paralisações e eventos de manutenção. Confira em [status.adobe.com/br](https://status.adobe.com/pt-br/){target="_blank"}.
 
 Esta página acompanha [!DNL Adobe System Status] atualizações ao longo do tempo. Ele é atualizado somente quando há uma nova versão a relatar.
 
