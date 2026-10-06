@@ -2,22 +2,23 @@
 title: Notas de versão do Status do sistema da Adobe
 description: Histórico de versão do Status de sistema da Adobe (status.adobe.com).
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # Notas de versão do [!DNL Adobe System Status] {#status-release-notes}
 
-O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de status e notificações por email sobre produtos e serviços da Adobe. Receba notificações sobre interrupções, paralisações e eventos de manutenção. Confira em [status.adobe.com/br](https://status.adobe.com/pt-br/){target="_blank"}.
+O[!DNL Adobe System Status]fornece informações detalhadas, atualizações de status e notificações por email sobre produtos e serviços da Adobe. Receba notificações sobre interrupções, paralisações e eventos de manutenção. Confira em [status.adobe.com/br](https://status.adobe.com/){target="_blank"}.
 
 Esta página acompanha [!DNL Adobe System Status] atualizações ao longo do tempo. Ele é atualizado somente quando há uma nova versão a relatar.
 
 | Data | Atualizações |
 | ------- | ------- |
+| 1 de outubro de 2026 | <ul><li>Corrigida a seção Nuvem vazia quando você não tem assinaturas ou direitos e o **Meus Eventos** está ativado</li><li>Disponibilidade aprimorada com failover de origem do Akamai</li><li>Recuperação de perfil atualizada para usar o escopo de identidade necessário</li></ul> |
 | Março de 2026 | <ul><li>Assistente virtual de IA Beta</li><li>Correções de erros e aprimoramentos</li></ul> |
 | 8 de dezembro de 2025 | <ul><li>Aprimoramentos de feedback do assistente virtual (fluxos de trabalho guiados simplificados, ícones intuitivos)</li><li>Correções de erros e aprimoramentos</li></ul> |
 | 16 de julho de 2025 | <ul><li>Disponibilidade geral do assistente virtual</li><li>Pesquisa de ID de evento nas páginas Produto e Nuvem e no Assistente virtual</li><li>Atualização da configuração de notificações do Slack</li><li>Correções de erros e aprimoramentos</li></ul> |
